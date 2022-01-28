@@ -2,6 +2,8 @@
 
 ![](../../../.gitbook/assets/2201.jpg)
 
+## Version 2201.0 - 2022-01-28
+
 ### Added
 
 * Tag search in the machine library
