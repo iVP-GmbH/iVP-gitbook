@@ -25,6 +25,6 @@ Add graphics, screenshots, or other files to your request to complement the desc
 **Share with**  
 This field specifies with whom you want to share your request. It allows other key users to see your request and avoids duplication.
 
-<br />
+<br/>
 
 > **Please notice:** Since your inquiry must be approved by the project owner, always set this field to "Share with iVP Key Users". Otherwise, your request won't be visible.

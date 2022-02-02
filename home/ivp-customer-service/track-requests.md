@@ -1,12 +1,12 @@
 # Track a Feature Request's Status
 
-Each feature request is assigned a status that represents its current state. View a feature's status in the request list or the detailed view. Please read the section on [viewing requests](view-feature-requests.md) to learn more.
+A status is assigned to each feature request. You can see a feature's status in the request list or the detailed view. Please read the section on [viewing requests](view-feature-requests.md) to learn more.
 
-<br />
+<br/>
 
-> **Note:** Are you particularly interested in a proposal and would like to be kept up to date? Select the button with the bell in the detailed view to switch e-mail notifications on or off.
+> **Note:** Are you particularly interested in a feature and would like to be kept up to date? Select the button with the bell in the detailed view to switch e-mail notifications on or off.
 
-<br />
+<br/>
 
 A feature request can have the following states:
 

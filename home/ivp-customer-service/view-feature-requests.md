@@ -12,12 +12,14 @@ Here you will find all your requests.
 **Approvals**  
 This category only appears if you are a project owner. Here you will find all requests waiting for your approval. 
 
-**IVP Key User / All**  
+**iVP Key User / All**  
 Under these entries, you will find all collected requests. 
+
+<br/>
 
 After this selection, you will get to a list view of the corresponding requests. Here you can also search for requests or filter different parameters.  
 
-<br />
+<br/>
 
 ## View Request Details
 
