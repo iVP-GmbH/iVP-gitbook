@@ -15,11 +15,7 @@ This category only appears if you are a project owner. Here you will find all re
 **iVP Key User / All**  
 Under these entries, you will find all collected requests. 
 
-<br/>
-
 After this selection, you will get to a list view of the corresponding requests. Here you can also search for requests or filter different parameters.  
-
-<br/>
 
 ## View Request Details
 
