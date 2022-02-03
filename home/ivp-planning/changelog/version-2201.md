@@ -30,3 +30,22 @@
 
 * Performance improvements for machines in the Schuler library
 * Various other bugfixes and performance improvements
+
+## Version 2201.0.1 - 2022-02-04
+
+### Changed
+
+* Reduced application size
+* Reintroduced the reset camera position button in the 3D view
+
+### Fixed
+
+* Scale/Mirroring is not applied when loading a save file
+* Some CNC machines are not correctly loaded from legacy save files
+* Some CNC machine's customizations have wrong translations
+* The grid in the 2D view does not update correctly when zooming
+* The documentation can not be opened via Help > Documentation
+* Machines can not be placed inside a path
+* Pressing the confirm button when saving does not actually save the plan
+* Robot (with linear axis) changes it's position when it's mirrored
+* Locked machines are not visible in the 2D view when overhead view is enabled
