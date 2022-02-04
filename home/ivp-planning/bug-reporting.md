@@ -6,7 +6,7 @@ No software is perfect. However, we at iXtenda are doing our best to fix every b
 If the issue is severe (project crashes, freezes or similar) it could be that your local software installation is corrupted. To fix this problem or to verify that this is not the case, you can try to [repair your installation](../ivp-launcher/application-management/repair-installations.md) via the [iVP Launcher](../ivp-launcher/).
 {% endhint %}
 
-## Report a bug in iVP Planner:
+## Report a bug in iVP Planning:
 
 To report a bug, go to **Help -> Report a Bug** or **click on the warning triangle icon** in the top right corner of the iVP window.
 

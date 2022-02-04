@@ -1,24 +1,24 @@
-# View Feature Requests
+# Viewing Service Entries
 
 ## Navigate to the Request List
 
-To view inquiries in the [iVP CUstomer Service](README.md) portal, select the requests button in the top right corner. You can access various lists of inquiries via this button: 
+To view service entries in the [iVP CUstomer Service](README.md) portal, select the requests button in the top right corner. You can access various lists of inquiries there: 
 
 ![Find Requests](../../.gitbook/assets/ViewRequests_1.png)
 
 **Created by me**  
-Here you will find all your requests.  
+Here you will find all your feature requests and bug reports.  
 
 **Approvals**  
-This category only appears if you are a project owner. Here you will find all requests waiting for your approval. 
+This category only appears if you are a project owner. Here you will find all features waiting for your approval. 
 
 **iVP Key User / All**  
-Under these entries, you will find all collected requests. 
+Under these entries, you will find all collected requests and reports. 
 
-After this selection, you will get to a list view of the corresponding requests. Here you can also search for requests or filter different parameters.  
+After the selection, you will get to a list view of the corresponding entries. Here you can also search for inquiries or filter different parameters.  
 
 ## View Request Details
 
-With a click on the list entry, you can call up the content of the request. Here you can read the description, view attachments, or read and write comments. If the description and attachments are not immediately displayed, you can show them by clicking on "Show details". 
+With a click on the list item, you can call up the content of the service entry. Here you can read the description, view attachments, or read and write comments. If the description and attachments are not immediately displayed, you can show them by clicking on "Show details". 
 
 ![Request details](../../.gitbook/assets/ViewRequests_2.png)
