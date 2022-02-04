@@ -12,7 +12,7 @@ Welcome. This wiki was created to offer an overview of the different iVP applica
 
 ## The different applications:
 
-* [iVP Launcher](home/ivp-launcher/)
+* [iVP Hub](home/ivp-launcher/)
 * [iVP Planning](home/ivp-planning/)
 * [iVP Showroom](home/ivp-showroom.md)
 * [iVP Viewer](home/ivp-viewer.md)
