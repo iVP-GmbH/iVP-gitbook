@@ -93,7 +93,6 @@
       * [Graphic Settings](home/ivp-planning/settings/graphic-settings-panel.md)
       * [Input Manager](home/ivp-planning/settings/input-manager.md)
     * [Keyboard Shortcuts](home/ivp-planning/keyboard-shortcuts.md)
-    * [FAQ](home/ivp-planning/faq.md)
     * [Bug Reporting](home/ivp-planning/bug-reporting.md)
     * [Feature Requests](home/ivp-planning/feature-requests.md)
     * [Changelog](home/ivp-planning/changelog/README.md)
