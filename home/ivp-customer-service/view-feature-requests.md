@@ -2,7 +2,7 @@
 
 ## Navigate to the Request List
 
-To view inquiries in the [iVP CUstomer Service](README.md) portal, select the requests button in the top right corner. You can access various lists of inquiries via this button: 
+To view service entries in the [iVP CUstomer Service](README.md) portal, select the requests button in the top right corner. You can access various lists of inquiries there: 
 
 ![Find Requests](../../.gitbook/assets/ViewRequests_1.png)
 
@@ -19,6 +19,6 @@ After the selection, you will get to a list view of the corresponding entries. H
 
 ## View Request Details
 
-With a click on the list item, you can call up the content of the entry. Here you can read the description, view attachments, or read and write comments. If the description and attachments are not immediately displayed, you can show them by clicking on "Show details". 
+With a click on the list item, you can call up the content of the service entry. Here you can read the description, view attachments, or read and write comments. If the description and attachments are not immediately displayed, you can show them by clicking on "Show details". 
 
 ![Request details](../../.gitbook/assets/ViewRequests_2.png)
