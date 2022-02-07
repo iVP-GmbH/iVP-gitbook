@@ -48,9 +48,9 @@ Adding a description is mandatory.
 **Attachments**   
 Add attachments to your report to complement your description. For our developers, are the following files particularly helpful:
 - Log files
-- Memory files (.PLAN / .HFC)
+- Save files (.PLAN / .HFC)
 - Screenshots and videos
 
 **Share with**  
-This field specifies with whom you want to share your request. It allows other key users to see your request and avoids duplication.
+This field specifies with whom you want to share your request. It allows other key users to see your report and avoids duplication.
 

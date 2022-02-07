@@ -32,7 +32,7 @@ A bug report can have the following states:
 We have noted the issue. The priority of the error determines the waiting time until processing.
 
 **Won't Do**  
-We won't follow up on bugs with this status. Reasons could be duplications with other reports, or the issue occurred using a deprecated feature.
+We won't follow up on bugs with this status. Reasons could be duplications with other reports, or that the issue occurred using a deprecated feature.
 
 **Under Investigation**  
 Our developers are investigating the bug to identify the problem. Pay special attention to comments from developers when you see a report with this status. You might be able to help us.

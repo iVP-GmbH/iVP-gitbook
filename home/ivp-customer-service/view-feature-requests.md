@@ -2,7 +2,7 @@
 
 ## Navigate to the Request List
 
-To view service entries in the [iVP CUstomer Service](README.md) portal, select the requests button in the top right corner. You can access various lists of inquiries there: 
+To view service entries in the [iVP Customer Service](README.md) portal, select the requests button in the top right corner. You can access various lists of inquiries there: 
 
 ![Find Requests](../../.gitbook/assets/ViewRequests_1.png)
 
