@@ -49,3 +49,13 @@
 * Pressing the confirm button when saving does not actually save the plan
 * Robot (with linear axis) changes it's position when it's mirrored
 * Locked machines are not visible in the 2D view when overhead view is enabled
+
+## Version 2201.0.2 - 2022-02-17
+
+### Fixed
+
+* Visual representation of some machines
+* Visual representation of some UI elements
+* Some machines that should not be mirrored can be mirrored
+* Transformation values set in the properties panel are reverted when moving an object in 3D view directly after the modification
+* Objects do not save their parent object and position correctly under certain conditions
