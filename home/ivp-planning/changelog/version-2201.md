@@ -2,6 +2,36 @@
 
 ![](../../../.gitbook/assets/2201.jpg)
 
+## Version 2201.1 - 2022-03-17
+
+### Added
+
+* SAWTEQ B-300 (HXX 300) with customizations
+* SAWTEQ B-400 (HXX 400) with customizations
+* SAWTEQ B-100 as static model
+* SORTEQ R-300 (RKS 200)
+* DRILLTEQ H-308
+* DRILLTEQ H-310
+* ChainConveyor / Kettenförderer (THK 500)
+* CENTATEQ C-100 with customiztaions
+* TLF bridge as single model with length
+* Added alias functionality for SAWTEQ (HKL, HPP, HPL)
+
+### Fixed
+
+* Loading .hfc savefiles older than March 2021
+* Mirrored machine incorrectly loaded when parent is mirrored
+* Storage Good tab of Pallet Rack does not work anymore
+* Machines using MeshCombineStudio sometimes throw an Exception when loading
+* Textobject was not loaded properly
+* 2D and 3D visual are mirrored
+
+### Changed
+
+* Old SAWTEQ B-300 and B-400 are hidden now
+* Tablet has customizable displays
+* Single SORTBOT R-300 rack has customizable sizes
+
 ## Version 2201.0 - 2022-01-28
 
 ### Added
