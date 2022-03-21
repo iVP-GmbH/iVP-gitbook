@@ -62,6 +62,8 @@
 
 ## Version 2201.1 - 2022-03-17
 
+![](../../../.gitbook/assets/version-2201-1.png)
+
 ### Added
 
 * SAWTEQ B-300 (HXX 300) with customizations
