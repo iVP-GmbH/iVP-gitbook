@@ -1,6 +1,8 @@
 # Version 2203
 
-## Version 2203.0 - 2022-03-29
+![](../../../.gitbook/assets/version-2203.png)
+
+## Version 2203.0 - 2022-04-06
 
 ### Added
 
@@ -48,12 +50,14 @@
 
 * Path modules can now be placed everywhere on an edge instead of only next to a point
 * Path modules can now be moved on their edge
+* Path points dragged onto other path points are no longer removed
 * Improved path's visual appearance
 * Context menus now also work in 3D view
 * When a path is a marking, the area is now enabled by default
 * Increased 3D gizmo size
 * Updated database tags
 * Smart Hardware Set tablet display can now be customized and defaults to cutting plan
+* When multi copying a single object, the target position of the copies now take the object's rotation into account
 
 ### Fixed
 
@@ -61,4 +65,5 @@
 * Paths now show the correct visibility state when loaded
 * When inserting a point into a path, the new point is now always exactly on the line
 * When renaming a virtual camera in the camera list, it now correctly updates it's name in the hierarchy aswell
+* Selected objects now move into the correct direction when their parent is rotated and moved with them
 * Various minor bugfixes
