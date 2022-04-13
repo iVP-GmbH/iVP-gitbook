@@ -67,3 +67,17 @@
 * When renaming a virtual camera in the camera list, it now correctly updates it's name in the hierarchy aswell
 * Selected objects now move into the correct direction when their parent is rotated and moved with them
 * Various minor bugfixes
+
+## Version 2203.0.1 - 2022-04-13
+
+### Fixed
+
+* Copying and resizing a THK 500 or solid wood hall no longer breaks the 2D selection UI
+* The scale of folders is now applied correctly when resized in the 3D view
+* The size of the Bounding Box of the Load Carrier (Universal) now has the correct size in 2D view
+* Moving an object on one axis when all it's children are selected aswell does no longer sometimes move it in the wrong direction
+* Machines can no longer be accidentally moved when clicking certain screen positions when 2D & 3D view are tabs of the same panel
+* It's not possible anymore to accidentally select objects while rotating around an object
+* Camera speed setttings work again
+* Passthrough modules in fences & rooms now update their displayed upper edge height correctly when the fence/room height is changed
+* Labels of paths with only 2 points can be disabled again
