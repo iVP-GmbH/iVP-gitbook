@@ -81,3 +81,17 @@
 * Camera speed setttings work again
 * Passthrough modules in fences & rooms now update their displayed upper edge height correctly when the fence/room height is changed
 * Labels of paths with only 2 points can be disabled again
+
+## Version 2203.0.2 - 2022-04-21
+
+### Changed
+
+* While drawing a path only the last edge label is visible, so the UI is less cluttered
+
+### Fixed
+
+* Universal Load Carrier can once again be copied
+* Objects with child folders can once again be copied
+* Objects with multiple virtual cameras as children can once again be copied
+* Area labels of paths now correctly show "invalid" when the area is invalid and the label was toggled off and on again
+* Path drawing is no longer unexpectedly ended when clicking close to but not on the last point
