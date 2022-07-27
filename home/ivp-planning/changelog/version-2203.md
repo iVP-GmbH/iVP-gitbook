@@ -95,3 +95,19 @@
 * Objects with multiple virtual cameras as children can once again be copied
 * Area labels of paths now correctly show "invalid" when the area is invalid and the label was toggled off and on again
 * Path drawing is no longer unexpectedly ended when clicking close to but not on the last point
+
+## Version 2203.1 - 2022-07-27
+
+### Added
+
+* CENTATEQ N-210 with customizations
+* CENTATEQ N-510 with customizations
+* CENTATEQ P-100 with customizations
+
+### Fixed
+
+* VR support once again works
+* When loading hidden fences or rooms they are now correctly shown when setting them visible
+* Doors in rooms no longer disappear unexpectedly when modifying the rooms height
+* When inserting a point into a path with two points, all of the newly created edges now have a distance label
+* The tabs of the video and camera list windows now show the correct icons
