@@ -111,3 +111,27 @@
 * Doors in rooms no longer disappear unexpectedly when modifying the rooms height
 * When inserting a point into a path with two points, all of the newly created edges now have a distance label
 * The tabs of the video and camera list windows now show the correct icons
+
+## Version 2203.2 - 2022-08-31
+
+![](../../../.gitbook/assets/version-2203_2.png)
+
+### Added
+
+* FEEDTEQ C-500
+* STACKTEQ C-500
+* STORETEQ S-X00
+* SAWTEQ B-130 with customizations
+* SAWTEQ B-180
+* SAWTEQ B-200
+* HFE Panel Labeling System
+* HFE Panel Labeling System inside SAWTEQ B-300
+* Microinsert inside SAWTEQ B-300 HPL
+* LZ-400 flaker inside SAWTEQ B-320
+* Various customizations to SORTEQ R-200
+* Pit
+* Support for VIVE Focus 3 VR headset
+
+### Changed
+
+* Property panel now shows the same position as the machine pivot in the 3D view, not as in the 2D view anymore
