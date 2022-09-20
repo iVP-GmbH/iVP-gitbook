@@ -1,7 +1,7 @@
 # 3rd Party Licenses
 
 ## Azure Storage Services for Unity3d
-https://github.com/Unity3dAzure/StorageServices
+[https://github.com/Unity3dAzure/StorageServices](https://github.com/Unity3dAzure/StorageServices)
 
 The MIT License (MIT)
 
@@ -26,7 +26,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Dynamic Panels for Unity 3D
-https://github.com/yasirkula/UnityDynamicPanels
+[https://github.com/yasirkula/UnityDynamicPanels](https://github.com/yasirkula/UnityDynamicPanels)
 
 MIT License
 
@@ -51,7 +51,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## InputManager
-https://github.com/daemon3000/InputManager  
+[https://github.com/daemon3000/InputManager](https://github.com/daemon3000/InputManager)
 
 Distributed under the terms of an MIT-style license:
 
@@ -74,7 +74,7 @@ FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TOR
 ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Newtonsoft.Json for Unity
-https://github.com/jilleJr/Newtonsoft.Json-for-Unity  
+[https://github.com/jilleJr/Newtonsoft.Json-for-Unity](https://github.com/jilleJr/Newtonsoft.Json-for-Unity)
 
 The MIT License (MIT)
 
@@ -98,7 +98,7 @@ IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Unity Converters for Newtonsoft.Json
-https://github.com/jilleJr/Newtonsoft.Json-for-Unity.Converters  
+[https://github.com/jilleJr/Newtonsoft.Json-for-Unity.Converters](https://github.com/jilleJr/Newtonsoft.Json-for-Unity.Converters)
 
 The MIT License (MIT)
 
@@ -123,7 +123,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Oculus SDK
-https://developer.oculus.com/
+[https://developer.oculus.com](https://developer.oculus.com)
 
 Copyright © Facebook Technologies, LLC and its affiliates. All rights reserved.
 
@@ -259,7 +259,7 @@ Oculus and/or its affiliates makes certain Platform Services (defined below) ava
 7.4.10 If any provision of this dispute resolution provision is found unenforceable, that provision will be severed and the balance of the dispute resolution provision will remain in full force and effect.
 
 ## Realm
-https://github.com/realm/realm-dotnet
+[https://github.com/realm/realm-dotnet](https://github.com/realm/realm-dotnet)
 
                                  Apache License
                            Version 2.0, January 2004
@@ -439,7 +439,7 @@ https://github.com/realm/realm-dotnet
    END OF TERMS AND CONDITIONS
 
 ## REST Client for Unity
-https://github.com/Unity3dAzure/RESTClient
+[https://github.com/Unity3dAzure/RESTClient](https://github.com/Unity3dAzure/RESTClient)
 
 MIT License
 
@@ -464,7 +464,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Runtime Inspector & Hierarchy for Unity 3D
-https://github.com/yasirkula/UnityRuntimeInspector
+[https://github.com/yasirkula/UnityRuntimeInspector](https://github.com/yasirkula/UnityRuntimeInspector)
 
 MIT License
 
@@ -489,7 +489,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Runtime Scene Gizmo for Unity
-https://github.com/yasirkula/UnityRuntimeSceneGizmo
+[https://github.com/yasirkula/UnityRuntimeSceneGizmo](https://github.com/yasirkula/UnityRuntimeSceneGizmo)
 
 MIT License
 
@@ -514,7 +514,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Simple Expression Engine
-https://github.com/toptensoftware/SimpleExpressionEngine
+[https://github.com/toptensoftware/SimpleExpressionEngine](https://github.com/toptensoftware/SimpleExpressionEngine)
 
 Creative Commons Legal Code
 
@@ -639,7 +639,7 @@ express Statement of Purpose.
     this CC0 or use of the Work.
 
 ## Standalone File Browser
-https://github.com/gkngkc/UnityStandaloneFileBrowser
+[https://github.com/gkngkc/UnityStandaloneFileBrowser](https://github.com/gkngkc/UnityStandaloneFileBrowser)
 
 MIT License
 
@@ -664,7 +664,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Unity color wheel GUI element
-https://github.com/fkate/Unity_ColorWheel
+[https://github.com/fkate/Unity_ColorWheel](https://github.com/fkate/Unity_ColorWheel)
 
 Copyright (c) 2015, Felix Kate
 All rights reserved.
@@ -695,7 +695,7 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ## SVG - Material Design Icons
-https://github.com/Templarian/MaterialDesign-SVG
+[https://github.com/Templarian/MaterialDesign-SVG](https://github.com/Templarian/MaterialDesign-SVG)
 
 Pictogrammers Free License
 --------------------------
