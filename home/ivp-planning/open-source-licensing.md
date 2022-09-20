@@ -719,7 +719,7 @@ licenses or are distributed under the Apache 2.0 license.
 The MIT license applies to all non-font and non-icon files.
 
 ## Unity UI Extensions
-https://bitbucket.org/UnityUIExtensions/unity-ui-extensions
+[https://bitbucket.org/UnityUIExtensions/unity-ui-extensions](https://bitbucket.org/UnityUIExtensions/unity-ui-extensions)
 
 Unity UI Extensions License (BSD3)
 
