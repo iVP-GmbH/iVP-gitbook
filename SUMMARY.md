@@ -105,6 +105,8 @@
       * [Version 2105](home/ivp-planning/changelog/version-2105.md)
       * [Beta](home/ivp-planning/changelog/beta.md)
     * [3rd Party Licenses](home/ivp-planning/open-source-licensing.md)
+    * [Troubleshooting](home/ivp-planning/troubleshooting/troubleshooting.md)
+      * [Reset window layout](home/ivp-planning/troubleshooting/reset-window-layout.md)
   * [iVP Showroom](home/ivp-showroom.md)
   * [iVP Viewer](home/ivp-viewer.md)
   * [iVP CGI](home/ivp-cgi.md)
