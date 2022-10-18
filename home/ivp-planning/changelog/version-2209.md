@@ -33,3 +33,24 @@
 * Renaming machines from the properties window once again works
 * The bug reporting panel once again highlights empty mandatory fields when trying to send an invalid report
 * Various minor fixes on machines
+
+## Version 2209.1 - 2022-10-18
+
+### Added
+
+* New customization _Transport_ in measure station
+
+### Changed
+
+* Replaced SAWTEQ B-300 Robin with new SAWTEQ B-300 FlexTec (HPX 300) with many new customizations
+* Display terminal without gallow when only one module is enabled in switch cabinet
+* Removed deprecated version of belt conveyor TFB-261
+
+### Fixed
+
+* Modifying values of input fields in the customization panel no longer sometimes results in wrong values
+* The tag search once again displays the correct text for 'Filter by tag'
+* The scale of the 3D-volume scanner is now correct
+* The WALLTEQ M-310 is now correctly moved to it's rails when the rail length changes while animated
+* The PDF information of the SAWTEQ B-300 no longer clips into the floor
+* When switching language, the toggles displaying the currently selected language do now always update
