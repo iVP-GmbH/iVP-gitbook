@@ -29,9 +29,3 @@ Although you can choose the installation folder freely, we recommend you to use 
 From here, no action is needed. However, it is possible to pause the download if necessary.
 
 ![](../../../.gitbook/assets/iVP\_launcher\_downloading\_application\_pause\_stop.jpg)
-
-{% hint style="danger" %}
-When starting the iVP application for the first time after installation, it might be that a firewall of your operating system (e.g. the Windows Defender) will pop up and inform you that some features of the application have been blocked. In this case, **allow access** because all iVP applications require an internet connection to function.\
-\
-If you are setting up the application for someone else (e.g. for a colleague) you should start the application once to solve this issue so that the end user will not be irritated and possibly denies the required internet access.
-{% endhint %}

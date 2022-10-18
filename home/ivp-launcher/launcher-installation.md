@@ -28,10 +28,4 @@ Due to the technical structure of the VP Hub it is not possible to choose an ind
 
 ![](../../.gitbook/assets/iVP\_launcher\_installation\_launch\_after\_install.jpg)
 
-**7.** However you decide, the VP Hub is now installed and ready to use. You can now continue and [create an account](account-management/account-creation.md) or [log in](account-management/login.md) if you already have login credentials. After that, you will be ready to [download and use](application-management/install-applications.md) the different tools of the iVP software family. Enjoy!
-
-{% hint style="danger" %}
-When starting the hub for the first time, it might be that a firewall of your operating system (e.g. the Windows Defender) will pop up and inform you that some features of the hub have been blocked. In this case, **allow access** because the iVP Hub requires an internet connection to function.\
-\
-If you are setting up the hub for someone else (e.g. for a colleague) you should start the hub once to solve this issue so that the end user will not be irritated and possibly denies the required internet access.
-{% endhint %}
+**7.** However you decide, the iVP Hub is now installed and ready to use. You can now continue and [create an account](account-management/account-creation.md) or [log in](account-management/login.md) if you already have login credentials. After that, you will be ready to [download and use](application-management/install-applications.md) the different tools of the iVP software family. Enjoy!
