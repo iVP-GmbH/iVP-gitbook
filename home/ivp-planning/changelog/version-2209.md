@@ -54,3 +54,22 @@
 * The WALLTEQ M-310 is now correctly moved to it's rails when the rail length changes while animated
 * The PDF information of the SAWTEQ B-300 no longer clips into the floor
 * When switching language, the toggles displaying the currently selected language do now always update
+
+
+## Version 2209.2 - 2022-11-16
+
+### Added
+
+* Handling table
+* SORTBOT R-300 (RKS 300)
+* New customizations _Handling Table_, _Stacking Height_ & _Remote Control Cabinet_ in PAQTEQ C-250
+* New customizations _Terminal_ & _Control Cabinet_ in PAQTEQ S-200
+* New customization _Handling Table_ in DRILLTEQ C-300/500/600/800
+
+### Changed
+
+* Removed customization _Machine Orientation_ from SAWTEQ B-300 flexTec (HPX 300)
+
+### Fixed
+
+* When selecting a machine that has a tab menu in it's properties panel for the first time in a session, the tab menu is now displayed correctly
