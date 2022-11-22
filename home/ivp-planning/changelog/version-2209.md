@@ -73,3 +73,11 @@
 ### Fixed
 
 * When selecting a machine that has a tab menu in it's properties panel for the first time in a session, the tab menu is now displayed correctly
+
+## Version 2209.2.1 - 2022-11-23
+
+### Fixed
+
+* Saving files containing a PAQTEQ C-250 no longer fails
+* The position of the handling table in the DRILLTEQ C series is now correct
+* The DRILLTEQ C-100 can now be selected in the 2D & 3D view
