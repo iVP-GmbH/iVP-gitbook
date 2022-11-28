@@ -81,3 +81,15 @@
 * Saving files containing a PAQTEQ C-250 no longer fails
 * The position of the handling table in the DRILLTEQ C series is now correct
 * The DRILLTEQ C-100 can now be selected in the 2D & 3D view
+
+## Version 2209.2.2 - 2022-11-29
+
+### Changed
+
+* Restructured machine database in preparation for user management
+* Removed 30 day trial
+
+### Fixed
+
+* The material of the mirrors of the DRILLTEQ D-510 is no longer missing
+* The material in the CENTATEQ S-900 is no longer missing
