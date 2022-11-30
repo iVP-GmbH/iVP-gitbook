@@ -93,3 +93,16 @@
 
 * The material of the mirrors of the DRILLTEQ D-510 is no longer missing
 * The material in the CENTATEQ S-900 is no longer missing
+
+## Version 2209.2.3 - 2022-12-01
+
+### Added
+
+* There is now a loading indicator while the machine database is loading
+
+### Fixed
+
+* Hierarchy is now always preserved when loading a save file while the machine database has not yet finished loading
+* Markups can once again be used
+* The button for resetting all filters in the library panel once again works
+* The order of the categories in the libarary panel is now always correct
