@@ -25,4 +25,5 @@ To fix this, ensure you are using the correct Microsoft Account and try again.
 
 Should you not use a Microsoft-Account in your company, feel free to contact us by email or phone and we will help set up a working account for you.
 
+<br/>
 If neither of the above issues apply to you, feel free to contact us by email or phone.
