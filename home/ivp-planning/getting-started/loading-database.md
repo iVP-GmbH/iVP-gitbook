@@ -1,9 +1,3 @@
----
-description: >-
-  This tutorial explains how to load a machine database in iVP. If your IT
-  support did not already.
----
-
 # Importing Databases
 
 The 2D and 3D models used in iVP are stored in manufacturer-specific databases that can be used to alter iVPs extend.
