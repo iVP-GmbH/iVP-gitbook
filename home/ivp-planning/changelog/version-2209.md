@@ -106,3 +106,24 @@
 * Markups can once again be used
 * The button for resetting all filters in the library panel once again works
 * The order of the categories in the libarary panel is now always correct
+
+## Version 2209.3 - 2022-12-15
+
+### Added
+
+* New machine Robot (Universal)
+* New machine: Alignmentstation inclined
+* New machine: Alignmentstation roller conveyor
+* New machine: RKS 300 Shelf
+* DRILLTEQ Shelf-Trolley customization to Trolley (Universal)
+
+### Changed
+
+* Replaced the glue feed in the PAQTEQ F-200
+* Disabled deprecated robots in library
+
+### Fixed
+
+* The size of the volume scanner is now correct
+* The trays in the drawer handling now adjust to the size of the machine
+* The load of the Trolley (Universal) is no longer invisible when _Trolley 1_ is selected
