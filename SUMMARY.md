@@ -54,7 +54,7 @@
       * [Layers](home/ivp-planning/user-interface/layers.md)
       * [Path Panel](home/ivp-planning/user-interface/path-panel.md)
       * [The Floor Plan](home/ivp-planning/user-interface/the-floor-plan.md)
-      * [Project Info Overlay](home/ivp-planning/user-interface/project-info-overlay.md)
+      <!-- * [Project Info Overlay](home/ivp-planning/user-interface/project-info-overlay.md) -->
       * [Settings Panel](home/ivp-planning/user-interface/settings-panel.md)
       * [Camera List Panel](home/ivp-planning/user-interface/camera-list-panel.md)
       * [Virtual Camera Panel](home/ivp-planning/user-interface/virtual-camera-panel.md)

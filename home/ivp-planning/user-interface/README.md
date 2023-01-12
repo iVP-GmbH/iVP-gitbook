@@ -23,7 +23,7 @@ iVP offers many different features and tools. However it is possible to get to k
 * [Grid](the-grid.md)
 * [Floor plan](the-floor-plan.md)
 * [Layers](layers.md)
-* [Project info overlay](project-info-overlay.md)
+<!-- * [Project info overlay](project-info-overlay.md) -->
 * [Layouts](layouts.md)
 
 ## **Settings, changelog and license:**
