@@ -35,7 +35,6 @@
       * [Language Options](home/ivp-planning/getting-started/language-options.md)
       * [License](home/ivp-planning/getting-started/license.md)
       * [Graphic Settings](home/ivp-planning/getting-started/graphic-settings.md)
-      * [Importing Databases](home/ivp-planning/getting-started/loading-database.md)
       * [Saving Projects](home/ivp-planning/getting-started/saving-projects.md)
       * [Loading Projects](home/ivp-planning/getting-started/loading-projects.md)
       * [Moving The Camera](home/ivp-planning/getting-started/moving-the-camera.md)
