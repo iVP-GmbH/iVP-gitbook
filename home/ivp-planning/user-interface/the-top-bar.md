@@ -37,7 +37,6 @@ The text menu contains four submenus:
   * _**Snapping:**_ toggles the [snapping ](../machines/snapping.md)of machines and objects in the [2D-View](the-2d-panel.md)
   * _**Language:**_ [sets the language](../getting-started/language-options.md) of the software
   * _**Settings:**_ opens the [settings panel](settings-panel.md)
-  * _**License:**_ opens the [license manager panel](license-manager-panel.md)\
 
 * Help:
   * _**Report a bug:**_ opens the [bug report panel](../bug-reporting.md)
