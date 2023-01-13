@@ -30,7 +30,6 @@ The text menu contains four submenus:
     * _**Overhead View:**_ toggles between a "snapshot" view and a live view in the [2D-Panel](the-2d-panel.md)
     * _**Walls:**_ toggles the visibility of walls in the [3D-View](the-3d-panel.md)
     * _**Ceiling:**_ toggles the visibility of the ceiling in the [3D-View](the-3d-panel.md)
-    <!-- * _**Project Info:**_ toggles the visibility of the [project info](the-floor-plan.md#the-project-info) overlay in the [2D-View](the-2d-panel.md) -->
 
 
 * Settings:
