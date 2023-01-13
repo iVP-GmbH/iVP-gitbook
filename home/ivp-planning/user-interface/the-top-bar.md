@@ -12,7 +12,6 @@ The text menu contains four submenus:
   * _**New:**_ creates a new project
   * _**Open:**_ [loads a project](../getting-started/loading-projects.md)
   * _**Open autosave directory:**_ opens the autosave directory  
-  * _**Import Database:**_ adds a new database to iVP by [importing a database file](../getting-started/loading-database.md)
   * _**Save:**_ [saves the current project](../getting-started/saving-projects.md)
   * _**Save as:**_ [saves a copy of the current project](../getting-started/saving-projects.md)
   *   PDF:
