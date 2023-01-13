@@ -1,6 +1,6 @@
 # Saving Projects
 
-In iVP it is possible to save the current project, including [machines](../machines/first-steps-with-3d-object.md), [highlights](../machines/highlighting-objects.md) and the [floor plan](../user-interface/the-floor-plan.md) used. We would recommend to have a look at this ![](../../../.gitbook/assets/YouTube\_icon.png) [YouTube Tutorial ](https://youtu.be/MuLt94b64O8)for a quick introduction.
+In iVP it is possible to save the current project, including [machines](../machines/first-steps-with-3d-object.md), [highlights](../machines/highlighting-objects.md) and the [floor plan](../user-interface/the-floor-plan.md) used. We would recommend to have a look at this <img src="../../../.gitbook/assets/YouTube_icon.png" alt="" data-size="line"> [YouTube Tutorial ](https://youtu.be/MuLt94b64O8)for a quick introduction.
 
 ## Saving projects step by step:
 
@@ -15,7 +15,7 @@ It is also possible to use a [shortcut ](../settings/input-manager.md)to save th
 {% endhint %}
 
 {% hint style="warning" %}
-If you want to share a save file with colleagues or customers make sure they have access to all required [machine databases](loading-database.md). Machine and object models are not shipped with the save files themselves!
+If you want to share a save file with colleagues or customers make sure they have access to all required [machine databases](broken-reference). Machine and object models are not shipped with the save files themselves!
 {% endhint %}
 
 {% hint style="danger" %}

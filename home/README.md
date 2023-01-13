@@ -8,6 +8,6 @@ description: >-
 
 ![iVP Online User Manual](../.gitbook/assets/iVP\_online\_user\_manual.png)
 
-To give you a quick introduction and overview, you will find regular updates and tutorials on the ![](../.gitbook/assets/YouTube\_icon.png) [iVP YouTube Channel.](https://youtube.com/playlist?list=PLlzoGkRUR67houzn5F5ejD3R-kQrDcps5)
+To give you a quick introduction and overview, you will find regular updates and tutorials on the <img src="../.gitbook/assets/YouTube_icon.png" alt="" data-size="line"> [iVP YouTube Channel.](https://youtube.com/playlist?list=PLlzoGkRUR67houzn5F5ejD3R-kQrDcps5)
 
 If you have technical problems with iVP, please contact our support team at info@i-xt.com
