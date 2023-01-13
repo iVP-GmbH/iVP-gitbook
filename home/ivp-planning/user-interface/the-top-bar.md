@@ -44,13 +44,13 @@ The text menu contains four submenus:
   * _**Hierarchy:**_ opens the [hierarchy panel](the-machine-list.md), opened and docked by default
   * _**Library:**_ opens the [library panel](machine-database-panel.md), opened and docked by default
   * _**Properties:**_ opens the [properties panel](the-info-panel.md), opened and docked by default
-  * _**Camera List:**_ opens the [camera list panel](license-manager-panel.md)
-  * _**Video:**_ opens the [video panel](license-manager-panel.md)
-  * _**Settings:**_ opens the [settings panel](license-manager-panel.md)
+  * _**Camera List:**_ opens the [camera list panel](camera-list-panel.md)
+  * _**Video:**_ opens the [video panel](virtual-camera-panel.md)
+  * _**Settings:**_ opens the [settings panel](settings-panel.md)
   * _**Markups:**_ opens the [Markups panel](../advanced-tools/markup-tool.md)
 
 * Help:
-  * _**Report a bug:**_ opens the [bug report panel](../bug-reporting.md)
+  * _**Report a bug:**_ opens the [bug report dialog](../bug-reporting.md)
   * _**Documentation:**_ opens the [main page](../../) of this documentation
   * _**About:**_ opens the [changelog panel](changelog-panel.md)
 
