@@ -14,6 +14,7 @@ iVP offers many different features and tools. However it is possible to get to k
 ## **Tool-related panels:**
 
 * [Path panel](path-panel.md)
+* [Markups Panel](markup)
 * [Camera list panel](camera-list-panel.md)
 * [Virtual camera panel](virtual-camera-panel.md)
 
