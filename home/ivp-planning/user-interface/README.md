@@ -1,6 +1,6 @@
 # User Interface
 
-iVP offers many different features and tools. However it is possible to get to know the user interface in a couple of minutes. We would also recommend to have a look at this <img src="../../../.gitbook/assets/YouTube_icon.png" alt="" data-size="line"> [YouTube Tutorial](https://youtu.be/rOhrSOeMr8Q) to an even easier introduction.
+iVP offers many different features and tools. However it is possible to get to know the user interface in a couple of minutes. We would also recommend to have a look at this [<img src="../../../.gitbook/assets/YouTube_icon.png" alt="" data-size="line"> YouTube Tutorial](https://youtu.be/rOhrSOeMr8Q) to an even easier introduction.
 
 ## **Main interface:**
 
