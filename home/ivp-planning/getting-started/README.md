@@ -3,7 +3,7 @@
 On this page you will find a list of links that will help you to get started with iVP Planning, its setup, functions and principles.
 
 {% hint style="info" %}
-For better understanding and training we created a <img src="../../../.gitbook/assets/YouTube_icon.png" alt="" data-size="line"> [iVP YouTube Channel](https://youtube.com/playlist?list=PLlzoGkRUR67houzn5F5ejD3R-kQrDcps5) where you can find tutorials as well as documentations for latest updates and features.
+For better understanding and training we created a [<img src="../../../.gitbook/assets/YouTube_icon.png" alt="" data-size="line"> iVP YouTube Channel](https://www.youtube.com/playlist?list=PLlzoGkRUR67houzn5F5ejD3R-kQrDcps5) where you can find tutorials as well as documentations for latest updates and features.
 {% endhint %}
 
 **1.** Activation and installation:
