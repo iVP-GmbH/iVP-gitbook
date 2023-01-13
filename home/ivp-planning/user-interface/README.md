@@ -22,7 +22,6 @@ iVP offers many different features and tools. However it is possible to get to k
 * [Coordinate system](coordinate-system.md)
 * [Grid](the-grid.md)
 * [Floor plan](the-floor-plan.md)
-* [Layers](layers.md)
 * [Project info overlay](project-info-overlay.md)
 * [Layouts](layouts.md)
 
