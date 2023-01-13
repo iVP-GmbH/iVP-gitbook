@@ -51,7 +51,7 @@ The text menu contains four submenus:
 * Help:
   * _**Report a bug:**_ opens the [bug report dialog](../bug-reporting.md)
   * _**Documentation:**_ opens the [main page](../../) of this documentation
-  * _**About:**_ opens the [changelog panel](changelog-panel.md)
+  * _**About:**_ opens the [about dialog](changelog-panel.md)
 
 ## Icons:
 
@@ -60,4 +60,4 @@ The text menu contains four submenus:
 | ![](../../../.gitbook/assets/iVP\_menu\_bar\_layouts.jpg)                      | Opens a small submenu that lets you choose a [window layout](layouts.md) |
 | ![](../../../.gitbook/assets/iVP\_menu\_error\_reporting.jpg)                  | Opens the [bug report panel](../bug-reporting.md)                        |
 | ![](../../../.gitbook/assets/iVP\_menu\_bar\_help\_faq\_documentation.jpg)     | Opens the [main page](../../) of this documentation                      |
-| ![](../../../.gitbook/assets/iVP\_menu\_bar\_more\_information.jpg)            | Opens the about panel, containing the [changelog](/changelog-panel.md) and the [3rd Party Licenses](../open-source-licensing.md)                        |
+| ![](../../../.gitbook/assets/iVP\_menu\_bar\_more\_information.jpg)            | Opens the about dialog, containing the [changelog](/changelog-panel.md) and the [3rd Party Licenses](../open-source-licensing.md)                        |
