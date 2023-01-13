@@ -47,7 +47,6 @@ The text menu contains four submenus:
   * _**Camera List:**_ opens the [camera list panel](camera-list-panel.md)
   * _**Video:**_ opens the [video panel](virtual-camera-panel.md)
   * _**Settings:**_ opens the [settings panel](settings-panel.md)
-  * _**Markups:**_ opens the [Markups panel](../advanced-tools/markup-tool.md)
 
 * Help:
   * _**Report a bug:**_ opens the [bug report dialog](../bug-reporting.md)
