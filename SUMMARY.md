@@ -53,6 +53,7 @@
       * [Layers](home/ivp-planning/user-interface/layers.md)
       * [Path Panel](home/ivp-planning/user-interface/path-panel.md)
       * [Markups Panel](home/ivp-planning/advanced-tools/markups-panel.md)
+      * [Conversation Panel](home/ivp-planning/user-interface/conversation-panel.md)
       * [The Floor Plan](home/ivp-planning/user-interface/the-floor-plan.md)
       * [Project Info Overlay](home/ivp-planning/user-interface/project-info-overlay.md)
       * [Settings Panel](home/ivp-planning/user-interface/settings-panel.md)
