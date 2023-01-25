@@ -31,19 +31,17 @@ After placing a markup, the [properties panel](../user-interface/the-info-panel.
 
 ## The default fields:
 
-* _**Name:**_ the name of the object which [can be changed](../the-tree-view/renaming-objects-and-folders.md) at any time
-* _**ID:**_ the unique ID of the object which is generated when the markup is [placed](../machines/first-steps-with-3d-object.md) in the [2D-](../user-interface/the-2d-panel.md) or [3D-panel](../user-interface/the-3d-panel.md); the ID is unchangeable 
-* _**Author:**_ the author of the markup, per default "Planner"; this information is unchangeable and independent from the object name
-* _**Created:**_ exact time and date when the markup was created; this information is unchangeable
-* _**Transform:**_ the panel containing information of the markup regarding
-
+* Default: the general information of a markup regarding
+    * _**Name:**_ the name of the object which [can be changed](../the-tree-view/renaming-objects-and-folders.md) at any time
+    * _**ID:**_ the unique ID of the object which is generated when the markup is [placed](../machines/first-steps-with-3d-object.md) in the [2D-](../user-interface/the-2d-panel.md) or [3D-panel](../user-interface/the-3d-panel.md); the ID is unchangeable 
+    * _**Author:**_ the author of the markup, per default "Planner"; this information is unchangeable and independent from the object name
+    * _**Created:**_ exact time and date when the markup was created; this information is unchangeable
+* Transform: the panel containing information of the markup regarding
     * _**Dimensions:**_ the dimensions of the object; this information is only changeable by changing the [scale](../machines/scale-objects.md)
     * _**Position:**_ the position of the object, changing this will [move the object](../machines/move-objects#moving-objects-via-the-info-panel.md)
     * _**Scale:**_ the [scale](../machines/scale-objects.md) of the object; use with caution!
     * _**Rotation:**_ the [rotation](../machines/scale-and-rotate-objects.md) of the object
-
-* _**Markup:**_ the panel containing information about the markup regarding
-   
+* Markup: the panel containing information about the markup regarding
     * _**Priority:**_ a Priority can be set for each individual markup, which helps with sorting markups in the [markups panel](../ivp-planning/user-interface/markups-panel.md) and works great if combined with [recoloring](../machines/highlighting-objects.md)
         * _**Low:**_ set the priority of the selected markup to low
         * _**Medium:**_ Set the priority of the selected markup to medium (default)
@@ -68,7 +66,7 @@ In addition to the description of a markup, it is possible to **add information 
 |
 | ![](../../../.gitbook/assets/conversation\_panel\_create\_screenshot.jpg)         | replaces the [3d-view](..user-interface/the-3d-panel.md) with a panel that lets you [take and edit screenshots](/markup-tool.md#taking-a-screenshot-in-conversations)
 |
-| ![](../../../.gitbook/assets/conversation\_panel\_delete.jpg)                     | after sending a text it will be shown like in a chat with date/time of the text and who posted it; to delete a text, click the small bin icon
+| ![](../../../.gitbook/assets/conversation\_panel\_text.jpg)                     | after sending a text it will be shown like in a chat with date/time of the text and who posted it; to delete a text, click the small bin icon
 |
 | ![](../../../.gitbook/assets/conversation\_panel\_screenshot.jpg)                 | after [creating a screenshot](#taking-a-screenshot-in-conversations) it will be shown with the date and time it was posted; to delete a screenshot from the conversation, click the small bin icon
 |
@@ -95,7 +93,7 @@ When you are ready to take the screenshot, you have the option to confirm or can
 |
 | ![](../../../.gitbook/assets/markup\_screenshot\_panel\_brush.jpg)        | use a brush to scribble directly onto the screenshot; change the size of the brush by clicking the small triangle in the corner 
 |
-| ![](../../../.gitbook/assets/markup\_screenshot\_panel\eraser.jpg)        | use a eraser to delete scribbles on the screenshot; change the size of the eraser by clicking the small triangle in the corner
+| ![](../../../.gitbook/assets/markup\_screenshot\_panel\_eraser.jpg)        | use a eraser to delete scribbles on the screenshot; change the size of the eraser by clicking the small triangle in the corner
 |
 | ![](../../../.gitbook/assets/markup\_screenshot\_panel\_clear.jpg)        | delete all scribbles on the screenshot; does not delete the screenshot itself!
 |

@@ -1,6 +1,7 @@
 # Path Panel
 
 The conversation panel contains all text entries and screenshots and made by users using the [markup tool](../user-interface/markup_tool#conversation-with-Markups).
+
 ![](../../../.gitbook/assets/conversation\_panel.jpg)
 
 ## Opening the panel:
