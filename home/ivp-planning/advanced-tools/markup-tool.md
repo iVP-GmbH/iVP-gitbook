@@ -62,15 +62,15 @@ In addition to the description of a markup, it is possible to **add information 
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | ![](../../../.gitbook/assets/conversation\_panel\_reply.jpg)                      | Input field for text to be shown in the conversation below
 |
-| ![](../../../.gitbook/assets/conversation\_panel\_send\_text.jpg)                 | sends text to be shown in conversation below (alternativly press **Enter** in the input field ) 
+| ![](../../../.gitbook/assets/conversation\_panel\_send\_text.jpg)                 | Sends text to be shown in conversation below (alternativly press **Enter** in the input field ) 
 |
-| ![](../../../.gitbook/assets/conversation\_panel\_create\_screenshot.jpg)         | replaces the [3d-view](..user-interface/the-3d-panel.md) with a panel that lets you [take and edit screenshots](/markup-tool.md#taking-a-screenshot-in-conversations)
+| ![](../../../.gitbook/assets/conversation\_panel\_create\_screenshot.jpg)         | Replaces the [3d-view](..user-interface/the-3d-panel.md) with a panel that lets you [take and edit screenshots](/markup-tool.md#taking-a-screenshot-in-conversations)
 |
-| ![](../../../.gitbook/assets/conversation\_panel\_text.jpg)                     | after sending a text it will be shown like in a chat with date/time of the text and who posted it; to delete a text, click the small bin icon
+| ![](../../../.gitbook/assets/conversation\_panel\_text.jpg)                       | After sending a text it will be shown like in a chat with date/time of the text and who posted it; to delete a text, click the small bin icon
 |
-| ![](../../../.gitbook/assets/conversation\_panel\_screenshot.jpg)                 | after [creating a screenshot](#taking-a-screenshot-in-conversations) it will be shown with the date and time it was posted; to delete a screenshot from the conversation, click the small bin icon
+| ![](../../../.gitbook/assets/conversation\_panel\_screenshot.jpg)                 | After [creating a screenshot](#taking-a-screenshot-in-conversations) it will be shown with the date and time it was posted; to delete a screenshot from the conversation, click the small bin icon
 |
-| ![](../../../.gitbook/assets/conversation\_panel\_screenshot\_reply.jpg)          | reopens the panel to [create a screenshot](#taking-a-screenshot-in-conversations) and will post a new screenshot in the conversation after confirming
+| ![](../../../.gitbook/assets/conversation\_panel\_screenshot\_reply.jpg)          | Reopens the panel to [create a screenshot](#taking-a-screenshot-in-conversations) and will post a new screenshot in the conversation after confirming
 |
 
 ## Taking a screenshot in Conversations
@@ -87,17 +87,18 @@ When you are ready to take the screenshot, you have the option to confirm or can
 
 ![](../../../.gitbook/assets/markup\_screenshot\_panel\marking\_bar.jpg)
 
-|                                                                           |                                                                                                                                                                                                                                                                                                              |
-| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![](../../../.gitbook/assets/markup\_screenshot\_panel\_color.jpg)        | change the color of the brush
+|                                                                           |
 |
-| ![](../../../.gitbook/assets/markup\_screenshot\_panel\_brush.jpg)        | use a brush to scribble directly onto the screenshot; change the size of the brush by clicking the small triangle in the corner 
+| ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](../../../.gitbook/assets/markup\_screenshot\_panel\_color.jpg)        | Change the color of the brush
 |
-| ![](../../../.gitbook/assets/markup\_screenshot\_panel\_eraser.jpg)        | use a eraser to delete scribbles on the screenshot; change the size of the eraser by clicking the small triangle in the corner
+| ![](../../../.gitbook/assets/markup\_screenshot\_panel\_brush.jpg)        | Use a brush to scribble directly onto the screenshot; change the size of the brush by clicking the small triangle in the corner 
 |
-| ![](../../../.gitbook/assets/markup\_screenshot\_panel\_clear.jpg)        | delete all scribbles on the screenshot; does not delete the screenshot itself!
+| ![](../../../.gitbook/assets/markup\_screenshot\_panel\_eraser.jpg)       | Use a eraser to delete scribbles on the screenshot; change the size of the eraser by clicking the small triangle in the corner
 |
-| ![](../../../.gitbook/assets/markup\_screenshot\_panel\_undo.jpg)         | undo the last action (painting or erasing), or redo the last action
+| ![](../../../.gitbook/assets/markup\_screenshot\_panel\_clear.jpg)        | Delete all scribbles on the screenshot; does not delete the screenshot itself!
 |
-| ![](../../../.gitbook/assets/markup\_screenshot\_panel\_confirm.jpg)      | confirm the screenshot and send it to the conversation, or cancel the screenshot 
+| ![](../../../.gitbook/assets/markup\_screenshot\_panel\_undo.jpg)         | Undo the last action (painting or erasing), or redo the last action
+|
+| ![](../../../.gitbook/assets/markup\_screenshot\_panel\_confirm.jpg)      | Confirm the screenshot and send it to the conversation, or cancel the screenshot 
 |
