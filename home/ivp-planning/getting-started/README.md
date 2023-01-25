@@ -3,7 +3,7 @@
 On this page you will find a list of links that will help you to get started with iVP Planning, its setup, functions and principles.
 
 {% hint style="info" %}
-For better understanding and training we created a ![](../../../.gitbook/assets/YouTube\_icon.png) [iVP YouTube Channel](https://youtube.com/playlist?list=PLlzoGkRUR67houzn5F5ejD3R-kQrDcps5) where you can find tutorials as well as documentations for latest updates and features.
+For better understanding and training we created a [<img src="../../../.gitbook/assets/YouTube_icon.png" alt="" data-size="line"> iVP YouTube Channel](https://www.youtube.com/playlist?list=PLlzoGkRUR67houzn5F5ejD3R-kQrDcps5) where you can find tutorials as well as documentations for latest updates and features.
 {% endhint %}
 
 **1.** Activation and installation:
@@ -25,7 +25,7 @@ For better understanding and training we created a ![](../../../.gitbook/assets/
 
 **4.** Objects and object interactions:
 
-* [Importing databases](loading-database.md)
+* [Importing databases](broken-reference)
 * [Object interaction](../machines/)
 
 **5.** Saving and loading projects:
@@ -43,8 +43,6 @@ For better understanding and training we created a ![](../../../.gitbook/assets/
 
 * [Advanced tools](../advanced-tools/)
 * [The input manager](../settings/input-manager.md) (custom shortcuts)
-
-
 
 {% hint style="info" %}
 If you cannot find something in the documentation or have any questions, send an email to [info@i-vp.dev](mailto:info@i-vp.dev) or ask us directly at [Indeed](https://www.linkedin.com/company/ivp-intelligent-virtual-platform/), [Facebook](https://www.facebook.com/pg/intelligentVirtualPlatform/) or [Twitter](https://twitter.com/iVPsoftware).
