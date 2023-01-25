@@ -20,7 +20,3 @@ The [floor plan](the-floor-plan.md) - the virtual room or factory hall in which 
 ## PDFs as floor plan:
 
 It is possible to use a PDF as floor plan by [importing it](../getting-started/importing-pdfs.md). If the project already contains a PDF, it is possible to toggle its [visibility ](../getting-started/pdf-visibility.md)or [delete ](../getting-started/delete-pdfs.md)it. It can be replaced by [importing ](../getting-started/importing-pdfs.md)another PDF.
-
-## Project info overlay:
-
-If desired, iVP can display a [project info overlay](project-info-overlay.md) that will also be visible on exported PDFs. To toggle its visibility click on **View -> Project Info**.

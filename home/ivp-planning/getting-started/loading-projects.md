@@ -1,6 +1,6 @@
 # Loading Projects
 
-In iVP you can load previously [Saved Projects](saving-projects.md) for continuous work or collaboration. We would recommend to have a look at this ![](../../../.gitbook/assets/YouTube\_icon.png) [YouTube Tutorial ](https://youtu.be/MuLt94b64O8)for a quick introduction.
+In iVP you can load previously [Saved Projects](saving-projects.md) for continuous work or collaboration. We would recommend to have a look at this [<img src="../../../.gitbook/assets/YouTube_icon.png" alt="" data-size="line"> YouTube Tutorial](https://youtu.be/MuLt94b64O8) for a quick introduction.
 
 ## Loading projects step by step:
 
@@ -20,7 +20,7 @@ Before iVP actually processes the data from the file you will be asked to set so
 
 * _**Replace current scene**_**:** if checked iVP will replace the current project with the one stored in the save file
 * _**Include PDF if available**_**:** if checked iVP will import the [floor plan](../user-interface/the-floor-plan.md) stored in the save file (if there is one)
-* _**Resize floor to saved dimensions:**_** ** adjusts the current [floor size](../user-interface/the-floor-plan.md#floor-plan-size) to the floor size stored in the save file
+* _**Resize floor to saved dimensions:**_\*\* \*\* adjusts the current [floor size](../user-interface/the-floor-plan.md#floor-plan-size) to the floor size stored in the save file
 * _**Apply highlight colors**_**:** loads and applies [colorings ](../machines/highlighting-objects.md)stored in the save file to specific machines or objects
 
 {% hint style="danger" %}
@@ -29,4 +29,4 @@ To replace a scene or to load a PDF floor plan when another plan is already in t
 
 ![](../../../.gitbook/assets/iVP\_open\_file\_options.jpg)
 
-If your local iVP installation does not have access to the same [databases ](loading-database.md)that were used to create the save file, it is possible to replace missing machines and objects with placeholders. Otherwise it is possible to [import the missing database](loading-database.md).
+If your local iVP installation does not have access to the same [databases ](broken-reference)that were used to create the save file, it is possible to replace missing machines and objects with placeholders. Otherwise it is possible to [import the missing database](broken-reference).

@@ -1,9 +1,9 @@
 # Adding New Objects
 
-This tutorial explains how to add new machines or objects to your iVP [scene](broken-reference). We would also recommend to have a look at this ![](../../../.gitbook/assets/YouTube\_icon.png) [YouTube Tutorial](https://youtu.be/7Vprataxi08).
+This tutorial explains how to add new machines or objects to your iVP [scene](broken-reference/). We would also recommend to have a look at this [<img src="../../../.gitbook/assets/YouTube_icon.png" alt="" data-size="line"> YouTube Tutorial](https://youtu.be/7Vprataxi08).
 
 {% hint style="warning" %}
-To be able to add new machines to the scene, there has to be at least one [database ](broken-reference)in your project.
+To be able to add new machines to the scene, there has to be at least one [database ](broken-reference/)in your project.
 {% endhint %}
 
 ## Adding a new object step by step:
@@ -29,4 +29,3 @@ The last step is to simply click anywhere in the 2D- or the [3D-panel](../user-i
 ![](../../../.gitbook/assets/iVP\_guide\_add\_new\_machines\_placed\_machine.jpg)
 
 From here, you can either adjust [position](selecting-and-moving-objects.md#move-objects), [rotation ](scale-and-rotate-objects.md#rotate-objects)or [scale ](scale-and-rotate-objects.md#scale-objects)of the object or [modify ](customizable-machines.md)it provided it is a [customizable object](customizable-machines.md).
-

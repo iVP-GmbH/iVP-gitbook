@@ -4,7 +4,7 @@ description: Next Level Web, Sales & Training.
 
 # iVP Showroom
 
-![Logo iVP Showroom](../.gitbook/assets/iVPShowroom\_ns.png)
+<figure><img src="../.gitbook/assets/iVPShowroom_ns.png" alt="Logo iVP Showroom"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 This section is currently work in progress. Thank you for your patience.
