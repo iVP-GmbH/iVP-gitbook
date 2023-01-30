@@ -9,7 +9,7 @@ To do so, iVP will open up a web page in your browser that will guide you throug
 
 ![](/.gitbook/assets/login-azure-example.png)
 
-The Login requires your Microsoft email adress and your Microsoft password and will show the following notice in case of a successful login:
+The Login requires your Microsoft email adress and your Microsoft password and will show the following notice (in the same browser window) in case of a successful login:
 
 {% hint style="info" %}
 Authentication complete. You can return to the application. Feel free to close this browser tab.
@@ -22,7 +22,7 @@ Regardless wether you close the browser window or not, iVP Planning is now ready
 As part of [Version 2301](../changelog/version-2301) iVP Planning migrated to a User Management.
 This means that access to iVP Software and its features have been linked to your Microsoft e-mail account.  
 
-Therefore you only have access to iVP Planning if you log in with a valid User Account (your Microsoft e-mail account). 
+Therefore you only have access to iVP Planning if you log in with a valid User account (your Microsoft e-mail account). 
 
 # Troubleshooting
 
@@ -38,7 +38,7 @@ Please check your email account for an invitation to iVP Planning and follow the
 
 ## Error Message AADSTS50020
 
-You might see this error message while logging into your Microsoft Account, stating that your currently used Microsoft-Account does not "exist in tenant 'iVP'" (and a lot of letters and numbers).
+You might see this error message while logging into your Microsoft account, stating that your currently used Microsoft account does not "exist in tenant 'iVP'" (and a lot of letters and numbers).
 
 ![](/.gitbook/assets/login-azure-error-tenant.png)    
 
