@@ -1,12 +1,6 @@
 # Snapping
 
-Snapping is a feature that simplifies quick but clean drafts by aligning objects to an invisible grid when they are [moved](move-objects.md). In this way, objects can be placed in parallel or with consistent distances between them without the need of detail adjustments to their [positions](move-objects.md).
-
-## Toggle snapping:
-
-To turn snapping on or off, click on **Settings -> Snapping** in the[ text menu](../user-interface/the-top-bar.md#text-menu) of the [top bar](../user-interface/the-top-bar.md).
-
-![](../../../.gitbook/assets/iVP\_snapping.jpg)
+Snapping is a feature that simplifies quick but clean drafts by aligning objects to an invisible grid when they are [moved](move-objects.md). Depending on the snapping distance, objects are moved in increments of this value.
 
 ## Changing the snapping distance:
 
