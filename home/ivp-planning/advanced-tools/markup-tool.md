@@ -1,9 +1,9 @@
 # Markup Tool
 
-The markup tool is an easy bto use function of iVP that can be used to anutate issues or highlights inside your project and commnicate better with colleages or clients.
+The markup tool is an easy to use function of iVP that can be used to annotate issues or highlights inside your project and improve communication with colleagues and clients.
 
 {% hint style="info" %}
-For better understanding and training we created a ![](../../../.gitbook/assets/YouTube\_icon.png) <img src="../.gitbook/assets/YouTube_icon.png" alt="" data-size="line"> [iVP YouTube Channel.](https://www.youtube.com/watch?v=DYKIYcZMrVE&list=PLlzoGkRUR67houzn5F5ejD3R-kQrDcps5&index=16) where you can find a detailed tutorial for the markup tool.
+For better understanding and training we created a [![](../../../.gitbook/assets/YouTube\_icon.png) <img src="../.gitbook/assets/YouTube_icon.png" alt="" data-size="line"> iVP YouTube Channel.](https://www.youtube.com/watch?v=DYKIYcZMrVE&list=PLlzoGkRUR67houzn5F5ejD3R-kQrDcps5&index=16) where you can find a detailed tutorial for the markup tool.
 {% endhint %}
 
 ## Placement:
@@ -12,7 +12,7 @@ The markup tool can be activated by clicking the markup icon in the [2D-panel to
 
 ![](../../../.gitbook/assets/markup\_icon.jpg)
 
-As soon as the tool is active, the icon will turn a small markup icon will follow the mouse cursor to remind you that you are in the markup mode.
+As soon as the tool is active, the icon will turn into a small markup icon will follow the mouse cursor to indicate that you are in the markup mode.
 
 ![](../../../.gitbook/assets/markup\_cursor.jpg)
 
@@ -20,11 +20,11 @@ To create a markup, **left click on a position** in the [2D-panel](../user-inter
 
 ![](../../../.gitbook/assets/markup\_placement.jpg)
 
-The placed markup will be added to the [hierarchy](../user-interface/the-machine-list.md) and can be used as any other object. It can be [renamed and grouped in folders](../the-tree-view/renaming-objects-and-folders.md), [set in/visible](../the-tree-view/visibility-of-objects-and-folders.md), set to be [un/locked](../the-tree-view/locked-objects-and-folders.md) and [recolored](../machines/highlighting-objects.md).
+The placed markup will be added to the [hierarchy](../user-interface/the-machine-list.md) and can be used like any other object. It can be [renamed and grouped in folders](../the-tree-view/renaming-objects-and-folders.md), [set in/visible](../the-tree-view/visibility-of-objects-and-folders.md), set to be [un/locked](../the-tree-view/locked-objects-and-folders.md) and [recolored](../machines/highlighting-objects.md).
 
 ## Editing a Markup:
 
-After placing a markup, the [properties panel](../user-interface/the-info-panel.md) will show the default options to [move an object](../machines/move-objects#moving-objects-via-the-info-panel.md) and most foremost a section to edit the selected markup.
+After placing a markup, the [properties panel](../user-interface/the-info-panel.md) will show the default options to [move an object](../machines/move-objects.md#moving-objects-via-the-info-panel) and foremost a section to edit the selected markup.
 
 ![](../../../.gitbook/assets/markup\_properties.jpg)
 
@@ -37,11 +37,11 @@ After placing a markup, the [properties panel](../user-interface/the-info-panel.
     * _**Created:**_ exact time and date when the markup was created; this information is unchangeable
 * Transform: the panel containing information of the markup regarding
     * _**Dimensions:**_ the dimensions of the object; this information is only changeable by changing the [scale](../machines/scale-objects.md)
-    * _**Position:**_ the position of the object, changing this will [move the object](../machines/move-objects#moving-objects-via-the-info-panel.md)
+    * _**Position:**_ the position of the object, changing this will [move the object](../machines/move-objects.md#moving-objects-via-the-info-panel)
     * _**Scale:**_ the [scale](../machines/scale-objects.md) of the object; use with caution!
     * _**Rotation:**_ the [rotation](../machines/scale-and-rotate-objects.md) of the object
 * Markup: the panel containing information about the markup regarding
-    * _**Priority:**_ a Priority can be set for each individual markup, which helps with sorting markups in the [markups panel](../ivp-planning/user-interface/markups-panel.md) and works great if combined with [recoloring](../machines/highlighting-objects.md)
+    * _**Priority:**_ a Priority can be set for each individual markup, which helps with sorting markups in the [markups panel](../user-interface/markups-panel.md) and works great if combined with [recoloring](../machines/highlighting-objects.md)
         * _**Low:**_ set the priority of the selected markup to low
         * _**Medium:**_ Set the priority of the selected markup to medium (default)
         * _**High:**_ set the priority of the selected markup to high
@@ -52,8 +52,7 @@ After placing a markup, the [properties panel](../user-interface/the-info-panel.
 
 ## Conversation with Markups:
 
-In addition to the description of a markup, it is possible to **add information to a markup without creating a new one**. To do so, you can use the [conversation panel](../user-interface/conversation-pane.md)
-![](../../../.gitbook/assets/conversation\_panel.jpg)
+In addition to the description of a markup, it is possible to **add information to a markup without creating a new one**. To do so, you can use the [conversation panel](../user-interface/conversation-panel.md).
 
 ## Using the Conversation Panel:
 
@@ -74,7 +73,7 @@ In addition to the description of a markup, it is possible to **add information 
 
 ## Taking a screenshot in Conversations
 
-After you press the Button **Create Screenshot**, the [3d-view](..user-interface/the-3d-panel.md) will be replaced with a panel that offers the possibility to take and edit screenshots.
+After you press the Button **Create Screenshot**, the [3d-view](../user-interface/the-3d-panel.md) will be replaced with a panel that offers the possibility to take and edit screenshots.
 
 ![](../../../.gitbook/assets/markup\_screenshot\_panel.jpg)
 
