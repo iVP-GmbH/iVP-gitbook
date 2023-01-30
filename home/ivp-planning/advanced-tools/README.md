@@ -1,6 +1,6 @@
 # Advanced Tools
 
-iVP offers some more advanced tools that exceed simple place- and movement of objects. 
+iVP offers some more advanced tools that exceed placing and moving of objects of objects. 
 
 With these tools it is possible to 
 
@@ -25,7 +25,7 @@ With these tools it is possible to
 {% endcontent-ref %}
 
 {% content-ref url="markup_tool.md" %}
-[set Markups](markup_tool.md)
+[create markups](markup_tool.md)
 {% endcontent-ref %}
 
 
