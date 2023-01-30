@@ -10,6 +10,7 @@ For better understanding and training we created a [<img src="../../../.gitbook/
 
 * [Activation](../../ivp-launcher/application-management/license-activation.md)
 * [Installation](../../ivp-launcher/application-management/install-applications.md)
+* [Login with Microsoft Account](../getting-started/login.md)
 
 **2.** Language and graphic options:
 

@@ -32,6 +32,7 @@
   * [iVP Planning](home/ivp-planning/README.md)
     * [General](home/ivp-planning/general.md)
     * [Getting Started](home/ivp-planning/getting-started/README.md)
+      * [Login with Microsoft Account](home/ivp-planning/getting-started/login.md)
       * [Language Options](home/ivp-planning/getting-started/language-options.md)
       * [License](home/ivp-planning/getting-started/license.md)
       * [Graphic Settings](home/ivp-planning/getting-started/graphic-settings.md)
