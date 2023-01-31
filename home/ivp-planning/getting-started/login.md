@@ -1,7 +1,7 @@
 # Login
 
 {% hint style="info" %}
-For better understanding we created a ![](../../../.gitbook/assets/YouTube\_icon.png) [iVP YouTube Video](https://www.youtube.com/watch?v=iYbY-axZlkE&list=PLlzoGkRUR67houzn5F5ejD3R-kQrDcps5&index=17) where you can find a detailed tutorial for the Login with  a Microsoft Azure e-mail account.
+For better understanding we created a [![](../../../.gitbook/assets/YouTube\_icon.png) iVP YouTube Video](https://www.youtube.com/watch?v=iYbY-axZlkE&list=PLlzoGkRUR67houzn5F5ejD3R-kQrDcps5&index=17) where you can find a detailed tutorial for the Login with  a Microsoft Azure e-mail account.
 {% endhint %}
 
 When starting iVP Planning, you will have to log in with your Microsoft-Account.  
@@ -19,10 +19,10 @@ Regardless wether you close the browser window or not, iVP Planning is now ready
 
 # Why do I need to login to iVP Planning?
 
-As part of [Version 2301](../changelog/version-2301) iVP Planning migrated to a User Management.
-This means that access to iVP Software and its features have been linked to your Microsoft e-mail account.  
+One of the features of Version 2302 is the addition of User Management.
+This means that access to iVP Software and its features have been linked to your Azure Active Directory.  
 
-Therefore you only have access to iVP Planning if you log in with a valid User account (your Microsoft e-mail account). 
+Therefore you only have access to iVP Planning if you log in with a valid User account. In most cases the account provided by your company for and used for work with Office 365 and so on. 
 
 # Troubleshooting
 
@@ -32,9 +32,9 @@ If - by chance - an error occurs, see if any of the following does apply:
 
 iVP Planning automatically opens an external browser page that guides you through the login. If no new window is opening, check if any open web browser opened a new tab. If this does however not work as intended, close your browser, restart iVP Planning and check if a web page opens up. 
 
-## You have a Microsoft account but no access to iVP Planning
+## You have logged in sucessfully but no access to iVP Planning
 
-Please check your email account for an invitation to iVP Planning and follow the steps in this email. In case you do not have an email in your account: make sure to check the spam folder and contact your local administrator.
+Please check your used account for an email-invitation to iVP Planning and follow the steps in this email. Make sure to check the spam folder and contact your local administrator in case this does not resolve this issue.
 
 ## Error Message AADSTS50020
 

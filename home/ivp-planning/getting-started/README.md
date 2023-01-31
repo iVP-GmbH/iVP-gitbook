@@ -1,4 +1,4 @@
-# Getting Started
+Y# Getting Started
 
 On this page you will find a list of links that will help you to get started with iVP Planning, its setup, functions and principles.
 
@@ -10,7 +10,7 @@ For better understanding and training we created a [<img src="../../../.gitbook/
 
 * [Activation](../../ivp-launcher/application-management/license-activation.md)
 * [Installation](../../ivp-launcher/application-management/install-applications.md)
-* [Login with Microsoft Account](../getting-started/login.md)
+* [Login](../getting-started/login.md)
 
 **2.** Language and graphic options:
 
