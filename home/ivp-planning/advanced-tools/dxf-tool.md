@@ -18,13 +18,13 @@ For better understanding and training we created a [!(../../../.gitbook/assets/Y
 
 To import a DXF click on **File -> DXF -> Import DXF**. A new window will open that allows you to navigate to the folder that contains the DXF file you want to import.
 
-![](../../../.gitbook/assets/.jpg)
+![](../../../.gitbook/assets/DXF\_Import\_open.jpg)
 
-As soon as you found the file, simply double click or it or select it and click **Open**.
+As soon as you found the file, simply double click it **or** select it and click Open.
 
-![](../../../.gitbook/assets/.jpg)
+![](../../../.gitbook/assets/DXF\_Import\_file.jpg)
 
-Before iVP actually processes a DXF file and imports it, you will be asked to set some parameters that specify how it will be loaded. The options are:
+Before iVP actually imports a DXF file, you will be asked to set some parameters that specify how it will be imported. The options are:
 
 * _**References**_** this toggle defines wether or not you integrade the dxf file into the project file or not. If unchecked, 
 * _**Scale:**_ this value represents the scale of the DXF to import, e.g. 1:100 or 1:50
@@ -36,11 +36,9 @@ Before iVP actually processes a DXF file and imports it, you will be asked to se
 Note that the scale and the measurement unit for imported files refer to the scale/unit the DXF file was planned in and not the scale you want to use in your iVP project.
 {% endhint %}
 
-
-
 ## DXF Export
 
-asdasda
+TBD
 
 ## Typical errors
 Although iVP can process most DXF files and versions, some issues might arise. 
