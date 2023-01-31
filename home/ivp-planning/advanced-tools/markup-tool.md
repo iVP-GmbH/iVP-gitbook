@@ -92,7 +92,7 @@ When you are ready to take the screenshot, you have the option to confirm or can
 |
 | ![](../../../.gitbook/assets/markup\_screenshot\_panel\_brush.jpg)        | Use a brush to scribble directly onto the screenshot; change the size of the brush by clicking the small triangle in the corner 
 |
-| ![](../../../.gitbook/assets/markup\_screenshot\_panel\_eraser.jpg)       | Use a eraser to delete scribbles on the screenshot; change the size of the eraser by clicking the small triangle in the corner
+| ![](../../../.gitbook/assets/markup\_screenshot\_panel\_eraser.jpg)       | Use an eraser to delete scribbles on the screenshot; change the size of the eraser by clicking the small triangle in the corner
 |
 | ![](../../../.gitbook/assets/markup\_screenshot\_panel\_clear.jpg)        | Delete all scribbles on the screenshot; does not delete the screenshot itself!
 |

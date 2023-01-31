@@ -25,7 +25,7 @@ With these tools it is possible to
 {% endcontent-ref %}
 
 {% content-ref url="markup_tool.md" %}
-[create markups](markup_tool.md)
+[create markups](markup-tool.md)
 {% endcontent-ref %}
 
 
