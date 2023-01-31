@@ -20,9 +20,9 @@ Regardless wether you close the browser window or not, iVP Planning is now ready
 # Why do I need to login to iVP Planning?
 
 One of the features of Version 2302 is the addition of User Management.
-This means that access to iVP Software and its features have been linked to your Azure Active Directory.  
+This means that access to iVP Software and its features have been linked to your Azure Active Directory Account.  
 
-Therefore you only have access to iVP Planning if you log in with a valid User account. In most cases the account provided by your company for and used for work with Office 365 and so on. 
+Therefore you only have access to iVP Planning if you log in with a valid User account. In most cases this account is provided by your company and used with Microsoft services, such as Office 365. 
 
 # Troubleshooting
 

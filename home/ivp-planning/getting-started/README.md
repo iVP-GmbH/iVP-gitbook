@@ -1,4 +1,4 @@
-Y# Getting Started
+# Getting Started
 
 On this page you will find a list of links that will help you to get started with iVP Planning, its setup, functions and principles.
 
