@@ -3,7 +3,7 @@
 The markup tool is an easy to use function of iVP that can be used to annotate issues or highlights inside your project and improve communication with colleagues and clients.
 
 {% hint style="info" %}
-For better understanding and training we created a [!(../../../.gitbook/assets/YouTube\_icon.png) <img src="../.gitbook/assets/YouTube_icon.png" alt="" data-size="line"> iVP YouTube Channel.](https://www.youtube.com/watch?v=DYKIYcZMrVE&list=PLlzoGkRUR67houzn5F5ejD3R-kQrDcps5&index=16) where you can find a detailed tutorial for the markup tool.
+For better understanding and training we created a [<img src="../../../.gitbook/assets/YouTube_icon.png" alt="" data-size="line"> iVP YouTube Channel](https://www.youtube.com/watch?v=DYKIYcZMrVE&list=PLlzoGkRUR67houzn5F5ejD3R-kQrDcps5&index=16) where you can find a detailed tutorial for the markup tool.
 {% endhint %}
 
 ## Placement:
