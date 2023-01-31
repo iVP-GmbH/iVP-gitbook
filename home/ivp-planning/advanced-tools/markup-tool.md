@@ -3,7 +3,7 @@
 The markup tool is an easy to use function of iVP that can be used to annotate issues or highlights inside your project and improve communication with colleagues and clients.
 
 {% hint style="info" %}
-For better understanding and training we created a [![](../../../.gitbook/assets/YouTube\_icon.png) <img src="../.gitbook/assets/YouTube_icon.png" alt="" data-size="line"> iVP YouTube Channel.](https://www.youtube.com/watch?v=DYKIYcZMrVE&list=PLlzoGkRUR67houzn5F5ejD3R-kQrDcps5&index=16) where you can find a detailed tutorial for the markup tool.
+For better understanding and training we created a [!(../../../.gitbook/assets/YouTube\_icon.png) <img src="../.gitbook/assets/YouTube_icon.png" alt="" data-size="line"> iVP YouTube Channel.](https://www.youtube.com/watch?v=DYKIYcZMrVE&list=PLlzoGkRUR67houzn5F5ejD3R-kQrDcps5&index=16) where you can find a detailed tutorial for the markup tool.
 {% endhint %}
 
 ## Placement:
@@ -12,7 +12,7 @@ The markup tool can be activated by clicking the markup icon in the [2D-panel to
 
 ![](../../../.gitbook/assets/markup\_icon.jpg)
 
-As soon as the tool is active, the icon will turn into a small markup icon will follow the mouse cursor to indicate that you are in the markup mode.
+As soon as the tool is active, a small markup icon will follow the mouse cursor to indicate that you are in the markup mode.
 
 ![](../../../.gitbook/assets/markup\_cursor.jpg)
 
@@ -60,11 +60,11 @@ In addition to the description of a markup, it is possible to **add information 
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | ![](../../../.gitbook/assets/conversation\_panel\_reply.jpg)                      | Input field for text to be shown in the conversation below
 |
-| ![](../../../.gitbook/assets/conversation\_panel\_send\_text.jpg)                 | Sends text to be shown in conversation below (alternativly press **Enter** in the input field ) 
+| ![](../../../.gitbook/assets/conversation\_panel\_send\_text.jpg)                 | Sends text to be shown in conversation below (alternatively press **Enter** in the input field ) 
 |
 | ![](../../../.gitbook/assets/conversation\_panel\_create\_screenshot.jpg)         | Replaces the [3d-view](..user-interface/the-3d-panel.md) with a panel that lets you [take and edit screenshots](/markup-tool.md#taking-a-screenshot-in-conversations)
 |
-| ![](../../../.gitbook/assets/conversation\_panel\_text.jpg)                       | After sending a text it will be shown like in a chat with date/time of the text and who posted it; to delete a text, click the small bin icon
+| ![](../../../.gitbook/assets/conversation\_panel\_text.jpg)                       | After sending a text it will be shown in a chat with date/time of the text and who posted it; to delete a text, click the small bin icon
 |
 | ![](../../../.gitbook/assets/conversation\_panel\_screenshot.jpg)                 | After [creating a screenshot](#taking-a-screenshot-in-conversations) it will be shown with the date and time it was posted; to delete a screenshot from the conversation, click the small bin icon
 |
