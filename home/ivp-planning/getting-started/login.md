@@ -1,15 +1,15 @@
 # Login
 
 {% hint style="info" %}
-For better understanding we created a [<img src="../../../.gitbook/assets/YouTube_icon.png" alt="" data-size="line"> iVP YouTube Video](https://www.youtube.com/watch?v=iYbY-axZlkE&list=PLlzoGkRUR67houzn5F5ejD3R-kQrDcps5&index=17) where you can find a detailed tutorial for the Login with  a Microsoft Azure e-mail account.
+For better understanding we created a [<img src="../../../.gitbook/assets/YouTube_icon.png" alt="" data-size="line"> iVP YouTube Video](https://www.youtube.com/watch?v=iYbY-axZlkE&list=PLlzoGkRUR67houzn5F5ejD3R-kQrDcps5&index=17) where you can find a detailed tutorial for the Login with your Microsoft account.
 {% endhint %}
 
-When starting iVP Planning, you will have to log in with your Microsoft-Account.  
+When starting iVP Planning, you will have to log in with your Microsoft account.  
 To do so, iVP will open up a web page in your browser that will guide you through the log-in process.  
 
 ![](/.gitbook/assets/login-azure-example.png)
 
-The Login requires your Microsoft email adress and your Microsoft password and will show the following notice (in the same browser window) in case of a successful login:
+After you log in with your Microsoft account, which you usually access with your company e-mail address, the following notice will be displayed (in the same browser window) in case of a successfull login:
 
 {% hint style="info" %}
 Authentication complete. You can return to the application. Feel free to close this browser tab.
@@ -22,7 +22,7 @@ Regardless wether you close the browser window or not, iVP Planning is now ready
 One of the features of Version 2302 is the addition of User Management.
 This means that access to iVP Software and its features have been linked to your Azure Active Directory Account.  
 
-Therefore you only have access to iVP Planning if you log in with a valid User account. In most cases this account is provided by your company and used with Microsoft services, such as Office 365. 
+Therefore you only have access to iVP Planning if you log in with a valid Microsoft account. In most cases this account is provided by your company and used with Microsoft services, such as Office 365. 
 
 # Troubleshooting
 
@@ -34,16 +34,16 @@ iVP Planning automatically opens an external browser page that guides you throug
 
 ## You have logged in sucessfully but no access to iVP Planning
 
-Please check your used account for an email-invitation to iVP Planning and follow the steps in this email. Make sure to check the spam folder and contact your local administrator in case this does not resolve this issue.
+Please check your Microsoft account (most times this will be the one provided by your company) for an email-invitation to iVP Planning and follow the steps in this email. Make sure to check the spam folder and contact your local administrator in case this does not resolve this issue.
 
 ## Error Message AADSTS50020
 
-You might see this error message while logging into your Microsoft account, stating that your currently used Microsoft account does not "exist in tenant 'iVP'" (and a lot of letters and numbers).
+You might see this error message while logging into your Microsoft account, stating that your currently used account does not "exist in tenant 'iVP'" (and a lot of letters and numbers).
 
 ![](/.gitbook/assets/login-azure-error-tenant.png)    
 
-This can happen if you are trying to log in with the wrong Microsoft Account.  
-To fix this, ensure you are using the correct Microsoft Account and try again.
+This can happen if you are trying to log in with the wrong account.  
+To fix this, ensure you are using the correct account (the one that got the invitation to use iVP Planning) and try again.
 
 ## After Login machines are missing
 
@@ -51,7 +51,7 @@ Check with your contact, if you have been granted access to the content you work
 
 ## You don't have a Microsoft Account
 
-Should you not use a Microsoft Account in your company, feel free to contact us by email or phone and we will help set up a working account for you.
+Should you not use a Microsoft account in your company, feel free to contact us by email or phone and we will help set up a working account for you.
 
 <br/>
 If neither of the above issues apply to you, feel free to contact us by email or phone.
