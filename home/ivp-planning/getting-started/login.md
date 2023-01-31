@@ -1,7 +1,7 @@
 # Login
 
 {% hint style="info" %}
-For better understanding we created a [!<img src="../../../.gitbook/assets/YouTube_icon.png" alt="" data-size="line"> iVP YouTube Video](https://www.youtube.com/watch?v=iYbY-axZlkE&list=PLlzoGkRUR67houzn5F5ejD3R-kQrDcps5&index=17) where you can find a detailed tutorial for the Login with  a Microsoft Azure e-mail account.
+For better understanding we created a [<img src="../../../.gitbook/assets/YouTube_icon.png" alt="" data-size="line"> iVP YouTube Video](https://www.youtube.com/watch?v=iYbY-axZlkE&list=PLlzoGkRUR67houzn5F5ejD3R-kQrDcps5&index=17) where you can find a detailed tutorial for the Login with  a Microsoft Azure e-mail account.
 {% endhint %}
 
 When starting iVP Planning, you will have to log in with your Microsoft-Account.  
