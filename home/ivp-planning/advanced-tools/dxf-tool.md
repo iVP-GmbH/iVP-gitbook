@@ -57,7 +57,7 @@ Before iVP Planning exports a DXF file, a prompt will ask to set some parameters
 ![](../../../.gitbook/assets/DXF\_Export\_settings.jpg)
 
 
-* _**File path:**_ this line represents the location of the to be exported file, change it by clicking the three dots
+* _**File path:**_ this line represents the target location of the file, change it by clicking the three dots
 * _**Unit:**_ this value represents the measurement unit **of the DXF to export**, e.g. mm, cm, inch...
 * _**Side:**_ this represents the viewing direction the file will be created from (Overhead View, Side View right, Front View)
 
