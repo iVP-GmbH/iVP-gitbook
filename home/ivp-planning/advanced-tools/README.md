@@ -12,6 +12,10 @@ With these tools it is possible to
 [record videos](virtual-cameras.md)
 {% endcontent-ref %}
 
+{% content-ref url="dxf-tool.md" %}
+[import and export DXF files](dxf-tool.md)
+{% endcontent-ref %} 
+
 {% content-ref url="path-tool.md" %}
 [take measurements](path-tool.md)
 {% endcontent-ref %}
