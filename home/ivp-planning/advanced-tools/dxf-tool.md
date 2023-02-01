@@ -74,7 +74,7 @@ Although iVP can process most DXF files and versions, some issues might arise.
 ### Old DXF versions
 Unfortunately it is not possible to process all existing DXF versions to work with iVP. This might be, because the program used to create the DXF file uses a really old standard (1995 or older).
 ### Text support 
-Not all fonts are supported for DXF Import. Also some forms of alignments (vertical text, justificated text, e.g.) can not be converted and might be imported incorrectly. A workaround is to import without text and use our text object to add text information. Alternatively you can use iVP Plannings font in your file (Roboto Regular)
+Not all fonts are supported for DXF Import. Also some forms of alignments (vertical text, justificated text, e.g.) can not be converted and might be imported incorrectly. A workaround is to import without text and use our text object to add text information. Alternatively you can use iVP Plannings font in your file (Roboto Regular).
 ### Round Contures
 Round contures might be imported incomplete or fractured, as the import utilizes only lines and therefore might break up a round conture.  
 {% endhint %}
