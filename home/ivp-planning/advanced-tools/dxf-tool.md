@@ -10,7 +10,7 @@ This is different to an [imported PDF](../getting-started/importing-pdfs.md), wh
 
 {% hint style="info" %}
 For better understanding and training we created a [<img src="../../../.gitbook/assets/YouTube_icon.png" alt="" data-size="line"> YouTube Tutorial](https://www.youtube.com/watch?v=Maxivv824Dk&list=PLlzoGkRUR67houzn5F5ejD3R-kQrDcps5&index=18), where you can find a detailed explanation how to import and export of DXF files.
-{% endhint %}  // Video TBD
+{% endhint %}
 
 ## Importing a DXF File:
 
