@@ -8,8 +8,8 @@ With these tools it is possible to
 [take screenshots](creating-screenshots.md)
 {% endcontent-ref %}
 
-{% content-ref url="virtual-cameras.md#setting-up-virtual-dolly-shots" %}
-[record videos](virtual-cameras.md#setting-up-virtual-dolly-shots)
+{% content-ref url="virtual-cameras.md" %}
+[record videos](virtual-cameras.md)
 {% endcontent-ref %}
 
 {% content-ref url="path-tool.md" %}
@@ -24,8 +24,6 @@ With these tools it is possible to
 [create rooms](the-room-tool.md)
 {% endcontent-ref %}
 
-{% content-ref url="markup_tool.md" %}
+{% content-ref url="markup-tool.md" %}
 [create markups](markup-tool.md)
 {% endcontent-ref %}
-
-
