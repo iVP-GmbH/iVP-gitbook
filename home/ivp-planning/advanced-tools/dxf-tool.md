@@ -1,46 +1,75 @@
 # DXF Files
 
-In iVP it is possible to import and export DXF files, that will be added to the [hierarchy](../user-interface/the-machine-list.md) and can be [edited](../machines/selecting-and-moving-objects.md) as any other object. 
+In iVP it is possible to import and export DXF files, that function as a simplified 2d visualisation of 3d models. They can be useful for illustrating a planned layout.
 
-As DXF files are a simplified 2d visualisation of 3d models they can be useful for illustrating a planned layout.
+After a DXF file is imported, it will be added to the [hierarchy](../user-interface/the-machine-list.md) and can be [edited](../machines/selecting-and-moving-objects.md) as any other object.
 
-{% hint style="info" %}
-A different usecase would be an [imported PDF](../getting-started/importing-pdfs.md), which will not be moveable in iVP but can be used as a overlay for the [floor plan](../user-interface/the-floor-plan.md).
+{% hint style="warning" %}
+This is different to an [imported PDF](../getting-started/importing-pdfs.md), which will not be moveable in iVP but can be used as a overlay for the [floor plan](../user-interface/the-floor-plan.md).
 {% endhint %}
 
 {% hint style="info" %}
-For better understanding and training we created a [!(../../../.gitbook/assets/YouTube\_icon.png) <img src="../.gitbook/assets/YouTube_icon.png" alt="" data-size="line"> YouTube Tutorial Video](https://www.youtube.com/watch?v=Maxivv824Dk&list=PLlzoGkRUR67houzn5F5ejD3R-kQrDcps5&index=18), where you can find a detailed tutorial for the import and export of DXF files.
+For better understanding and training we created a [<img src="../../../.gitbook/assets/YouTube_icon.png" alt="" data-size="line"> YouTube Tutorial](https://www.youtube.com/watch?v=Maxivv824Dk&list=PLlzoGkRUR67houzn5F5ejD3R-kQrDcps5&index=18), where you can find a detailed explanation how to import and export of DXF files.
 {% endhint %}  // Video TBD
 
-{% hint style="warning" %}
+## Importing a DXF File:
 
-## Import DXF File:
-
-To import a DXF click on **File -> DXF -> Import DXF**. A new window will open that allows you to navigate to the folder that contains the DXF file you want to import.
+To import a DXF click **File -> DXF -> Import DXF**. 
 
 ![](../../../.gitbook/assets/DXF\_Import\_open.jpg)
 
-As soon as you found the file, simply double click it **or** select it and click Open.
+A new window will open that allows to navigate to the folder containing the DXF file to be imported. to open the file, simply double click it **or** select it and click Open.
 
 ![](../../../.gitbook/assets/DXF\_Import\_file.jpg)
 
-Before iVP actually imports a DXF file, you will be asked to set some parameters that specify how it will be imported. The options are:
+Before iVP Planning imports a DXF file, a prompt will ask to set some parameters that specify how the DXF file will be imported. 
 
-* _**References**_** this toggle defines wether or not you integrade the dxf file into the project file or not. If unchecked, 
-* _**Scale:**_ this value represents the scale of the DXF to import, e.g. 1:100 or 1:50
-* _**Unit**_ if checked the size of the floor plan will be adjusted to be equal to the dimensions of the imported PDF
+![](../../../.gitbook/assets/DXF\_Import\_settings.jpg)
 
-![](../../../.gitbook/assets/DXF_Import_comparison.jpg)
+* _**File path:**_ this line represents the location of the to be imported file, change it by clicking the three dots
+* _**As references**_** this toggle defines whether or not you reference the dxf file. If checked, you will need to keep the dxf file accessible. (!changing the name or location of that file will break the reference!) 
+* _**Line width:**_ this value represents the width each single line will be drawn (in mm)
+* _**Scale:**_ this value represents the scale **of the DXF to import**, e.g. 1:1 or 16:1
+* _**Unit**_ this value represents the measurement unit **of the DXF to import**, e.g. mm, cm, inch...
+
+![](../../../.gitbook/assets/DXF\_Import\_comparison.jpg)
 
 {% hint style="info" %}
-Note that the scale and the measurement unit for imported files refer to the scale/unit the DXF file was planned in and not the scale you want to use in your iVP project.
+Note that the **scale** and the **measurement unit** for imported files refer to the scale/unit the DXF file was planned in and not the scale you want to use in your iVP project. If changed in comparison to the origin; the size of the import might be incorrect.
 {% endhint %}
 
-## DXF Export
+## Exporting a DXF File:
 
-TBD
+To export objects from iVP Planning, first select the ojects you want to export.
 
-## Typical errors
+![](../../../.gitbook/assets/DXF\_Export\_selection.jpg)
+
+Then click **File -> DXF -> Export Selection**.
+
+![](../../../.gitbook/assets/DXF\_Export\_open.jpg)
+
+A new window will open that allows to navigate to the folder the DXF file is to be exported, rename it and save it.
+
+![](../../../.gitbook/assets/DXF\_Export\_file.jpg)
+
+Before iVP Planning exports a DXF file, a prompt will ask to set some parameters that specify how the DXF file will be exported. 
+
+![](../../../.gitbook/assets/DXF\_Export\_settings.jpg)
+
+
+* _**File path:**_ this line represents the location of the to be exported file, change it by clicking the three dots
+* _**Unit**_ this value represents the measurement unit **of the DXF to export**, e.g. mm, cm, inch...
+* _**Side:**_ this represents the direction the file will be exported to (Overhead View, Side View right, Front View)
+
+## Coloring DXF Files:
+
+to export colored lines in a DXF file, first the **selected objects** need to be [colored](../machines/highlighting-objects.md). Then export the file and the lines will be in the selected color.
+
+{% hint style="info" %}
+[Colored Objects](../machines/highlighting-objects.md) will **not show up as colored** in the [3d view](../user-interface/the-3d-panel.md) too.
+{% endhint %}
+
+## Troubleshooting
 Although iVP can process most DXF files and versions, some issues might arise. 
 ### Old DXF versions
 unfortunately it is not possible to process all existing DXF versions to work with iVP. This might be, because the program used to create the DXF file uses an really old standard (1995 or older).
@@ -48,11 +77,4 @@ unfortunately it is not possible to process all existing DXF versions to work wi
 Not all fonts are supported for DXF Import. Also some forms of alignments (vertical text, justificated text, e.g.) can not be converted and might be imported incorrectly. A workaround is to import without text and use our text object to add text information.
 ### Round Contures
 Round contures might be imported incomplete or fractured, as the import utilizes only lines and therefore might break up a round conture.  
-{% endhint %}
-
-
-## Export DXF File:
-
-{% hint style="info" %}
-[Colored Objects](../machines/highlighting-objects.md) will be colored in the export file too.
 {% endhint %}
