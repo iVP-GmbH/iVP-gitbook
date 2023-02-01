@@ -127,3 +127,9 @@
 * The size of the volume scanner is now correct
 * The trays in the drawer handling now adjust to the size of the machine
 * The load of the Trolley (Universal) is no longer invisible when _Trolley 1_ is selected
+
+## Version 2209.3.1 - 2023-01-20
+
+### Fixed
+
+* When loading a save file before all libraries are fully loaded, saving the file no longer sometimes fails and the hierarchy is now always preserved

@@ -1,6 +1,6 @@
 # User Interface
 
-iVP offers many different features and tools. However it is possible to get to know the user interface in a couple of minutes. We would also recommend to have a look at this ![](../../../.gitbook/assets/YouTube\_icon.png) [YouTube Tutorial](https://youtu.be/rOhrSOeMr8Q) to an even easier introduction.
+iVP offers many different features and tools. However it is possible to get to know the user interface in a couple of minutes. We would also recommend to have a look at this [<img src="../../../.gitbook/assets/YouTube_icon.png" alt="" data-size="line"> YouTube Tutorial](https://youtu.be/rOhrSOeMr8Q) to an even easier introduction.
 
 ## **Main interface:**
 
@@ -14,6 +14,8 @@ iVP offers many different features and tools. However it is possible to get to k
 ## **Tool-related panels:**
 
 * [Path panel](path-panel.md)
+* [Markups Panel](markups-panel.md)
+* [Conversation Panel](conversation-panel.md)
 * [Camera list panel](camera-list-panel.md)
 * [Virtual camera panel](virtual-camera-panel.md)
 
@@ -22,8 +24,6 @@ iVP offers many different features and tools. However it is possible to get to k
 * [Coordinate system](coordinate-system.md)
 * [Grid](the-grid.md)
 * [Floor plan](the-floor-plan.md)
-* [Layers](layers.md)
-* [Project info overlay](project-info-overlay.md)
 * [Layouts](layouts.md)
 
 ## **Settings, changelog and license:**
