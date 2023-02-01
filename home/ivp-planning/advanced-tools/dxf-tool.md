@@ -27,15 +27,15 @@ Before iVP Planning imports a DXF file, a prompt will ask to set some parameters
 ![](../../../.gitbook/assets/DXF\_Import\_settings.jpg)
 
 * _**File path:**_ this line represents the location of the to be imported file, change it by clicking the three dots
-* _**As references**_** this toggle defines whether or not you reference the dxf file. If checked, you will need to keep the dxf file accessible. (!changing the name or location of that file will break the reference!) 
+* _**As references:**_ this toggle defines whether or not you reference the dxf file. If checked, you will need to keep the dxf file accessible. (!changing the name or location of that file will break the reference!) 
 * _**Line width:**_ this value represents the width each single line will be drawn (in mm)
 * _**Scale:**_ this value represents the scale **of the DXF to import**, e.g. 1:1 or 16:1
-* _**Unit**_ this value represents the measurement unit **of the DXF to import**, e.g. mm, cm, inch...
+* _**Unit:**_ this value represents the measurement unit **of the DXF to import**, e.g. mm, cm, inch...
 
 ![](../../../.gitbook/assets/DXF\_Import\_comparison.jpg)
 
 {% hint style="info" %}
-Note that the **scale** and the **measurement unit** for imported files refer to the scale/unit the DXF file was planned in and not the scale you want to use in your iVP project. If changed in comparison to the origin; the size of the import might be incorrect.
+Note that the **scale** and the **measurement unit** for imported files refer to the scale/unit the DXF file was planned in and not the scale you want to use in your iVP Planning project. If changed in comparison to the origin; the size of the import might be incorrect.
 {% endhint %}
 
 ## Exporting a DXF File:
@@ -58,7 +58,7 @@ Before iVP Planning exports a DXF file, a prompt will ask to set some parameters
 
 
 * _**File path:**_ this line represents the location of the to be exported file, change it by clicking the three dots
-* _**Unit**_ this value represents the measurement unit **of the DXF to export**, e.g. mm, cm, inch...
+* _**Unit:**_ this value represents the measurement unit **of the DXF to export**, e.g. mm, cm, inch...
 * _**Side:**_ this represents the direction the file will be exported to (Overhead View, Side View right, Front View)
 
 ## Coloring DXF Files:
