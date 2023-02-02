@@ -6,6 +6,9 @@ On this page you will find a list of links that will help you to get started wit
 For better understanding and training we created a [<img src="../../../.gitbook/assets/YouTube_icon.png" alt="" data-size="line"> iVP YouTube Channel](https://www.youtube.com/playlist?list=PLlzoGkRUR67houzn5F5ejD3R-kQrDcps5) where you can find tutorials as well as documentations for latest updates and features.
 {% endhint %}
 
+This short introduction to iVP Planning will give a compact runthrough to the basic features of iVP Planning.
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FF47nkiYdCHf8zx3PWaQcEZ%2FiVP-Planning-%252F-Tutorials-%252F-onboarding%3Fpage-id%3D0%253A1%26node-id%3D318%253A1339%26viewport%3D860%252C-957%252C0.12%26scaling%3Dscale-down%26starting-point-node-id%3D318%253A1339" allowfullscreen></iframe>
+
 **1.** Activation and installation:
 
 * [Activation](../../ivp-launcher/application-management/license-activation.md)
