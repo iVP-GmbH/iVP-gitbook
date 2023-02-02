@@ -1,6 +1,6 @@
 # Login
 
-{% embed url="https://www.youtube.com/watch?v=iYbY-axZlkE&list=PLlzoGkRUR67houzn5F5ejD3R-kQrDcps5&index=18" %}
+{% embed url="https://youtu.be/iYbY-axZlkE?controls=0" %}
 Video tutorial summarizing the information below
 {% endembed %}
 
