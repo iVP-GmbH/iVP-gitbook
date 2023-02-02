@@ -7,7 +7,7 @@ For better understanding and training we created a [<img src="../../../.gitbook/
 {% endhint %}
 
 This short introduction to iVP Planning will give a compact runthrough to the basic features of iVP Planning.
-[![](../../../.gitbook/assets/figma\_tutorial.jpg)](https://www.youtube.com/playlist?list=PLlzoGkRUR67houzn5F5ejD3R-kQrDcps5)
+[![](../../../.gitbook/assets/figma\_tutorial.jpg)](https://www.figma.com/proto/F47nkiYdCHf8zx3PWaQcEZ/iVP-Planning-%2F-Tutorials-%2F-onboarding?page-id=0%3A1&node-id=318%3A1339&viewport=1503%2C-1741%2C0.2&scaling=contain&starting-point-node-id=318%3A1339&hide-ui=1)
 
 **1.** Activation and installation:
 
