@@ -6,6 +6,10 @@ On this page you will find a list of links that will help you to get started wit
 For better understanding and training we created a [<img src="../../../.gitbook/assets/YouTube_icon.png" alt="" data-size="line"> iVP YouTube Channel](https://www.youtube.com/playlist?list=PLlzoGkRUR67houzn5F5ejD3R-kQrDcps5) where you can find tutorials as well as documentations for latest updates and features.
 {% endhint %}
 
+This short introduction to iVP Planning will give a compact runthrough to the basic features of iVP Planning.
+
+{% embed url="https://www.figma.com/embed?embed_host=share&url=https://www.figma.com/proto/F47nkiYdCHf8zx3PWaQcEZ/iVP-Planning-%2F-Tutorials-%2F-onboarding?page-id=0%3A1&node-id=318%3A1339&viewport=1503%2C-1741%2C0.2&scaling=scale-down&starting-point-node-id=318%3A1339%22" %}
+
 **1.** Activation and installation:
 
 * [Activation](../../ivp-launcher/application-management/license-activation.md)
@@ -26,7 +30,6 @@ For better understanding and training we created a [<img src="../../../.gitbook/
 
 **4.** Objects and object interactions:
 
-* [Importing databases](broken-reference)
 * [Object interaction](../machines/)
 
 **5.** Saving and loading projects:
