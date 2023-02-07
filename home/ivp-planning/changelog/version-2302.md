@@ -18,10 +18,12 @@
 ### Changed
 
 * When overwriting a save file, no data is modified when saving fails
+* Added a new customization _Light Barrier Field_ to the light barrier
 * In the color picker, colors can now also be entered via the input fields (as RGB or HSV)
 * The color pickers color profile button now shows the currently selected color profile
 * Objects can now also be renamed by double clicking their entry in the hierarchy
 * The warning message in the properties panel that is displayed when an object is scaled now has a button to reset the scale
+* The column now has a default size of 500x700mm
 * Added limits to the customizations of various objects
 * Removed option to import databases
 * The _Help > Documentation_ button now opens Plannings documentation page instead of the Help Desks main page
@@ -36,6 +38,7 @@
 * Renaming an object from the hierarchy no longer sometimes fails
 * While renaming an object in the hierarchy, clicking in the text no longer ends the renaming process
 * LOOPTEQ O-300 can now also be customized when hidden
+* The legs of the STORETEQ S-X00 now have the correct rotation
 * When editing a Text Object while it is hidden, it's bounds now have the correct size
 * Pallet Rack (Universal) now also shows it's tooltips when the english locale is selected
 * When duplicating certain machines and deleting the orignal afterwars, the duplicate no longer have missing parts
