@@ -1,6 +1,7 @@
 # Beta
 
-## 2102 - 2021-02-23
+## 2102
+_2021-02-23_
 
 ### **New Tools**
 
@@ -82,7 +83,8 @@
 * Path + F. It´s not possible currently to select a path/fence/room and press F to navigate to the selected path.&#x20;
 * From time to time it can happen, that you automatically “multi select” multiple machines in the left machine list window. We know that this issue already, but it is indeed not that easy to fix as it is a bug in the ui framework we use since day 1. The temp solution is, to drag the “width” align (horizontal size of the machine list tab) slider of the machine list tab and just move it to the left or right for just a few mm than the machines will be de- selected. We are working on this issue.&#x20;
 
-## 1.30 - 2020-11-02
+## 1.30
+_2020-11-02_
 
 * New machines (Weinmann): Beamteq B-660, Buildteq A-570 (WTZ-120), Buildteq F-500 (WTD), Feedteq H-300, Frameteq F-500, Frameteq F-700, Frameteq M-300, Frameteq M-500, Moveteq P-500 (WTW 120), Moveteq T-500 (WTW ZW), Moveteq W-100 (WTW 060), Stockteq D-300, Stockteq U-530, Stockteq V-300, Storeteq H-300, Storeteq H-700, Wallteq M-120, Wallteq M-340, Wallteq M-310 insufill
 * New machines (Homag): Holzstück, Geometrischer Körper, Kurve (TFB-261) Statisch
@@ -111,11 +113,13 @@
 * Naming of machine width has been unified
 * Bugfixes and improvements
 
-## 1.20.2.1 - 2020-06-15
+## 1.20.2.1
+_2020-06-15_
 
 * Bugfixes and improvements
 
-## 1.20.2 - 2020-06-08
+## 1.20.2
+_2020-06-08_
 
 * Improved bug reporting:
   * Attached save files are now displayed
@@ -123,11 +127,13 @@
   * Files that are too big to be sent can not be attached anymore
 * Bugfixes and improvements
 
-## 1.20.1 - 2020-05-25
+## 1.20.1
+_2020-05-25_
 
 * Bugfixes and improvements
 
-## 1.20 - 2020-05-18
+## 1.20
+_2020-05-18_
 
 * The following machines were made customizable: SORTEQ R-200, Kappautomat mit Steigband, Rollenbahn Diagonal, THR-800, Röllchenförderer, Winkelübergabe
 * The following customizable machines were added: THS-100, TFL-100, Schaltschränke, Lichtschranken
@@ -144,13 +150,15 @@
 * Removed obsolete machines and Egger concept
 * Bugfixes and improvements
 
-## 1.19.1 - 2020-03-18
+## 1.19.1
+_2020-03-18_
 
 * Added the ability to move in the 2D view by holding the left mouse button, touchpad or touchscreen
 * New machine Feedteq G-500
 * Bugfixes and improvements
 
-## 1.19 - 2020-03-10
+## 1.19
+_2020-03-10_
 
 * The following machines are now customizable: Cabteq S-250, Kurven-Band, Loopteq O-300, Paqteq C-250, Sorteq H-600, Sorteq V-2XX, Stackteq-GXX Standard, TFB-100, TFZ-531
 * The following machines were added: FEEDTEQ L-500, STACKTEQ L-500, TDL-310-10-25, TDL-510-25-25-12, TDL-510-25-25-S, EDGETEQ D-610 (KFL525), EDGETEQ D-610 (KFL526), TENONTEQ D-800 (FPL620), DRILLTEQ D-510 (ABD 210-12-D-F), DRILLTEQ D-510 (ABD 210-12-F), DRILLTEQ H-600 (BHX 500, KONZEPT-A1), DRILLTEQ H-600 (BHX 500, KONZEPT-A3), DRILLTEQ L-200 in diverse variants
@@ -158,11 +166,13 @@
 * The Y and Z axes were swapped: Z now points up and Y away from the camera
 * Further small bug fixes and improvements were done
 
-## 1.18.1 - 2019-12-06
+## 1.18.1
+_2019-12-06_
 
 * fixed: Selection outlines and measurements in the 2D-view have the wrong size when a machine is rescaled in 3D-view.
 
-## 1.18 - 2019-12-05
+## 1.18
+_2019-12-05_
 
 * This release mainly focuses on Bugfixes, performance improvements and user interface design. Additionally the following features were added
 * Tooltips
@@ -172,7 +182,8 @@
 * Added customization options to: Robot, Robot with linear axis, Storeteq S-TLF, Sorteq H-200, TFR 561, Protective Fences & Protective Windows
 * Known Issue: The machine Bandförderer (TFB-100) has the wrong size in the 2D-view (too big)
 
-## 1.17 - 2019-09-09
+## 1.17
+_2019-09-09_
 
 * Customizable Machines
 * Added to customization Panel to the Default Layout
@@ -194,7 +205,8 @@
 * Appending a list of all used the machines used to the export is now optional
 * Bugfixes and minor improvements
 
-## 1.16 - 2019-07-31
+## 1.16
+_2019-07-31_
 
 * A documentation is now avaliable under Settings > Help. In the future there will be a ticket system aswell.
 * Keyboard shortcuts can now be custumized under Settings > Input manager.

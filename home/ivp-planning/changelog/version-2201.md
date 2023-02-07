@@ -2,7 +2,8 @@
 
 ![](../../../.gitbook/assets/2201.jpg)
 
-## Version 2201.0 - 2022-01-28
+## Version 2201.0
+_2022-01-28_
 
 ### Added
 
@@ -31,7 +32,8 @@
 * Performance improvements for machines in the Schuler library
 * Various other bugfixes and performance improvements
 
-## Version 2201.0.1 - 2022-02-04
+## Version 2201.0.1
+_2022-02-04_
 
 ### Changed
 
@@ -50,7 +52,8 @@
 * Robot (with linear axis) changes it's position when it's mirrored
 * Locked machines are not visible in the 2D view when overhead view is enabled
 
-## Version 2201.0.2 - 2022-02-17
+## Version 2201.0.2
+_2022-02-17_
 
 ### Fixed
 
@@ -60,7 +63,8 @@
 * Transformation values set in the properties panel are reverted when moving an object in 3D view directly after the modification
 * Objects do not save their parent object and position correctly under certain conditions
 
-## Version 2201.1 - 2022-03-17
+## Version 2201.1
+_2022-03-17_
 
 ![](../../../.gitbook/assets/version-2201-1.png)
 

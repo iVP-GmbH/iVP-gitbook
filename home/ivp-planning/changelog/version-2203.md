@@ -2,7 +2,8 @@
 
 ![](../../../.gitbook/assets/version-2203.png)
 
-## Version 2203.0 - 2022-04-06
+## Version 2203.0
+_2022-04-06_
 
 ### Added
 
@@ -68,7 +69,8 @@
 * Selected objects now move into the correct direction when their parent is rotated and moved with them
 * Various minor bugfixes
 
-## Version 2203.0.1 - 2022-04-13
+## Version 2203.0.1
+_2022-04-13_
 
 ### Fixed
 
@@ -82,7 +84,8 @@
 * Passthrough modules in fences & rooms now update their displayed upper edge height correctly when the fence/room height is changed
 * Labels of paths with only 2 points can be disabled again
 
-## Version 2203.0.2 - 2022-04-21
+## Version 2203.0.2
+_2022-04-21_
 
 ### Changed
 
@@ -96,7 +99,8 @@
 * Area labels of paths now correctly show "invalid" when the area is invalid and the label was toggled off and on again
 * Path drawing is no longer unexpectedly ended when clicking close to but not on the last point
 
-## Version 2203.1 - 2022-07-27
+## Version 2203.1
+_2022-07-27_
 
 ### Added
 
@@ -112,7 +116,8 @@
 * When inserting a point into a path with two points, all of the newly created edges now have a distance label
 * The tabs of the video and camera list windows now show the correct icons
 
-## Version 2203.2 - 2022-08-31
+## Version 2203.2
+_2022-08-31_
 
 ![](../../../.gitbook/assets/version-2203_2.png)
 
