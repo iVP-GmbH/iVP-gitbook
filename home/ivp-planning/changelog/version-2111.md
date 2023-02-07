@@ -1,7 +1,3 @@
----
-coverY: 0
----
-
 # Version 2111
 
 ![](../../../.gitbook/assets/210923\_B320\_v2\_01\_white.jpg)
