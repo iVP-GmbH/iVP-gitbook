@@ -1,5 +1,7 @@
 # Version 2302
 
+![](../../../.gitbook/assets/2302.jpg)
+
 ## Version 2302.0
 
 ### Added
