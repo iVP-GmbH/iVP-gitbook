@@ -113,3 +113,4 @@
   * [iVP Showroom](home/ivp-showroom.md)
   * [iVP Viewer](home/ivp-viewer.md)
   * [iVP CGI](home/ivp-cgi.md)
+  * [Privacy Policy](home/privacy-policy.md)
