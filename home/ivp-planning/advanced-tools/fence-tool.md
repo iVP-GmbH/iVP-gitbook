@@ -8,7 +8,7 @@ The fence tool is a special variant of the [path tool](path-tool.md). We recomme
 
 ## Creating a fence:
 
-Fences are based on measurements which can be created with the [path tool](path-tool.md). Afterwards, every path can be turned into a fence by **changing the 'Type' into Fence** that is displayed in 'Measurements' as soon as a path is [selected](path-tool.md#path-selection-and-editing).
+Fences are based on measurements which can be created with the [path tool](path-tool.md). Afterwards, every path can be turned into a fence by **changing the 'Type' into Fence** that is displayed under 'Measurements' as soon as a path is [selected](path-tool.md#path-selection-and-editing).
 
 ![](../../../.gitbook/assets/iVP\_fence\_tool\_create\_fence.jpg)
 
@@ -40,7 +40,7 @@ Pass-troughs have a flexible width, they always span from the selected point to 
 
 ## Fence types and materials:
 
-It is possible to change the type respectively material of the fence. To do so, **choose an option from the list**.
+It is possible to change the material of the fence. To do so, **choose an option from the list**.
 
 ![](../../../.gitbook/assets/iVP\_fence\_tool\_create\_fence.jpg)
 

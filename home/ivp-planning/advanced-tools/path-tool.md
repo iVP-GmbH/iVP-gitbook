@@ -66,7 +66,7 @@ Alternatively it is possible to hide or show all lengths or angles by changing t
 
 ## Area measurements:
 
-Besides lengths and angles, areas are measurable as well. To activate this option, **right click on the path entry** in the measurements tab of the [properties](../user-interface/the-info-panel.md), followed by a click in **"Area"**.
+Besides lengths and angles, areas are measurable as well. To activate this option, **check the 'Area' box** under the measurements tab of the [properties](../user-interface/the-info-panel.md), followed by a click in **"Area"**.
 
 ![](../../../.gitbook/assets/iVP\_path\_tool\_draw\_path\_path\_panel.jpg)
 
@@ -82,7 +82,7 @@ The "Area" option also affects the path in 3D-panel so that it can be used to hi
 
 ## Path renaming:
 
-Paths can be renamed at any time via the [hierarchy](../user-interface/the-machine-list.md). After **right clicking on the desired path** and choosing **"Rename"**, the name of the path will get a blue square as background. It can now be changed by **entering the new name**, followed by the **Enter**.
+Paths can be [renamed](/the-tree-view/renaming-objects-and-folders) at any time just like any other object.
 
 {% hint style="info" %}
 There are no limitations concerning the name length of a path or concerning special characters like the umlauts "ä", "ü" and "ö".
