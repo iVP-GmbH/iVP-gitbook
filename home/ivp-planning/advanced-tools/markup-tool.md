@@ -52,23 +52,29 @@ After placing a markup, the [properties panel](../user-interface/the-info-panel.
 
 ## Conversation with Markups:
 
-In addition to the description of a markup, it is possible to **add information to a markup without creating a new one**. To do so, you can use the [conversation panel](../user-interface/conversation-panel.md).
+In addition to the description of a markup, it is possible to **add information to a markup without creating a new one**.
 
-## Using the Conversation Panel:
+The conversation section contains all text entries and screenshots made by users using the markup tool.
+
+![](../../../.gitbook/assets/conversation.jpg)
+
+## Using Conversations:
+
+The conversation tab can be opened by **clicking on the corresponding markup** and will be shown in the lower part of the [properties](../user-interface/the-info-panel.md).
 
 |                                                                           |                                                                                                                                                                                                                                                                                                              |
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![](../../../.gitbook/assets/conversation\_panel\_reply.jpg)                      | Input field for text to be shown in the conversation below
+| ![](../../../.gitbook/assets/conversation\_reply.jpg)                      | Input field for text to be shown in the conversation below
 |
-| ![](../../../.gitbook/assets/conversation\_panel\_send\_text.jpg)                 | Sends text to be shown in conversation below (alternatively press **Enter** in the input field ) 
+| ![](../../../.gitbook/assets/conversation\_send\_text.jpg)                 | Sends text to be shown in conversation below (alternatively press **Enter** in the input field ) 
 |
-| ![](../../../.gitbook/assets/conversation\_panel\_create\_screenshot.jpg)         | Replaces the [3d-view](..user-interface/the-3d-panel.md) with a panel that lets you [take and edit screenshots](/markup-tool.md#taking-a-screenshot-in-conversations)
+| ![](../../../.gitbook/assets/conversation\_create\_screenshot.jpg)         | Replaces the [3d-view](..user-interface/the-3d-panel.md) with a panel that lets you [take and edit screenshots](/markup-tool.md#taking-a-screenshot-in-conversations)
 |
-| ![](../../../.gitbook/assets/conversation\_panel\_text.jpg)                       | After sending a text it will be shown in a chat with date/time of the text and who posted it; to delete a text, click the small bin icon
+| ![](../../../.gitbook/assets/conversation\_text.jpg)                       | After sending a text it will be shown in a chat with date/time of the text and who posted it; to delete a text, click the small bin icon
 |
-| ![](../../../.gitbook/assets/conversation\_panel\_screenshot.jpg)                 | After [creating a screenshot](#taking-a-screenshot-in-conversations) it will be shown with the date and time it was posted; to delete a screenshot from the conversation, click the small bin icon
+| ![](../../../.gitbook/assets/conversation\_screenshot.jpg)                 | After [creating a screenshot](#taking-a-screenshot-in-conversations) it will be shown with the date and time it was posted; to delete a screenshot from the conversation, click the small bin icon
 |
-| ![](../../../.gitbook/assets/conversation\_panel\_screenshot\_reply.jpg)          | Reopens the panel to [create a screenshot](#taking-a-screenshot-in-conversations) and will post a new screenshot in the conversation after confirming
+| ![](../../../.gitbook/assets/conversation\_screenshot\_reply.jpg)          | Reopens the panel to [create a screenshot](#taking-a-screenshot-in-conversations) and will post a new screenshot in the conversation after confirming
 |
 
 ## Taking a screenshot in Conversations
