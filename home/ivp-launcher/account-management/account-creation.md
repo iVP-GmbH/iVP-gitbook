@@ -23,5 +23,5 @@ To use the iVP Hub, you have to be [logged in](login.md). However, if you do not
 5\. After finishing the process, your request will be forwarded to the iVP key user you stated earlier. If this person accepts your request you will receive an e-mail that contains your new login credentials.
 
 {% hint style="warning" %}
-Do not forget to [change your password](broken-reference) after you logged in for the first time to ensure that your account cannot be compromized if someone gets access to the mail with the original credentials.
+Do not forget to change your password after you logged in for the first time to ensure that your account cannot be compromized if someone gets access to the mail with the original credentials.
 {% endhint %}
