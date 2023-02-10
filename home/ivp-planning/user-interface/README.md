@@ -18,7 +18,6 @@ Overview for the interface (german)
 ## **Tool-related panels:**
 
 * [Markups Panel](markups-panel.md)
-* [Conversation Panel](conversation-panel.md)
 * [Camera list panel](camera-list-panel.md)
 * [Virtual camera panel](virtual-camera-panel.md)
 
