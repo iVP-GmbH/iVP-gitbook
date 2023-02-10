@@ -30,7 +30,6 @@ iVP offers many different features and tools. However it is possible to get to k
 
 * [Settings](settings-panel.md)
 * [Changelog](changelog-panel.md)
-* [License](license-manager-panel.md)
 
 ## **Adjusting the User interface:**
 

@@ -31,11 +31,9 @@ The text menu contains four submenus:
     * _**Walls:**_ toggles the visibility of walls in the [3D-View](the-3d-panel.md)
     * _**Ceiling:**_ toggles the visibility of the ceiling in the [3D-View](the-3d-panel.md)
 
-
 * Settings:
   * _**Language:**_ [sets the language](../getting-started/language-options.md) of the software
   * _**Settings:**_ opens the [settings panel](settings-panel.md)
-  * _**License:**_ opens the [license manager panel](license-manager-panel.md)
 
 * Windows:
   * _**Layout:**_ Opens a small submenu that lets you choose a [window layout](layouts.md)
