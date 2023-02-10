@@ -8,7 +8,7 @@ The room tool is a special variant of the [path tool](path-tool.md). We recommen
 
 ## Creating a room:
 
-Rooms are based on measurements which can be created with the [path tool](path-tool.md). Afterwards, every path can be turned into a room by **clicking on the "Room" tab** of the [path panel](../user-interface/path-panel.md) that is displayed as soon as a path is [selected](path-tool.md#path-selection-and-editing).
+Rooms are based on measurements which can be created with the [path tool](path-tool.md). Afterwards, every path can be turned into a room by **changing the type** in the Measurements tab of the [properties](../user-interface/the-info-panel.md) that is displayed as soon as a path is [selected](path-tool.md#path-selection-and-editing).
 
 ![](../../../.gitbook/assets/iVP\_fence\_tool\_create\_room.jpg)
 
@@ -16,9 +16,6 @@ Alternatively, it is possible to **right click** on the desired path, followed b
 
 ![](../../../.gitbook/assets/iVP\_fence\_tool\_right\_click\_menu\_to\_room.jpg)
 
-In the [path panel](../user-interface/path-panel.md), rooms can be identified by the fence icon that is displayed next to their name.
-
-![](../../../.gitbook/assets/iVP\_room\_tool\_icon.jpg)
 
 ## Editing the room shape:
 
@@ -40,7 +37,7 @@ Pass-troughs have a flexible width, they always span from the selected point to 
 
 ## Room customization:
 
-Rooms can be customized in various ways via the room tab of the [path panel](../user-interface/path-panel.md). Options are:
+Rooms can be customized in various ways via the room tab of the [properties](../user-interface/the-info-panel.md). Options are:
 
 * Wall visibility, material and dimensions
 * Window visibility, dimensions, spacing and offset
