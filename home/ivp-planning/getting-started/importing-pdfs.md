@@ -2,6 +2,11 @@
 
 In iVP it is possible to import PDFs that will act as an overlay for the [floor plan](../user-interface/the-floor-plan.md). This can be useful for illustration or when it is necessary to transform a 2D (factory) plan into a 3D scene.
 
+
+{% embed url="https://youtu.be/MuLt94b64O8?t=203" %}
+How to import and export PDFs (german)
+{% endembed %}
+
 ## Importing PDFs step by step:
 
 To import a PDF click on **File -> PDF -> Import PDF**. A new window will open that allows you to navigate to the folder that contains the PDF you want to import.

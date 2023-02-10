@@ -2,6 +2,10 @@
 
 In iVP, all objects can be rotated to adjust them to specific needs.
 
+{% embed url="https://youtu.be/7Vprataxi08?t=136" %}
+How to rotate objects (german)
+{% endembed %}
+
 {% hint style="info" %}
 Currently it is only possible to rotate objects around a vertical axis. A free rotation is currently in development.
 {% endhint %}

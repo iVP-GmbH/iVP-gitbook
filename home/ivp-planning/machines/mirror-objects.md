@@ -2,6 +2,10 @@
 
 When working with asymmetrical objects it can sometimes be necessary to mirror it along its axis to adapt it to a special requirement. In iVP mirroring is possible in the [2D-panel](../user-interface/the-2d-panel.md).
 
+{% embed url="https://youtu.be/7Vprataxi08?t=170" %}
+How to mirror objects (german)
+{% endembed %}
+
 {% hint style="info" %}
 Currently it is only possible to mirror objects along their horizontal axis. Vertical mirroring is currently in development.
 {% endhint %}

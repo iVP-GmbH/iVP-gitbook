@@ -6,6 +6,10 @@ in iVP it is possible to export the current project as a PDF that can be used fo
 
 ## Exporting PDFs step by step:
 
+{% embed url="https://youtu.be/MuLt94b64O8?list=PLlzoGkRUR67houzn5F5ejD3R-kQrDcps5&t=203" %}
+How to import and export PDFs (german)
+{% endembed %}
+
 The export process can be started by clicking on **File -> PDF - > Export PDF**.
 
 ![](../../../.gitbook/assets/iVP\_pdf\_export\_pfd\_menu\_entry.jpg)

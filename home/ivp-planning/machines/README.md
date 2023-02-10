@@ -1,6 +1,10 @@
 # Object Interaction
 
-This sections gives you an first overview of how to add, place, rotate scale and customize machines and objects in your iVP project. We would moreover recommend to have a look at this [<img src="../../../.gitbook/assets/YouTube_icon.png" alt="" data-size="line"> YouTube Tutorial](https://youtu.be/7Vprataxi08) as well.
+This sections gives you an first overview of how to add, place, rotate scale and customize machines and objects in your iVP project. We would moreover recommend to have a look at this iVP YouTube Tutorial as well.
+
+{% embed url="https://youtu.be/7Vprataxi08" %}
+How to add objects and edit them (german)
+{% endembed %}
 
 ## Basic interactions:
 
