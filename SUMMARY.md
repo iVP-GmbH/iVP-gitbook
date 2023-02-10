@@ -50,7 +50,6 @@
       * [Machine Database Panel](home/ivp-planning/user-interface/machine-database-panel.md)
       * [Info Panel](home/ivp-planning/user-interface/the-info-panel.md)
       * [Layouts](home/ivp-planning/user-interface/layouts.md)
-      * [Path Panel](home/ivp-planning/user-interface/path-panel.md)
       * [Markups Panel](home/ivp-planning/user-interface/markups-panel.md)
       * [Conversation Panel](home/ivp-planning/user-interface/conversation-panel.md)
       * [The Floor Plan](home/ivp-planning/user-interface/the-floor-plan.md)
