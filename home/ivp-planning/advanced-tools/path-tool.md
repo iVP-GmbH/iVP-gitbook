@@ -66,7 +66,7 @@ Alternatively it is possible to hide or show all lengths or angles by changing t
 
 ## Area measurements:
 
-Besides lengths and angles, areas are measurable as well. To activate this option, **check the 'Area' box** under the measurements tab of the [properties](../user-interface/the-info-panel.md), followed by a click in **"Area"**.
+Besides lengths and angles, areas are measurable as well. To activate this option, **check the 'Area' box** under the measurements foldout of the [properties](../user-interface/the-info-panel.md), followed by a click in **"Area"**.
 
 ![](../../../.gitbook/assets/iVP\_path\_tool\_draw\_path\_path\_panel.jpg)
 
