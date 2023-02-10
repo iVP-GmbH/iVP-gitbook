@@ -52,7 +52,6 @@
       * [Layouts](home/ivp-planning/user-interface/layouts.md)
       * [Path Panel](home/ivp-planning/user-interface/path-panel.md)
       * [Markups Panel](home/ivp-planning/user-interface/markups-panel.md)
-      * [Conversation Panel](home/ivp-planning/user-interface/conversation-panel.md)
       * [The Floor Plan](home/ivp-planning/user-interface/the-floor-plan.md)
       * [Settings Panel](home/ivp-planning/user-interface/settings-panel.md)
       * [Camera List Panel](home/ivp-planning/user-interface/camera-list-panel.md)
