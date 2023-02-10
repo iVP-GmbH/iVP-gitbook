@@ -2,6 +2,10 @@
 
 In iVP you can load previously [Saved Projects](saving-projects.md) for continuous work or collaboration. We would recommend to have a look at this [<img src="../../../.gitbook/assets/YouTube_icon.png" alt="" data-size="line"> YouTube Tutorial](https://youtu.be/MuLt94b64O8) for a quick introduction.
 
+{% embed url="https://youtu.be/MuLt94b64O8" %}
+How to save or load Projects (german)
+{% endembed %}
+
 ## Loading projects step by step:
 
 To load a project first click on **File -> Open**. A new window will open where you can navigate to the folder that contains the project file you want to load.

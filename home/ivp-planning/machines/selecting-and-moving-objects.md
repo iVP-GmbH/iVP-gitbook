@@ -1,6 +1,10 @@
 # Select Objects
 
-To interact with objects it is necessary to select them first. Only then it is possible to [move](move-objects.md), [rotate](scale-and-rotate-objects.md), [scale ](scale-objects.md)or [customize ](customizable-machines.md)them. To learn more we also recommend to have a look at this [<img src="../../../.gitbook/assets/YouTube_icon.png" alt="" data-size="line"> YouTube Tutorial](https://youtu.be/7Vprataxi08).
+To interact with objects it is necessary to select them first. Only then it is possible to [move](move-objects.md), [rotate](scale-and-rotate-objects.md), [scale ](scale-objects.md)or [customize ](customizable-machines.md)them. To learn more we also recommend to have a look at this [<img src="../../../.gitbook/assets/YouTube_icon.png" alt="" data-size="line"> YouTube Tutorial](https://youtu.be/7Vprataxi08?t=53).
+
+{% embed url="https://youtu.be/7Vprataxi08?t=53" %}
+How to select and move objects (german)
+{% endembed %}
 
 ## Selecting Objects in the 2D- and 3D-panel:
 

@@ -2,6 +2,10 @@
 
 This tutorial explains how to add new machines or objects to your iVP [scene](broken-reference/). We would also recommend to have a look at this [<img src="../../../.gitbook/assets/YouTube_icon.png" alt="" data-size="line"> YouTube Tutorial](https://youtu.be/7Vprataxi08).
 
+{% embed url="https://youtu.be/7Vprataxi08" %}
+How to add objects and edit them (german)
+{% endembed %}
+
 {% hint style="warning" %}
 To be able to add new machines to the scene, there has to be at least one [database ](broken-reference/)in your project.
 {% endhint %}

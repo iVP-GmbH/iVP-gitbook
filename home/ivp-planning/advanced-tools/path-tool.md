@@ -2,6 +2,10 @@
 
 The path tool is an easy but very powerful function of iVP that can be used for quick measurements as well as advanced highlighting. In its more specific forms - the[ fence tool ](fence-tool.md)respective [room tool ](the-room-tool.md)- it can also be used for the creation of complex [fences ](fence-tool.md#creating-a-fence)and [rooms ](the-room-tool.md#creating-a-room)in minutes.
 
+{% embed url="https://youtu.be/wfdVZQ76_F0" %}
+How to use the path tool
+{% endembed %}
+
 ## Path creation, lengths and angles:
 
 The path tool can be activated by clicking the path icon in the [2D-panel toolbar](../user-interface/the-2d-panel.md#the-toolbar-of-the-2d-panel).

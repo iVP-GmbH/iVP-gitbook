@@ -2,6 +2,10 @@
 
 In iVP, an object can be copied an multiplied in different ways. If several objects are selected, they will be multiplied as a group.
 
+{% embed url="https://youtu.be/7Vprataxi08?t=185" %}
+How to copy objects (german)
+{% endembed %}
+
 {% hint style="info" %}
 If you want to construct fences or barriers we recommend to use the [fence tool](../advanced-tools/fence-tool.md) instead of placing and copying single elements.
 {% endhint %}
