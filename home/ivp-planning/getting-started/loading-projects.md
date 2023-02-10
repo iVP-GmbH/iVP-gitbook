@@ -1,6 +1,6 @@
 # Loading Projects
 
-In iVP you can load previously [Saved Projects](saving-projects.md) for continuous work or collaboration. We would recommend to have a look at this [<img src="../../../.gitbook/assets/YouTube_icon.png" alt="" data-size="line"> YouTube Tutorial](https://youtu.be/MuLt94b64O8) for a quick introduction.
+In iVP you can load previously [Saved Projects](saving-projects.md) for continuous work or collaboration. We would recommend to have a look at this iVP YouTube Tutorial for a quick introduction.
 
 {% embed url="https://youtu.be/MuLt94b64O8" %}
 How to save or load Projects (german)

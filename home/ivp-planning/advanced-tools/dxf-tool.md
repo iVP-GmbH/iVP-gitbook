@@ -8,7 +8,7 @@ After a DXF file is imported, it will be added to the [hierarchy](../user-interf
 This is different to an [imported PDF](../getting-started/importing-pdfs.md), which will not be moveable in iVP but can be used as a overlay for the [floor plan](../user-interface/the-floor-plan.md).
 {% endhint %}
 
-For better understanding and training we created a [<img src="../../../.gitbook/assets/YouTube_icon.png" alt="" data-size="line"> YouTube Tutorial](https://youtu.be/Maxivv824Dk), where you can find a detailed explanation how to import and export of DXF files.
+For better understanding and training we created a iVP YouTube Tutorial, where you can find a detailed explanation how to import and export of DXF files.
 
 {% embed url="https://youtu.be/Maxivv824Dk" %}
 How to import and export DXF files

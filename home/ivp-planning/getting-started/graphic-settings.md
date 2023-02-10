@@ -1,6 +1,6 @@
 # Graphic Settings
 
-You can customize iVP in many ways to adjust graphical quality and performance. To get started we recommend you to have a look at this [<img src="../../../.gitbook/assets/YouTube_icon.png" alt="" data-size="line"> YouTube Tutorial](https://youtu.be/y-Uo87gfr5I) to learn more about the different options and their effects.
+You can customize iVP in many ways to adjust graphical quality and performance. To get started we recommend you to have a look at this iVP YouTube Tutorial to learn more about the different options and their effects.
 
 {% embed url="https://youtu.be/y-Uo87gfr5I" %}
 How to change your settings in iVP Planning (german)
