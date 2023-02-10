@@ -28,5 +28,3 @@ To replace a scene or to load a PDF floor plan when another plan is already in t
 {% endhint %}
 
 ![](../../../.gitbook/assets/iVP\_open\_file\_options.jpg)
-
-If your local iVP installation does not have access to the same [databases ](broken-reference)that were used to create the save file, it is possible to replace missing machines and objects with placeholders. Otherwise it is possible to [import the missing database](broken-reference).

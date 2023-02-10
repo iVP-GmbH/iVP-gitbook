@@ -15,9 +15,5 @@ It is also possible to use a [shortcut ](../settings/input-manager.md)to save th
 {% endhint %}
 
 {% hint style="warning" %}
-If you want to share a save file with colleagues or customers make sure they have access to all required [machine databases](broken-reference). Machine and object models are not shipped with the save files themselves!
-{% endhint %}
-
-{% hint style="danger" %}
-Currently there is NO automatic save function implemented! To prevent data loss, you should save your work frequently.
+If you want to share a save file with colleagues or customers make sure they have the needed acess rights for the used machines. Machine and object models are not shipped with the save files themselves!
 {% endhint %}

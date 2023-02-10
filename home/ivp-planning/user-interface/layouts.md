@@ -1,6 +1,6 @@
 # Layouts
 
-To quickly adjust iVPs user interface to your needs (e.g. [video production](broken-reference/)) you can choose from a number of presets that will automatically adjust the [window layout](adjusting-the-ui.md).
+To quickly adjust iVPs user interface to your needs (e.g. [video production](../advanced-tools/virtual-cameras.md)) you can choose from a number of presets that will automatically adjust the [window layout](adjusting-the-ui.md).
 
 ## Switching between layouts step by step:
 
@@ -30,7 +30,7 @@ The simple layout is useful to display information of already existing objects a
 {% tab title="Presentation Layout" %}
 ![](../../../.gitbook/assets/iVP\_layout\_presentation.jpg)
 
-The presentation layout replaces the info panel through the [virtual camera panel](virtual-camera-panel.md) and the [camera list panel](camera-list-panel.md) and widens the [2D-](the-2d-panel.md) and the [3D-panel](the-3d-panel.md) so that everything is set up for the production of [screenshots ](broken-reference/)and [virtual dolly shots](broken-reference/).
+The presentation layout replaces the info panel through the [virtual camera panel](virtual-camera-panel.md) and the [camera list panel](camera-list-panel.md) and widens the [2D-](the-2d-panel.md) and the [3D-panel](the-3d-panel.md) so that everything is set up for the production of [screenshots ](../advanced-tools/creating-screenshots.md)and [virtual dolly shots](../advanced-tools/virtual-cameras.md).
 {% endtab %}
 {% endtabs %}
 

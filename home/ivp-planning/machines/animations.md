@@ -1,6 +1,6 @@
 # Animations
 
-Many objects in iVP have animations available that can be turned on for [video production](broken-reference) or general visualization.
+Many objects in iVP have animations available that can be turned on for [video production](../advanced-tools/virtual-cameras.md) or general visualization.
 
 ## Toggling the animations of single objects:
 
