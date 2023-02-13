@@ -3,6 +3,7 @@
 ![](../../../.gitbook/assets/2302.jpg)
 
 ## Version 2302.0
+_2023-02-09_
 
 ### Added
 
@@ -48,3 +49,24 @@
 * When placing a virtual camera, it is now visible in the preview
 * All texts in the color picker now use the correct font
 * Various minor bugfixes
+
+## Version 2302.0.1
+_2023-02-14_
+
+### Added
+
+* Support importing layer colors in DXF files
+* Keyboard shortcuts to switch between movement (W), rotation (E) & scale (R) mode
+* Icons for imported images and DXF files in the hierarchy
+
+### Fixed
+
+* Fixed an issue that prevents modifiying an objects rotation through the properties panel
+* SORTBOT R-300 (RKS 300) no longer fails to save some of it's customizations
+* When modifying the shelf levels of SORTBOT R-300 (RKS 300), all cells now update accordingly
+* Fixed another issue that could lead to the hierarchy not being preserved, when loading the same file additively twice
+* The camera in the 2D view no longer sometimes gets stuck when focusing very small objects
+* Loading a legacy save file no longer fails when it contains a disabled path
+* When importing an image, the file menu now closes automatically
+* Reassigning the keyboard shortcut to focus an object once again works
+* Removed obsolete keyboard shortcuts from the input tab of the settings panel
