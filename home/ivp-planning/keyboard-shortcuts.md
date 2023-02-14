@@ -11,13 +11,14 @@ Here is a list of all the default keyboard shortcuts and their function. Please 
 
 ## **2D Camera Control**
 
-| Shortcut                     | Input Name | Function                       |
-| ---------------------------- | ---------- | ------------------------------ |
-| **Up Arrow**                 | Forwards   | Moving the 2D camera forwards  |
-| **Down Arrow**               | Backwards  | Moving the 2D camera backwards |
-| **Left Arrow**               | Left       | Moving the 2D camera left      |
-| **Right Arrow**              | Right      | Moving the 2D camera right     |
-
+| Shortcut                          | Input Name | Function                       |
+| --------------------------------- | ---------- | ------------------------------ |
+| **Right click + W / Up Arrow**    | Forwards   | Moving the 3D camera forwards  |
+| **Right click + E**               | Forwards2  | Moving the 3D camera forwards  |
+| **Right click + S / Down Arrow**  | Backwards  | Moving the 3D camera backwards |
+| **Right click + Q**               | Backwards2 | Moving the 3D camera backwards |
+| **Right click + A / Left Arrow**  | Left       | Moving the 3D camera left      |
+| **Right click + D / Right Arrow** | Right      | Moving the 3D camera right     |
 
 ## **3D Camera Control**
 
@@ -49,7 +50,7 @@ Here is a list of all the default keyboard shortcuts and their function. Please 
 | **Delete**                    | Delete        | Delete the selected objects                  |
 | **Left CTRL + LeftMouseDrag** | Box select    | Box selections for objects (only in 2D view) |
 | **Left CTRL + C**             | Copy          | Copy the selected object                     |
-| **F7**                        | Duplicate     | Copy the selected object multiple times      |
+| **F7**                        | Multi-Copy    | Copy the selected object multiple times      |
 | **End**                       | Snap to floor | Snap selected object to floor                |
 
 ## **Other**
