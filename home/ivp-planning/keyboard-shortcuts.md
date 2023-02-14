@@ -6,11 +6,18 @@ description: >-
 
 # Keyboard Shortcuts
 
-Here is a list of all the default keyboard shortcuts and their function. Please note, that most of the shortcuts can be changed in iVP. [**Here**](settings/input-manager.md) you can find how to change your shortcuts for individual usage.
+Here is a list of all the default keyboard shortcuts and their function. Please note, that most of the shortcuts can be changed in iVP. 
+[**Here**](settings/input-manager.md) you can find how to change your shortcuts for individual usage.
 
 ## **2D Camera Control**
 
-Go to "[Moving the camera](getting-started/moving-the-camera.md#moving-the-camera-in-the-2d-panel)".
+| Shortcut                     | Input Name | Function                       |
+| ---------------------------- | ---------- | ------------------------------ |
+| **Up Arrow**                 | Forwards   | Moving the 2D camera forwards  |
+| **Down Arrow**               | Backwards  | Moving the 2D camera backwards |
+| **Left Arrow**               | Left       | Moving the 2D camera left      |
+| **Right Arrow**              | Right      | Moving the 2D camera right     |
+
 
 ## **3D Camera Control**
 
@@ -23,29 +30,43 @@ Go to "[Moving the camera](getting-started/moving-the-camera.md#moving-the-camer
 | **Right click + E**               | Up         | Moving the 3D camera up        |
 | **Right click + Q**               | Down       | Moving the 3D camera down      |
 
-## **Machine interaction**
+## **Paths**
 
-| Shortcut                      | Input Name   | Function                        |
-| ----------------------------- | ------------ | ------------------------------- |
-| **F**                         | Focus Object | Zoom in to the selected machine |
-| **E**                         | Transform    | Activate 3D-transform tools     |
-| **R**                         | Rotate       | Activate 3D-rotate tools        |
-| **T**                         | Scale        | Activate 3D-scale tools         |
-| **Delete**                    | Delete       | Delete the selected machines    |
-| **Left STRG + LeftMouseDrag** | Box select   | Box selections for machines     |
-| **Left STRG + C**             | Copy         | Copy the selected machines      |
+| Shortcut       | Input Name   | Function                             |
+| -------------- | ------------ | ------------------------------------ |
+| **P**          | Path Mode    | Activate Path mode                   |
+| **V**          | Regular Mode | Activate regular mode                |
+| **Left SHIFT** | Snapping     | Change angle only by [set](../ivp-planning/settings/global-settings.md#the-options-explained) degrees |
+
+## **Object interaction**
+
+| Shortcut                      | Input Name    | Function                                     |
+| ----------------------------- | ------------- | -------------------------------------------- | 
+| **F**                         | Focus Object  | Zoom in to the selected machine              | 
+| **W**                         | 3d Move       | Activate 3D-transform tools                  | 
+| **E**                         | Rotate        | Activate 3D-rotate tools                     |
+| **R**                         | Scale         | Activate 3D-scale tools                      |
+| **Delete**                    | Delete        | Delete the selected objects                  |
+| **Left CTRL + LeftMouseDrag** | Box select    | Box selections for objects (only in 2D view) |
+| **Left CTRL + C**             | Copy          | Copy the selected object                     |
+| **F7**                        | Duplicate     | Copy the selected object multiple times      |
+| **End**                       | Snap to floor | Snap selected object to floor                |
 
 ## **Other**
 
-| Shortcut          | Input Name       | Function                                           |
-| ----------------- | ---------------- | -------------------------------------------------- |
-| **Return**        | Submit           | Submit the action                                  |
-| **Escape**        | Cancel           | Cancel Pop-up eindows / exit fullscreen playerView |
-| **G**             | Toggle Grid      | Toggle the 2d grid                                 |
-| **V**             | Toggle User View | Toggle the additional user view                    |
-| **Left STRG + O** | Open File        | Open a save file                                   |
-| **Left STRG + A** | Select All       | Select all machines in the scene                   |
-| **Left STRG + F** | Search           | Search machine                                     |
-| **Left STRG + Z** | Undo             | Undo the recent action                             |
-| **Left STRG + Y** | Redo             | Redo the recent action                             |
-| **Left STRG + M** | Measurements     | Activate measurement function                      |
+| Shortcut             | Input Name        | Function                                         |
+| -------------------- | ----------------- | ------------------------------------------------ |
+| **Return**           | Submit            | Submit the action                                |
+| **Escape**           | Cancel            | Cancel Pop-up Windows / Exit fullscreen View     |
+| **G**                | Toggle Grid       | Toggle the 2D grid                               |
+| **B**                | Add Camera        | Add a virtual camera from 3D viewpoint           |
+| **Tab**              | Switch Inputfield | Switch between the input fields                  |
+| **CTRL + O**         | Open File         | Open a save file                                 |
+| **CTRL + S**         | Save Project      | Save a project / Quicksave                       |
+| **CTRL + A**         | Select All        | Select all objects in the scene                  |
+| **CTRL + SHIFT + A** | Deselect All      | Deselect all objects in the scene                |
+| **Left ALT + S**     | Create Snapshot   | Quick Screenshot of current 3d View              |
+| **Left CTRL + F**    | Search            | Search object in library                         |
+| **H**                | Hide Object       | Hide/Unhide the selected objects                 |
+| **L**                | Lock Object       | Lock/Unlock the selected objects                 |
+| **F2**               | Rename            | Rename the selected object                       |
