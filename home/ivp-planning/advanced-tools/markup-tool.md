@@ -72,7 +72,7 @@ The conversation tab can be opened by **clicking on the corresponding markup** a
 |
 | ![](../../../.gitbook/assets/conversation\_create\_screenshot.jpg)         | Replaces the [3d-view](..user-interface/the-3d-panel.md) with a panel that lets you [take and edit screenshots](/markup-tool.md#taking-a-screenshot-in-conversations)
 |
-| ![](../../../.gitbook/assets/conversation\_text.jpg)                       | After sending a text it will be shown in a chat with date/time of the text and who posted it; to delete a text, click the small bin icon
+| ![](../../../.gitbook/assets/conversation_text.jpg)                        | After sending a text it will be shown in a chat with date/time of the text and who posted it; to delete a text, click the small bin icon
 |
 | ![](../../../.gitbook/assets/conversation\_screenshot.jpg)                 | After [creating a screenshot](#taking-a-screenshot-in-conversations) it will be shown with the date and time it was posted; to delete a screenshot from the conversation, click the small bin icon
 |
