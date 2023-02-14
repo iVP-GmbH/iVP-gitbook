@@ -9,7 +9,7 @@ description: >-
 Here is a list of all the default keyboard shortcuts and their function. Please note, that most of the shortcuts can be changed in iVP. 
 [**Here**](settings/input-manager.md) you can find how to change your shortcuts for individual usage.
 
-## **Camera Control**
+## **Camera Control (2D and 3D)**
 
 | Shortcut                          | Input Name | Function                       |
 | --------------------------------- | ---------- | ------------------------------ |
