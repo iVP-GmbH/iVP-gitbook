@@ -11,14 +11,14 @@ Here is a list of all the default keyboard shortcuts and their function. Please 
 
 ## **Camera Control (2D and 3D)**
 
-| Shortcut                          | Input Name | Function                       |
-| --------------------------------- | ---------- | ------------------------------ |
-| **Right click + W / Up Arrow**    | Forwards   | Moving the 3D camera forwards  |
-| **Right click + S / Down Arrow**  | Backwards  | Moving the 3D camera backwards |
-| **Right click + A / Left Arrow**  | Left       | Moving the 3D camera left      |
-| **Right click + D / Right Arrow** | Right      | Moving the 3D camera right     |
-| **Right click + E**               | Up         | Moving the 3D camera up        |
-| **Right click + Q**               | Down       | Moving the 3D camera down      |
+| Shortcut                          | Input Name | Function                          |
+| --------------------------------- | ---------- | --------------------------------- |
+| **Right click + W / Up Arrow**    | Forwards   | Moving the 2D/3D camera forwards  |
+| **Right click + S / Down Arrow**  | Backwards  | Moving the 2D/3D camera backwards |
+| **Right click + A / Left Arrow**  | Left       | Moving the 2D/3D camera left      |
+| **Right click + D / Right Arrow** | Right      | Moving the 2D/3D camera right     |
+| **Right click + E**               | Up         | Moving the 2D/3D camera up        |
+| **Right click + Q**               | Down       | Moving the 2D/3D camera down      |
 
 ## **Paths**
 
