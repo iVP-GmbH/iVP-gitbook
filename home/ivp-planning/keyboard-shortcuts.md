@@ -9,18 +9,7 @@ description: >-
 Here is a list of all the default keyboard shortcuts and their function. Please note, that most of the shortcuts can be changed in iVP. 
 [**Here**](settings/input-manager.md) you can find how to change your shortcuts for individual usage.
 
-## **2D Camera Control**
-
-| Shortcut                          | Input Name | Function                       |
-| --------------------------------- | ---------- | ------------------------------ |
-| **Right click + W / Up Arrow**    | Forwards   | Moving the 3D camera forwards  |
-| **Right click + E**               | Forwards2  | Moving the 3D camera forwards  |
-| **Right click + S / Down Arrow**  | Backwards  | Moving the 3D camera backwards |
-| **Right click + Q**               | Backwards2 | Moving the 3D camera backwards |
-| **Right click + A / Left Arrow**  | Left       | Moving the 3D camera left      |
-| **Right click + D / Right Arrow** | Right      | Moving the 3D camera right     |
-
-## **3D Camera Control**
+## **Camera Control**
 
 | Shortcut                          | Input Name | Function                       |
 | --------------------------------- | ---------- | ------------------------------ |
