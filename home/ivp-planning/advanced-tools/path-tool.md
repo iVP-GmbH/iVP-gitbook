@@ -86,7 +86,7 @@ The "Area" option also affects the path in 3D-panel so that it can be used to hi
 
 ## Path renaming:
 
-Paths can be [renamed](/the-tree-view/renaming-objects-and-folders) at any time just like any other object.
+Paths can be [renamed](../machines/renaming-objects-and-folders.md) at any time just like any other object.
 
 {% hint style="info" %}
 There are no limitations concerning the name length of a path or concerning special characters like the umlauts "ä", "ü" and "ö".
