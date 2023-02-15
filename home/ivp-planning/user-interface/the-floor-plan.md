@@ -5,7 +5,7 @@ The floor plan defines the virtual room or factory hall in which machines and ob
 ![](../../../.gitbook/assets/iVP\_floor\_plan\_2D\_and\_3D.jpg)
 
 {% hint style="info" %}
-All machines and objects can also be placed outside of the floor plan without any limitations. Although this might not be the typical use case it can be used to temporarily "store" machines. However, a better practice is usually to place the machines in their correct spot on the floor plan and then to [hide ](the-machine-list.md#visibility)them.
+All machines and objects can also be placed outside of the floor plan without any limitations. Although this might not be the typical use case it can be used to temporarily "store" machines. However, a better practice is usually to place the machines in their correct spot on the floor plan and then to [hide](hierarchy-panel.md#hideunhide-objects) them.
 {% endhint %}
 
 ## Adjusting the shape and size of the floor plan:
