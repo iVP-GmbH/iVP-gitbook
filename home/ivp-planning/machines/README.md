@@ -17,6 +17,7 @@ How to add objects and edit them (german)
 
 * [Highlighting objects](highlighting-objects.md)
 * [Customizable objects](customizable-machines.md)
+* [Renaming objects](renaming-objects-and-folders.md)
 
 ## Animations:
 
