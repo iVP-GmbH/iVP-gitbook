@@ -11,7 +11,7 @@ Via this panel it is possible to collect objects in [folders](#folders), to [ren
 |                                                           |                                                                                                                                                   |
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![](../../../.gitbook/assets/Hierarchy_search.jpg)        | The search bar makes it possible to only display such machines or objects which names contain the entered text (the search is not case sensitive) |
-| ![](../../../.gitbook/assets/Hierarchy_folder_button.jpg) | Adds a new folder to the tree view                                                                                                                |
+| ![](../../../.gitbook/assets/Hierarchy_folder_button.jpg) | Adds a new folder to the hierarchy                                                                                                                |
 | ![](../../../.gitbook/assets/Hierarchy_color.jpg)         | Visualisation of the [color](../machines/highlighting-objects.md) set for the object(s)                                                           |
 | ![](../../../.gitbook/assets/Hierarchy_lock.jpg)          | Locks or unlocks the currently selected object(s)                                                                                                 |
 | ![](../../../.gitbook/assets/Hierarchy_visibility.jpg)    | Toggles the visibility of the currently selected object(s)                                                                                        |
