@@ -16,7 +16,7 @@ In the virtual camera panel, simply click on the "Add camera" button.
 
 ![](../../../.gitbook/assets/iVP\_virtual\_cameras\_camera\_panel\_add\_camera.jpg)
 
-The new camera will now appear in the machine list panel and is ready for setup.
+The new camera will now appear in the hierarchy panel and is ready for setup.
 
 ![](../../../.gitbook/assets/iVP\_virtual\_cameras\_machine\_list\_panel.jpg)
 

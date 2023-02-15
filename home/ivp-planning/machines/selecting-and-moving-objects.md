@@ -22,9 +22,9 @@ In the [3D-Panel](../user-interface/the-3d-panel.md), selected Objects will have
 
 ![](../../../.gitbook/assets/iVP\_guide\_select\_objects\_3D.jpg)
 
-## Selecting objects via the machine list panel:
+## Selecting objects via the hierarchy panel:
 
-Every object in the scene also has an entry in the [machine list panel](../user-interface/the-machine-list.md). You can select objects by **clicking on their entry**. The entries of selected machines can be identified by their blue tint.
+Every object in the scene also has an entry in the [hierarcy panel](../user-interface/hierarchy-panel.md). You can select objects by **clicking on their entry**. The entries of selected machines can be identified by their blue tint.
 
 {% hint style="info" %}
 It is also possible to select multiple objects by holding the **Ctrl** key while clicking on them one after another. You can also use the **Shift** key to select a range of entries at once.

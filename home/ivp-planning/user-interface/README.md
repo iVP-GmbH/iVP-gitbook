@@ -11,7 +11,7 @@ Overview for the interface (german)
 * [Top bar](the-top-bar.md)
 * [2D-panel](the-2d-panel.md)
 * [3D-panel](the-3d-panel.md)
-* [Machine list panel](the-machine-list.md)
+* [Hierarchy panel](hierarchy-panel.md)
 * [Machine database panel](machine-database-panel.md)
 * [Info panel](the-info-panel.md)
 
