@@ -28,7 +28,6 @@ This short, interactive introduction to iVP Planning will give a compact runthro
 
 * [User interface](../user-interface/)
 * [User interface adjustments](../user-interface/adjusting-the-ui.md)
-* [Project organization](../the-tree-view/)
 
 **4.** Objects and object interactions:
 

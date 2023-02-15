@@ -22,7 +22,7 @@ To create a markup, **left click on a position** in the [2D-panel](../user-inter
 
 ![](../../../.gitbook/assets/markup\_placement.jpg)
 
-The placed markup will be added to the [hierarchy](../user-interface/the-machine-list.md) and can be used like any other object. It can be [renamed and grouped in folders](../machines/renaming-objects-and-folders.md), [set in/visible](../the-tree-view/visibility-of-objects-and-folders.md), set to be [un/locked](../the-tree-view/locked-objects-and-folders.md) and [recolored](../machines/highlighting-objects.md).
+The placed markup will be added to the [hierarchy](../user-interface/the-machine-list.md) and can be used like any other object. It can be [renamed and grouped in folders](../machines/renaming-objects-and-folders.md), [set in/visible](../user-interface/hierarchy-panel.md#hideunhide-objects), set to be [un/locked](../user-interface/hierarchy-panel.md#lockunlock-objects) and [recolored](../machines/highlighting-objects.md).
 
 ## Editing a Markup:
 
