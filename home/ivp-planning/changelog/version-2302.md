@@ -70,3 +70,20 @@ _2023-02-14_
 * When importing an image, the file menu now closes automatically
 * Reassigning the keyboard shortcut to focus an object once again works
 * Removed obsolete keyboard shortcuts from the input tab of the settings panel
+
+## Version 2302.0.2
+_2023-02-16_
+
+
+### Changed
+
+* The help button in the top bar now opens the iVP Planning subpage of the documentation instead of the main page
+* Updated .NET 6 dependency to the latest version
+
+### Fixed
+
+* The buttons for changing the 3D edit modes (move, rotate, scale) once again work
+* Fixed placeholder size and placement for imported DXF and image files
+* Removed a case leading to extreme bounds of imported DXF files
+* Upper/Lower Edge Height of the room passthrough module are now correctly localized when the German language is selected
+* Minor Bugfixes
