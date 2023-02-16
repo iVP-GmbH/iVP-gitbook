@@ -79,7 +79,6 @@
       * [Visibility Of Objects And Folders](home/ivp-planning/the-tree-view/visibility-of-objects-and-folders.md)
       * [Locked Objects And Folders](home/ivp-planning/the-tree-view/locked-objects-and-folders.md)
     * [Advanced Tools](home/ivp-planning/advanced-tools/README.md)
-      * [Scaling](home/ivp-planning/advanced-tools/scaling.md)
       * [Creating Screenshots](home/ivp-planning/advanced-tools/creating-screenshots.md)
       * [Virtual Cameras](home/ivp-planning/advanced-tools/virtual-cameras.md)
       * [DXF Import](home/ivp-planning/advanced-tools/dxf-tool.md)
