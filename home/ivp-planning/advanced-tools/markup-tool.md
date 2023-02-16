@@ -41,7 +41,7 @@ After placing a markup, the [properties panel](../user-interface/the-info-panel.
     * _**Dimensions:**_ the dimensions of the object; this information is only changeable by changing the [scale](../machines/scale-objects.md)
     * _**Position:**_ the position of the object, changing this will [move the object](../machines/move-objects.md#moving-objects-via-the-info-panel)
     * _**Scale:**_ the [scale](../machines/scale-objects.md) of the object; use with caution!
-    * _**Rotation:**_ the [rotation](../machines/scale-and-rotate-objects.md) of the object
+    * _**Rotation:**_ the [rotation](../machines/rotate-objects.md) of the object
 * Markup: the panel containing information about the markup regarding
     * _**Priority:**_ a Priority can be set for each individual markup, which helps with sorting markups in the [markups panel](../user-interface/markups-panel.md) and works great if combined with [recoloring](../machines/highlighting-objects.md)
         * _**Low:**_ set the priority of the selected markup to low
