@@ -6,10 +6,6 @@ This tutorial explains how to add new machines or objects to your iVP project. W
 How to add objects and edit them (german)
 {% endembed %}
 
-{% hint style="warning" %}
-To be able to add new machines to the scene, there has to be at least one [database ](broken-reference/)in your project.
-{% endhint %}
-
 ## Adding a new object step by step:
 
 to add a new object, first click on one of the database names in the [machine database panel](../user-interface/machine-database-panel.md).
@@ -32,4 +28,4 @@ The last step is to simply click anywhere in the 2D- or the [3D-panel](../user-i
 
 ![](../../../.gitbook/assets/iVP\_guide\_add\_new\_machines\_placed\_machine.jpg)
 
-From here, you can either adjust [position](selecting-and-moving-objects.md#move-objects), [rotation ](rotate-objects.md#rotate-objects)or [scale ](rotate-objects.md#scale-objects)of the object or [modify ](customizable-machines.md)it provided it is a [customizable object](customizable-machines.md).
+From here, you can either adjust [position](selecting-and-moving-objects.md#selecting-objects-in-the-2d--and-3d-panel), [rotation](rotate-objects.md#rotate-objects) or [scale](scale-objects.md#scale-objects) of the object or [modify](customizable-machines.md) it provided it is a [customizable object](customizable-machines.md).
