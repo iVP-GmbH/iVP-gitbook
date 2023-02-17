@@ -3,7 +3,7 @@
 Scaling objects offers an easy way to alter the size of every object. This is useful to make adjustments of objects that are not [customizable](customizable-machines.md).
 
 {% hint style="warning" %}
-Use the scaling function with care to avoid deformations or glitches. If it is possible to use a [customization](customizable-machines.md) option of the object, always use the option.
+Always use this option with care to avoid deformations or glitches. If it is possible to use a [customization](customizable-machines.md) option of the object, always use the option.
 {% endhint %}
 
 ## Scaling objects in the 3D-panel:
@@ -12,7 +12,7 @@ To scale objects make sure that you switched to the **scaling mode** by clicking
 
 ![](../../../.gitbook/assets/Scaling_button.jpg)
 
-As soon as you are in the scaling mode, the handle in the center of the object will change to an angle bracket with three axis which have small cubes at the ends. By **dragging a cube with the mouse** the object will scale in the respective direction. To drag the central cube results in a even scaling of the object in all directions.
+As soon as you are in the scaling mode, the handle in the center of the object will change to an angle bracket with three axis which have small cubes at the ends. By **dragging a cube with the mouse** the object will scale in the respective dimension. To drag the central cube results in a even scaling of the object in all directions.
 
 ![](<../../../.gitbook/assets/Scaling_gizmo.jpg>)
 
