@@ -46,7 +46,7 @@
       * [Top Bar](home/ivp-planning/user-interface/the-top-bar.md)
       * [2D-Panel](home/ivp-planning/user-interface/the-2d-panel.md)
       * [3D-Panel](home/ivp-planning/user-interface/the-3d-panel.md)
-      * [Hierarchy Panel](home/ivp-planning/user-interface/the-machine-list.md)
+      * [Hierarchy Panel](home/ivp-planning/user-interface/hierarchy-panel.md)
       * [Machine Database Panel](home/ivp-planning/user-interface/machine-database-panel.md)
       * [Info Panel](home/ivp-planning/user-interface/the-info-panel.md)
       * [Layouts](home/ivp-planning/user-interface/layouts.md)
