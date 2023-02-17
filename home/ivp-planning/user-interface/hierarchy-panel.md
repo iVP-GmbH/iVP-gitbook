@@ -1,8 +1,8 @@
 # Hierarchy Panel
 
-Every object that is added to a project will get an associated entry in the hierarchy panel during its creation. This panel contains a list of all machines, objects, [markups](../advanced-tools/markup-tool.md), images, [DXF imports](../advanced-tools/dxf-tool.md), [PDF imports](../getting-started/importing-pdfs.md) and [virtual cameras](../advanced-tools/virtual-cameras.md) and is used to organize them in a tree structure. 
+Every object that is added to a project will get an associated entry in the hierarchy panel during its creation. This panel contains a list of all machines, objects, [markups](../advanced-tools/markup-tool.md), images, [DXF imports](../advanced-tools/dxf-tool.md) and [virtual cameras](../advanced-tools/virtual-cameras.md) and is used to organize them in a tree structure. 
 
-Via this panel it is possible to collect objects in [folders](#folders), to [rename](../machines/renaming-objects-and-folders.md) objects and folders, to toggle their [visibility](#visibility) or to lock them to prevent unwanted changes.
+Via this panel it is possible to collect objects in [folders](#folders), to [rename](../machines/renaming-objects-and-folders.md) objects and folders, to toggle their [visibility](#hideunhide-objects) or to lock them to prevent unwanted changes.
 
 ![](../../../.gitbook/assets/hierarchy.jpg)
 
@@ -10,7 +10,7 @@ Via this panel it is possible to collect objects in [folders](#folders), to [ren
 
 |                                                           |                                                                                                                                                   |
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](../../../.gitbook/assets/Hierarchy_search.jpg)        | The search bar makes it possible to only display such machines or objects which names contain the entered text (the search is not case sensitive) |
+| ![](../../../.gitbook/assets/Hierarchy_search.jpg)        | The search bar makes it possible to only display machines or objects which names contain the entered text (the search is not case sensitive) |
 | ![](../../../.gitbook/assets/Hierarchy_folder_button.jpg) | Adds a new folder to the hierarchy                                                                                                                |
 | ![](../../../.gitbook/assets/Hierarchy_color.jpg)         | Visualisation of the [color](../machines/highlighting-objects.md) set for the object(s)                                                           |
 | ![](../../../.gitbook/assets/Hierarchy_lock.jpg)          | Locks or unlocks the currently selected object(s)                                                                                                 |
