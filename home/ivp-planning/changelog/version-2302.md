@@ -74,7 +74,6 @@ _2023-02-14_
 ## Version 2302.0.2
 _2023-02-16_
 
-
 ### Changed
 
 * The help button in the top bar now opens the iVP Planning subpage of the documentation instead of the main page
@@ -87,3 +86,16 @@ _2023-02-16_
 * Removed a case leading to extreme bounds of imported DXF files
 * Upper/Lower Edge Height of the room passthrough module are now correctly localized when the German language is selected
 * Minor Bugfixes
+
+## Version 2302.0.3
+_2023-02-24_
+
+### Changed
+
+* Continue loading the library when Planning is not focused
+
+### Fixed
+
+* Fixed a crash that could happen when a DXF with many texts was imported
+* When an autosave happens that includes an unsaved imported DXF or image the imported file is no longer missing when you save your plan
+* Locked machines are once again visible for virtual cameras
