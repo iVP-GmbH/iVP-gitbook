@@ -2,7 +2,8 @@
 
 ![](../../../.gitbook/assets/2209.png)
 
-## Version 2209.0 - 2022-09-22
+## Version 2209.0
+_2022-09-22_
 
 ### Added
 
@@ -34,7 +35,8 @@
 * The bug reporting panel once again highlights empty mandatory fields when trying to send an invalid report
 * Various minor fixes on machines
 
-## Version 2209.1 - 2022-10-18
+## Version 2209.1
+_2022-10-18_
 
 ### Added
 
@@ -56,7 +58,8 @@
 * When switching language, the toggles displaying the currently selected language do now always update
 
 
-## Version 2209.2 - 2022-11-16
+## Version 2209.2
+_2022-11-16_
 
 ### Added
 
@@ -74,7 +77,8 @@
 
 * When selecting a machine that has a tab menu in it's properties panel for the first time in a session, the tab menu is now displayed correctly
 
-## Version 2209.2.1 - 2022-11-23
+## Version 2209.2.1
+_2022-11-23_
 
 ### Fixed
 
@@ -82,7 +86,8 @@
 * The position of the handling table in the DRILLTEQ C series is now correct
 * The DRILLTEQ C-100 can now be selected in the 2D & 3D view
 
-## Version 2209.2.2 - 2022-11-29
+## Version 2209.2.2
+_2022-11-29_
 
 ### Changed
 
@@ -94,7 +99,8 @@
 * The material of the mirrors of the DRILLTEQ D-510 is no longer missing
 * The material in the CENTATEQ S-900 is no longer missing
 
-## Version 2209.2.3 - 2022-12-01
+## Version 2209.2.3
+_2022-12-01_
 
 ### Added
 
@@ -107,7 +113,8 @@
 * The button for resetting all filters in the library panel once again works
 * The order of the categories in the libarary panel is now always correct
 
-## Version 2209.3 - 2022-12-15
+## Version 2209.3
+_2022-12-15_
 
 ### Added
 
@@ -128,7 +135,8 @@
 * The trays in the drawer handling now adjust to the size of the machine
 * The load of the Trolley (Universal) is no longer invisible when _Trolley 1_ is selected
 
-## Version 2209.3.1 - 2023-01-20
+## Version 2209.3.1
+_2023-01-20_
 
 ### Fixed
 

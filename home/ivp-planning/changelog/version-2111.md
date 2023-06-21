@@ -4,7 +4,8 @@
 
 ​
 
-## Version 2111.2 - 2021-12-17 <a href="#version-2111.1-2021-11-12" id="version-2111.1-2021-11-12"></a>
+## Version 2111.2 <a href="#version-2111.1-2021-11-12" id="version-2111.1-2021-11-12"></a>
+_2021-12-17_
 
 ### Added <a href="#added" id="added"></a>
 
@@ -40,7 +41,8 @@
 
 ![](<../../../.gitbook/assets/2111.1 (1).png>)
 
-## Version 2111.1 - 2021-11-12
+## Version 2111.1
+_2021-11-12_
 
 ### Added
 
@@ -59,7 +61,8 @@
 * The following machines are not correctly scaled: CABTEQ T-200, CABTEQ T-250, MTA-200, MTH-150 & MTH-100
 * Duplicating a room created with the path tool that has ceiling or floor enabled results in a room with two ceilings/floors
 
-## 2111.0 - 2021-11-05
+## 2111.0
+_2021-11-05_
 
 ### Added
 

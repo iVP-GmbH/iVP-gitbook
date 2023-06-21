@@ -1,6 +1,7 @@
 # Version 2105
 
-## 2105.4 - 2021-05-26
+## 2105.4
+_2021-05-26_
 
 ### Fixed
 
@@ -9,7 +10,8 @@
 * Camera dropdown is not updated immediately when a camera's name is changed
 * Some of the buttons in the view menu do not work correctly
 
-## 2105.3 - 2021-05-21
+## 2105.3
+_2021-05-21_
 
 ### Changed
 
@@ -25,15 +27,18 @@
 * Ground floor vertical position in path tool is off by 10 mm
 * Creating a fence or room from a path consisting of two points
 
-## 2105.2 - 2021-05-10
+## 2105.2
+_2021-05-10_
 
 * Bugfixes
 
-## 2105.1 - 2021-05-06
+## 2105.1
+_2021-05-06_
 
 * Bugfixes
 
-## 2105.0 - 2021-05-03
+## 2105.0
+_2021-05-03_
 
 ### Changed
 
