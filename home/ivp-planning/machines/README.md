@@ -10,8 +10,9 @@ How to add objects and edit them (german)
 
 * [Adding new objects to the project](first-steps-with-3d-object.md)
 * [Selecting and moving objects](selecting-and-moving-objects.md)
-* [Scaling, rotating and mirroring objects](scale-and-rotate-objects.md)
+* [Rotating and mirroring objects](rotate-objects.md)
 * [Copying and deleting objects](copy-and-delete-objects.md)
+* [Scaling objects](scale-objects.md)
 
 ## Customization and highlighting:
 
