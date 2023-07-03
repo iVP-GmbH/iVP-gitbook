@@ -55,7 +55,6 @@ Here is a list of all the default keyboard shortcuts and their function. Please 
 | **CTRL + S**         | Save Project      | Save a project / Quicksave                       |
 | **CTRL + A**         | Select All        | Select all objects in the scene                  |
 | **CTRL + SHIFT + A** | Deselect All      | Deselect all objects in the scene                |
-| **Left ALT + S**     | Create Snapshot   | Quick Screenshot of current 3d View              |
 | **Left CTRL + F**    | Search            | Search object in library                         |
 | **H**                | Hide Object       | Hide/Unhide the selected objects                 |
 | **L**                | Lock Object       | Lock/Unlock the selected objects                 |
