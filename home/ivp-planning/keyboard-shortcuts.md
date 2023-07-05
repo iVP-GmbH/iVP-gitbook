@@ -25,6 +25,7 @@ Here is a list of all the default keyboard shortcuts and their function. Please 
 | Shortcut       | Input Name   | Function                             |
 | -------------- | ------------ | ------------------------------------ |
 | **P**          | Path Mode    | Activate Path mode                   |
+| **M**          | Markup Mode  | Activate Markup mode                 |
 | **V**          | Regular Mode | Activate regular mode                |
 | **Left SHIFT** | Snapping     | Change angle only by [set](../ivp-planning/settings/global-settings.md#the-options-explained) degrees |
 
