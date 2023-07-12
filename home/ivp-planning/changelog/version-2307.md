@@ -28,3 +28,13 @@ _2023-07-05_
 
 * When moving machines in the hierarchy, the tooltip now correctly shows the machines name
 * Various minor bugfixes
+
+## Version 2307.0.1
+_2023-07-12_
+
+### Fixed
+
+* Image import once again works
+* Using the photo mode no longer makes the environment invisible after the photo mode is exited under certain conditions
+* The position of the terminal in the CABTEQ T-250 is now correct
+
