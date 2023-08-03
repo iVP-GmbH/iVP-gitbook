@@ -1,6 +1,6 @@
 # Creating Screenshots
   
-It is possible to save the current content of the 3D- or 2D-Panel as a screenshot. To do so, first click the screenshot button in either panel
+It is possible to save the current content of the 3D- or 2D-Panel as a screenshot. To do so, first click the screenshot button in either panel.
 A new window will open, in which you will be prompted to pick a location for your screenshot.
 
 ![](../../../.gitbook/assets/screenshot-creation.png)  
