@@ -35,4 +35,7 @@ With these tools it is possible to
 {% content-ref url="markup-tool.md" %}
 [create markups](markup-tool.md)
 {% endcontent-ref %}
-  
+
+{% content-ref url="box-selection-3d.md" %}
+[Box Selection 3D](box-selection.3d.md)
+{% endcontent-ref %}  

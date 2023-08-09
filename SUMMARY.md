@@ -81,6 +81,7 @@
     * [Advanced Tools](home/ivp-planning/advanced-tools/README.md)
       * [Scaling](home/ivp-planning/advanced-tools/scaling.md)
       * [Creating Screenshots](home/ivp-planning/advanced-tools/creating-screenshots.md)
+      * [Box Selection 3D](home/ivp-planning/advanced-tools/box-selection-3d.md)
       * [Video Export](home/ivp-planning/advanced-tools/video-export-tool.md)
       * [Virtual Cameras](home/ivp-planning/advanced-tools/virtual-cameras.md)
       * [DXF Import](home/ivp-planning/advanced-tools/dxf-tool.md)
