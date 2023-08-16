@@ -39,7 +39,7 @@ _2023-07-12_
 * The position of the terminal in the CABTEQ T-250 is now correct
 
 ## Version 2307.1
-_2023-08-15_
+_2023-08-16_
 
 ### Added
 
@@ -52,6 +52,11 @@ _2023-08-15_
     * STORETEQ F-100 (TLF 100)
     * SAWTEQ S-300 flexTec (new customizations)
 * Tiling customization for imported images
+
+### Changed
+
+* Set default width of Roller conveyor (TFR 561) to 1200mm
+* Set default working height of SORTEQ H-200 to 1000mm
 
 ### Fixed
 
