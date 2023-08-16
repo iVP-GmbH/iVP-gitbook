@@ -38,3 +38,22 @@ _2023-07-12_
 * Using the photo mode no longer makes the environment invisible after the photo mode is exited under certain conditions
 * The position of the terminal in the CABTEQ T-250 is now correct
 
+## Version 2307.1
+_2023-08-15_
+
+### Added
+
+* New machines for users:
+    * DRILLTEQ H-330 (BHX 330)
+    * Infeed Stations (Einlagerplätze)
+    * PAQTEQ S-250 (VKV 500)
+    * PAQTEQ F-250 (VKF 500)
+* New machine for testers:
+    * STORETEQ F-100 (TLF 100)
+    * SAWTEQ S-300 flexTec (new customizations)
+* Tiling customization for imported images
+
+### Fixed
+
+* The application now launches faster
+* When the application looses focus during startup, it once again continues loading
