@@ -8,15 +8,15 @@ How to select and move objects (german)
 
 ## Selecting Objects in the 2D- and 3D-panel:
 
-To select an object in the [2D-](../user-interface/the-2d-panel.md) or [3D-panel](../user-interface/the-3d-panel.md) it is sufficient to **click on it**.
-To select an object in the [2D-](../user-interface/the-2d-panel.md) or [3D-panel](../user-interface/the-3d-panel.md) it is sufficient to **click on them**.
+To select an object in the [2D-](../user-interface/the-2d-panel.md) or [3D-panel](../user-interface/the-3d-panel.md) it is sufficient to **click on them**.  
 
-In the [2D-panel](../user-interface/the-2d-panel.md), you can identify selected objects by a blue tint and a white frame around the objects that displays their x- and y-size. Parts of this frame can also be used to [move](move-objects.md#moving-objects-in-the-2d-panel), [rotate ](scale-and-rotate-objects.md#rotating-objects-in-the-2d-panel)or [scale ](scale-objects.md#scaling-objects-in-the-2d-panel)objects in 2D.
+
+In the [2D-panel](../user-interface/the-2d-panel.md), you can identify selected objects by a blue tint and a white frame around the objects that displays their x- and y-size. Parts of this frame can also be used to [move](move-objects.md#moving-objects-in-the-2d-panel) and [rotate](scale-and-rotate-objects.md#rotating-objects-in-the-2d-panel) objects in 2D.
 
 
 ![](../../../.gitbook/assets/2d-select-highlighted.png)
 
-In the [3D-Panel](../user-interface/the-3d-panel.md), selected Objects will have blue angle brackets around them which form a virtual box. Additionally, a handle will appear in their geometric center which can also be used to [move](move-objects.md#moving-objects-in-the-3d-panel), [rotate ](scale-and-rotate-objects.md#rotating-objects-in-the-3d-panel)or [scale ](scale-objects.md#scaling-objects-in-the-3d-panel)objects in 3D.
+In the [3D-Panel](../user-interface/the-3d-panel.md), selected Objects will have blue angle brackets around them which form a virtual box. Additionally, a handle will appear in their geometric center which can also be used to [move](move-objects.md#moving-objects-in-the-3d-panel), [rotate](scale-and-rotate-objects.md#rotating-objects-in-the-3d-panel) or [scale](scale-objects.md#scaling-objects-in-the-3d-panel) objects in 3D.
 
 
 ![](../../../.gitbook/assets/3d-select-brackets.png)
@@ -33,7 +33,16 @@ It is also possible to select multiple objects by holding the **Ctrl** key while
 
 ## Box Selection
 
-It is also possible to select multiple objects in the [3D-panel](../user-interface/the-3d-panel.md) by holding down the CTRL button and dragging your mouse over the objects you want to highlight.  
-While you have multiple objects selected you can also hold the CTRL button down and left click objects that you don't want to select any more.
-
+It is also possible to select multiple objects in the [3D-panel](../user-interface/the-3d-panel.md) by holding down the **Ctrl*** button and dragging your mouse over the objects you want to highlight.  
+While you have multiple objects selected you can also hold the **Ctrl** button down and left click objects that you don't want to select any more.
+    
 ![](../../../.gitbook/assets/3d-box-selection.png)  
+
+### Additive Selection
+  
+  When using the Box selection, you can also select objects additively by holding **Ctrl** + **Shift** and dragging your mouse over the object you wish to select from your selection.
+
+
+ Similarly, it is possible to remove objects from your current selection by holding **Ctrl** + **Alt**.
+
+![](../../../.gitbook/assets/select-additive.png)
