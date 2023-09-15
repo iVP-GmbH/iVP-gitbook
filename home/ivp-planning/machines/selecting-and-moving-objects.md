@@ -21,9 +21,9 @@ In the [3D-Panel](../user-interface/the-3d-panel.md), selected Objects will have
 
 ![](../../../.gitbook/assets/3d-select-brackets.png)
 
-## Selecting objects via the Hierarchy
+## Selecting objects via the hierarchy
 
-Every object in the scene also has an entry in the [Object Hierarchy](../user-interface/the-machine-list.md). You can select objects by **clicking on their entry**. The entries of selected machines can be identified by their blue tint.
+Every object in the scene also has an entry in the [Hierarchy](../user-interface/the-machine-list.md). You can select objects by **clicking on their entry**. The entries of selected machines can be identified by their blue tint.
 
 {% hint style="info" %}
 It is also possible to select multiple objects by holding the **Ctrl** key while clicking on them one after another. You can also use the **Shift** key to select a range of entries at once.
@@ -34,13 +34,12 @@ It is also possible to select multiple objects by holding the **Ctrl** key while
 ## Box Selection
 
 It is also possible to select multiple objects in the [3D-panel](../user-interface/the-3d-panel.md) by holding down the **Ctrl*** button and dragging your mouse over the objects you want to highlight.  
-While you have multiple objects selected you can also hold the **Ctrl** button down and left click objects that you don't want to select any more.
     
 ![](../../../.gitbook/assets/3d-box-selection.png)  
 
-### Additive Selection
+### Additive and Subtractive Selection
   
-  When using the Box selection, you can also select objects additively by holding **Ctrl** + **Shift** and dragging your mouse over the object you wish to select from your selection.
+ When using the Box selection, you can also select objects additively by holding **Ctrl** + **Shift** and dragging your mouse over the object you wish to select.
 
 
  Similarly, it is possible to remove objects from your current selection by holding **Ctrl** + **Alt**.
