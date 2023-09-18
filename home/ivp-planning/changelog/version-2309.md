@@ -1,6 +1,7 @@
 # Version 2309
 
 ## Version 2309.0
+_2023-09-13_
 
 ### Added
 
@@ -19,3 +20,11 @@
 ### Fixed
 
 * The floor plan PDF is no longer displayed above placed objects in the 2D view
+
+## Version 2309.0.1
+_2023-09-18_
+
+### Fixed
+
+* Searching through your library once again works as expected when you don't have a local library
+* When an object you copied to your local library manually is placed for the first time, it's default values are now correctly auto generated and you can edit them in the properties panel
