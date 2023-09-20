@@ -57,3 +57,4 @@ _2023-09-18_
 ### Fixed
 
 * The application no longer sometimes crashes when importing files in the glTF/glb format
+* Imported models no longer have the wrong rotation when they were saved with a non 0 rotation
