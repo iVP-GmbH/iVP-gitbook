@@ -88,6 +88,8 @@
       * [Fence Tool](home/ivp-planning/advanced-tools/fence-tool.md)
       * [Room Tool](home/ivp-planning/advanced-tools/the-room-tool.md)
       * [Markup Tool](home/ivp-planning/advanced-tools/markup-tool.md)
+      * [3D Import](home/ivp-planning/advanced-tools/3d-import.md)
+      * [Local Library](home/ivp-planning/advanced-tools/local-library.md)
     * [Settings](home/ivp-planning/settings/README.md)
       * [Global Settings](home/ivp-planning/settings/global-settings.md)
       * [Graphic Settings](home/ivp-planning/settings/graphic-settings-panel.md)
