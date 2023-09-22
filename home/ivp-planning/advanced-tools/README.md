@@ -7,6 +7,10 @@ With these tools it is possible to
 {% content-ref url="creating-screenshots.md" %}
 [take screenshots](creating-screenshots.md)
 {% endcontent-ref %}
+  
+{% content-ref url="video-export-tool.md" %}
+[video export](video-export-tool.md)
+{% endcontent-ref %}
 
 {% content-ref url="virtual-cameras.md" %}
 [record videos](virtual-cameras.md)
@@ -31,3 +35,4 @@ With these tools it is possible to
 {% content-ref url="markup-tool.md" %}
 [create markups](markup-tool.md)
 {% endcontent-ref %}
+  
