@@ -1,6 +1,6 @@
 # Select Objects
 
-To interact with objects it is necessary to select them first. Only then it is possible to [move](move-objects.md), [rotate](scale-and-rotate-objects.md), [scale](scale-objects.md)or [customize](customizable-machines.md)them. To learn more we also recommend to have a look at this iVP YouTube Tutorial.
+To interact with objects it is necessary to select them first. Only then it is possible to [move](move-objects.md), [rotate](scale-and-rotate-objects.md), [scale](scale-objects.md) or [customize](customizable-machines.md) them. To learn more we also recommend to have a look at this iVP YouTube Tutorial.
 
 {% embed url="https://youtu.be/7Vprataxi08?t=53" %}
 How to select and move objects (german)
@@ -8,7 +8,7 @@ How to select and move objects (german)
 
 ## Selecting Objects in the 2D- and 3D-panel:
 
-To select an object in the [2D-](../user-interface/the-2d-panel.md) or [3D-panel](../user-interface/the-3d-panel.md) it is sufficient to **click on them**.  
+To select an object in the [2D-](../user-interface/the-2d-panel.md) or [3D-panel](../user-interface/the-3d-panel.md) it is sufficient to **click on it**.  
 
 
 In the [2D-panel](../user-interface/the-2d-panel.md), you can identify selected objects by a blue tint and a white frame around the objects that displays their x- and y-size. Parts of this frame can also be used to [move](move-objects.md#moving-objects-in-the-2d-panel) and [rotate](scale-and-rotate-objects.md#rotating-objects-in-the-2d-panel) objects in 2D.
@@ -23,7 +23,7 @@ In the [3D-Panel](../user-interface/the-3d-panel.md), selected Objects will have
 
 ## Selecting objects via the hierarchy
 
-Every object in the scene also has an entry in the [Hierarchy](../user-interface/the-machine-list.md). You can select objects by **clicking on their entry**. The entries of selected machines can be identified by their blue tint.
+Every object in the scene also has an entry in the [hierarchy](../user-interface/the-machine-list.md). You can select objects by **clicking on their entry**. The entries of selected machines can be identified by their blue tint.
 
 {% hint style="info" %}
 It is also possible to select multiple objects by holding the **Ctrl** key while clicking on them one after another. You can also use the **Shift** key to select a range of entries at once.
@@ -33,7 +33,7 @@ It is also possible to select multiple objects by holding the **Ctrl** key while
 
 ## Box Selection
 
-It is also possible to select multiple objects in the [3D-panel](../user-interface/the-3d-panel.md) by holding down the **Ctrl** button and dragging your mouse over the objects you want to select.    
+It is also possible to select multiple objects by holding down the **Ctrl** button and dragging your mouse over the objects you want to select.    
     
 ![](../../../.gitbook/assets/3d-box-selection.png)  
 
