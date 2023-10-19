@@ -30,6 +30,7 @@ _2023-09-18_
 * When an object you copied to your local library manually is placed for the first time, it's default values are now correctly auto generated and you can edit them in the properties panel
 
 ## Version 2309.1
+_2023-09-20_
 
 ### Added
 
@@ -57,4 +58,4 @@ _2023-09-18_
 ### Fixed
 
 * The application no longer sometimes crashes when importing files in the glTF/glb format
-* Imported models no longer have the wrong rotation when they were saved with a non 0 rotation
+* Imported models no longer have the wrong rotation when they were saved with a non-zero rotation
