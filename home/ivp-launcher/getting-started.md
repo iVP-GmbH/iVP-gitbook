@@ -23,7 +23,4 @@ If you cannot find something in the documentation or have any questions, send an
 After everything is set up and ready to go, we recommend you to have a look at the pages of the individual applications:
 
 * [iVP Planning](../ivp-planning/)
-* [iVP Showroom](../ivp-showroom.md)
-* [iVP Viewer](../ivp-viewer.md)
-* [iVP CGI](../ivp-cgi.md)
-
+* [iVP Stage](../ivp-stage/)
