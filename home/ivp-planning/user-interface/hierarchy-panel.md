@@ -1,6 +1,6 @@
 # Hierarchy Panel
 
-Every object that is added to a project will get an associated entry in the hierarchy panel during its creation. This panel contains a list of all machines, objects, [markups](../advanced-tools/markup-tool.md), images, [DXF imports](../advanced-tools/dxf-tool.md) and [virtual cameras](../advanced-tools/virtual-cameras.md) and is used to organize them in a tree structure. 
+Every object that is added to a project will get an associated entry in the hierarchy panel during its creation. This panel contains a list of all objects and is used to organize them in a tree structure. 
 
 Via this panel it is possible to collect objects in [folders](#folders), to [rename](../machines/renaming-objects-and-folders.md) objects and folders, to toggle their [visibility](#hideunhide-objects) or to lock them to prevent unwanted changes.
 
@@ -32,10 +32,10 @@ The new folder will be placed at the topmost position of the hierarchy. It can t
 
 ### Moving objects in the hierarchy panel:
 
-Objects can be [moved](../machines/selecting-and-moving-objects.md#selecting-objects-via-the-hierarchy-panel) in the hierarchy with drag and drop. A white frame will indicate where the object will go. Drop an object onto another one, to group it together with the target.
+Objects can be [moved](../machines/selecting-and-moving-objects.md#selecting-objects-via-the-hierarchy-panel) in the hierarchy via drag and drop. A white frame will indicate where the object will go. Drop an object onto another one, to group it together with the target.
 ![](../../../.gitbook/assets/Hierarchy_move.jpg)
 
-## Lock/unlock objects
+## Lock/Unlock objects
 
 To prevent objects from being [selected and moved](../machines/selecting-and-moving-objects.md#selecting-objects-in-the-2d--and-3d-panel) in the [2D](the-2d-panel.md) and [3D view](the-3d-panel.md) and  press the <img src="../../../.gitbook/assets/Hierarchy_lock.jpg" alt="" data-size="line"> **Lock/Unlock Machine** button.
 
