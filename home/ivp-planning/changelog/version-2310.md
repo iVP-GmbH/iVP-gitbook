@@ -1,11 +1,13 @@
 # Version 2310
 
 ## Version 2310.0
+_2023-10-27_
 
 ### Added
 
 * PDFs are now imported with the new import pipeline, which has the following advantages
     * PDFs can now be moved freely
+    * The PDFs size is now correctly fetched from the file
     * PDF tiling, scale, padding and transparency can be configured at any time
     * Added the option to replace a color with transparency
 * Edge lengths and angles of paths can now be modified from the properties panel of a path point
@@ -32,9 +34,12 @@
 ### Fixed
 
 * The application no longer sometimes crashes when importing files in the glTF/glb format
+* Imported files are no longer sometimes missing from saved plan files under rare circumstances
 * Imported models no longer have the wrong rotation when they were saved with a non-zero rotation
+* Imported models no longer block the selection of other objects when they are disabled
 * The download of bundles no longer fails when downloading more than 10 bundles at the same time
 * The application now starts up correctly when a VR headset is connected and no internet connection is available
 * The roller conveyor (TFR-561) once again shows the correct values for working height, in- and outfeed when working with more than one level
 * Ceilings and floors of rooms created with the path tool are no longer offset after centering a paths pivot
 * Loading paths from legacy save files (.hfc) no longer sometimes fails
+* Saving a screenshot no longer fails when choosing a file extension with capital letters
