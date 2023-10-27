@@ -43,3 +43,12 @@ _2023-10-27_
 * Ceilings and floors of rooms created with the path tool are no longer offset after centering a paths pivot
 * Loading paths from legacy save files (.hfc) no longer sometimes fails
 * Saving a screenshot no longer fails when choosing a file extension with capital letters
+
+## Version 2310.0.1
+_2023-10-27_
+
+### Fixed
+
+* Imported images once again have the correct size when saved to the library
+* The color that is replaced with transparency is now saved correctly to the library for images and PDFs
+* Padding of imported images and PDFs is now applied correctly when loading from the library
