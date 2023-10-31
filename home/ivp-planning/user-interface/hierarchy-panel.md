@@ -43,10 +43,6 @@ Alternatively **right click** a selected object to open the context menu and loc
 
 ![](../../../.gitbook/assets/Hierarchy_context_lock.jpg)
 
-{% hint style="info" %}
-Locked objects can still be edited in the hierarchy panel. 
-{% endhint %}
-
 ## Hide/unhide objects
 
 To hide or show one or more objects, [select](../machines/selecting-and-moving-objects.md#selecting-objects-via-the-hierarchy-panel) them and press the <img src="../../../.gitbook/assets/Hierarchy_visibility.jpg" alt="" data-size="line"> **Hide/Unhide Machine** button.
@@ -55,7 +51,7 @@ Alternatively you can right click a selected object and use the context menu to 
 
 ![](../../../.gitbook/assets/Hierarchy_context_visibility.jpg)
 
-A hidden object will not be shown in the [2D view](the-2d-panel.md) and [3D view](the-3d-panel.md). It will still be shown in the hierarchy panel and turn to a darker grey color. It will still be editable in the hierarchy. 
+A hidden object will not be shown in the [2D view](the-2d-panel.md) and [3D view](the-3d-panel.md). It will still be shown in the hierarchy panel and turn to a darker grey color. It will still be editable in the properties panel. 
 
 ![](../../../.gitbook/assets/Hierarchy_hidden_object.jpg)
 
