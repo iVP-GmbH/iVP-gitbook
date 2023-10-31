@@ -70,7 +70,7 @@
       * [Delete Objects](home/ivp-planning/machines/delete-objects.md)
       * [Highlight Objects](home/ivp-planning/machines/highlighting-objects.md)
       * [Customizable Objects](home/ivp-planning/machines/customizable-machines.md)
-      * [Rename Objects](home/ivp-planning/machines/customizable-machines.md)
+      * [Rename Objects](home/ivp-planning/machines/renaming-objects-and-folders.md)
       * [Animations](home/ivp-planning/machines/animations.md)
       * [Snapping](home/ivp-planning/machines/snapping.md)
       * [Undo And Redo](home/ivp-planning/machines/undo-and-redo.md)
