@@ -18,6 +18,6 @@ Alternatively it is possible to **right click on the selected object or folder**
 
 ## Rename objects in the properties panel:
 
-To change the name of a [selected object](../machines/selecting-and-moving-objects.md) in the [properties panel](../user-interface/the-info-panel.md) click on the **"pen button** to the right side of the name field and type in the new name. 
+To change the name of a [selected object](../machines/selecting-and-moving-objects.md) in the [properties panel](../user-interface/the-info-panel.md) click on the **"pen button"** to the right side of the name field and type in the new name.
 
 ![](../../../.gitbook/assets/Properties_rename.jpg)
