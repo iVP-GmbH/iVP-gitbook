@@ -32,7 +32,7 @@ The new folder will be placed at the topmost position of the hierarchy. It can t
 
 ### Moving objects in the hierarchy panel:
 
-Objects can be [moved](../machines/selecting-and-moving-objects.md#selecting-objects-via-the-hierarchy-panel) in the hierarchy via drag and drop. A white frame will indicate where the object will go. Drop an object onto another one, to group it together with the target.
+Objects can be [moved](../machines/selecting-and-moving-objects.md#selecting-objects-via-the-hierarchy) in the hierarchy via drag and drop. A white frame will indicate where the object will go. Drop an object onto another one, to group it together with the target.
 ![](../../../.gitbook/assets/Hierarchy_move.jpg)
 
 ## Lock/Unlock objects
@@ -45,7 +45,7 @@ Alternatively **right click** a selected object to open the context menu and loc
 
 ## Hide/unhide objects
 
-To hide or show one or more objects, [select](../machines/selecting-and-moving-objects.md#selecting-objects-via-the-hierarchy-panel) them and press the <img src="../../../.gitbook/assets/Hierarchy_visibility.jpg" alt="" data-size="line"> **Hide/Unhide Machine** button.
+To hide or show one or more objects, [select](../machines/selecting-and-moving-objects.md#selecting-objects-via-the-hierarchy) them and press the <img src="../../../.gitbook/assets/Hierarchy_visibility.jpg" alt="" data-size="line"> **Hide/Unhide Machine** button.
 
 Alternatively you can right click a selected object and use the context menu to change the visibility of any selected object.
 
