@@ -22,7 +22,7 @@ To create a markup, **left click on a position** in the [2D-panel](../user-inter
 
 ![](../../../.gitbook/assets/markup\_placement.jpg)
 
-The placed markup will be added to the [hierarchy](../user-interface/the-machine-list.md) and can be used like any other object. It can be [renamed and grouped in folders](../the-tree-view/renaming-objects-and-folders.md), [set in/visible](../the-tree-view/visibility-of-objects-and-folders.md), set to be [un/locked](../the-tree-view/locked-objects-and-folders.md) and [recolored](../machines/highlighting-objects.md).
+The placed markup will be added to the [hierarchy](../user-interface/the-machine-list.md) and can be used like any other object. It can be [renamed and grouped in folders](../machines/renaming-objects-and-folders.md), [set in/visible](../user-interface/hierarchy-panel.md#hideunhide-objects), set to be [un/locked](../user-interface/hierarchy-panel.md#lockunlock-objects) and [recolored](../machines/highlighting-objects.md).
 
 ## Editing a Markup:
 
@@ -33,7 +33,7 @@ After placing a markup, the [properties panel](../user-interface/the-info-panel.
 ## The default fields:
 
 * Default: the general information of a markup regarding
-    * _**Name:**_ the name of the object which [can be changed](../the-tree-view/renaming-objects-and-folders.md) at any time
+    * _**Name:**_ the name of the object which [can be changed](../machines/renaming-objects-and-folders.md) at any time
     * _**ID:**_ the unique ID of the object which is generated when the markup is [placed](../machines/first-steps-with-3d-object.md) in the [2D-](../user-interface/the-2d-panel.md) or [3D-panel](../user-interface/the-3d-panel.md); the ID is unchangeable 
     * _**Author:**_ the author of the markup, per default "Planner"; this information is unchangeable and independent from the object name
     * _**Created:**_ exact time and date when the markup was created; this information is unchangeable

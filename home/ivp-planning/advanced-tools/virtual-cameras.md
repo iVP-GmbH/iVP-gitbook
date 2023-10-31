@@ -16,7 +16,7 @@ In the virtual camera panel, simply click on the "Add camera" button.
 
 ![](../../../.gitbook/assets/iVP\_virtual\_cameras\_camera\_panel\_add\_camera.jpg)
 
-The new camera will now appear in the machine list panel and is ready for setup.
+The new camera will now appear in the hierarchy panel and is ready for setup.
 
 ![](../../../.gitbook/assets/iVP\_virtual\_cameras\_machine\_list\_panel.jpg)
 
@@ -100,7 +100,7 @@ Currently it is not possible to set an individual output folder or change the fi
 
 ## Renaming cameras:
 
-Virtual cameras can be [renamed like objects](../the-tree-view/renaming-objects-and-folders.md). Additionally, they can be renamed in the [camera list panel](../user-interface/camera-list-panel.md) that can be opened by clicking on its icon on the [top bar](../user-interface/the-top-bar.md#icons).
+Virtual cameras can be [renamed like objects](../machines/renaming-objects-and-folders.md). Additionally, they can be renamed in the [camera list panel](../user-interface/camera-list-panel.md) that can be opened by clicking on its icon on the [top bar](../user-interface/the-top-bar.md#icons).
 
 ![](<../../../.gitbook/assets/iVP\_virtual\_cameras\_camera\_list\_icon (1).jpg>)
 
