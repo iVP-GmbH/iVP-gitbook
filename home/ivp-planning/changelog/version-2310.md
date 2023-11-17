@@ -52,3 +52,14 @@ _2023-10-27_
 * Imported images once again have the correct size when saved to the library
 * The color that is replaced with transparency is now saved correctly to the library for images and PDFs
 * Padding of imported images and PDFs is now applied correctly when loading from the library
+
+## Version 2310.0.2
+_2023-11-17_
+
+### Fixed
+
+* When overwriting plan files that contain imported 3D files with external resoures (e.g. materials, textures) the resources are no longer deleted
+* External resources of imported 3D files no longer fail to save/load when their file names contain spaces
+* When searching in the library, your local library of imported files is now searched aswell
+* Imported files now also show the "Apply to library" button when saved to, but not included in, a plan file
+* Screenshots inside markups no longer fail to load from plan files when an object is already present in the scene and the scene is not replaced
