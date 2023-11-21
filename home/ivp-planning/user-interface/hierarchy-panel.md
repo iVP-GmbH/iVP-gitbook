@@ -36,7 +36,7 @@ Objects can be [moved](../machines/selecting-and-moving-objects.md#selecting-obj
 ![](../../../.gitbook/assets/hierarchy_move.png)
 ## Lock/Unlock objects
 
-To prevent objects from being [selected and moved](../machines/selecting-and-moving-objects.md#selecting-objects-in-the-2d--and-3d-panel) in the [2D](the-2d-panel.md) and [3D view](the-3d-panel.md) and  press the ![](../../../.gitbook/assets/Hierarchy_lock.jpg) **Lock/Unlock Machine** button.
+To prevent objects from being [selected and moved](../machines/selecting-and-moving-objects.md#selecting-objects-in-the-2d--and-3d-panel) in the [2D](the-2d-panel.md) and [3D view](the-3d-panel.md) and  press the <img src="../../../.gitbook/assets/Hierarchy_lock.jpg" alt="" data-size="line"> **Lock/Unlock Machine** button.
 
 Alternatively **right click** a selected object to open the context menu and lock the selected object(s).
 
