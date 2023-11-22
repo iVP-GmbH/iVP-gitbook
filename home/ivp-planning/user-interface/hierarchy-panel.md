@@ -32,8 +32,9 @@ The new folder will be placed at the topmost position of the hierarchy. It can t
 
 ### Moving objects in the hierarchy panel:
 
-Objects can be [moved](../machines/selecting-and-moving-objects.md#selecting-objects-via-the-hierarchy) in the hierarchy via drag and drop. A white frame will indicate where the object will go. Drop an object onto another one, to group it together with the target.  
+Objects can be [moved](../machines/selecting-and-moving-objects.md#selecting-objects-via-the-hierarchy) in the hierarchy via drag and drop. A white frame will indicate where the object will go. Drop an object onto another one, to group it together with the target.
 ![](../../../.gitbook/assets/hierarchy_move.png)
+
 ## Lock/Unlock objects
 
 To prevent objects from being [selected and moved](../machines/selecting-and-moving-objects.md#selecting-objects-in-the-2d--and-3d-panel) in the [2D](the-2d-panel.md) and [3D view](the-3d-panel.md) and  press the <img src="../../../.gitbook/assets/Hierarchy_lock.jpg" alt="" data-size="line"> **Lock/Unlock Machine** button.
