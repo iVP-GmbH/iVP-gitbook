@@ -2,11 +2,7 @@
 
 In iVP it is possible to import and export DXF files, that function as a simplified 2d visualisation of 3d models. They can be useful for illustrating a planned layout.
 
-After a DXF file is imported, it will be added to the [hierarchy](../user-interface/the-machine-list.md) and can be [edited](../machines/selecting-and-moving-objects.md) as any other object.
-
-{% hint style="warning" %}
-This is different to an [imported PDF](../getting-started/importing-pdfs.md), which will not be moveable in iVP but can be used as a overlay for the [floor plan](../user-interface/the-floor-plan.md).
-{% endhint %}
+After a DXF file is imported, it will be added to the [hierarchy](../user-interface/hierarchy-panel.md) and can be [edited](../machines/selecting-and-moving-objects.md) as any other object.
 
 For better understanding and training we created a iVP YouTube Tutorial, where you can find a detailed explanation how to import and export of DXF files.
 
