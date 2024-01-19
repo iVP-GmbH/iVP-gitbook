@@ -1,6 +1,7 @@
 # Version 2401
 
 ## Version 2401.0
+_2024-01-18_
 
 ### Added
 
@@ -28,3 +29,10 @@
 
 * When viewing paths perspective mode from the top view of the 3D panel, their lines are no longer sometimes missing parts
 * When duplicating markups, their messages now get duplicated aswell
+
+## Version 2401.0.1
+_2024-01-19_
+
+### Fixed
+
+* Sign In works again
