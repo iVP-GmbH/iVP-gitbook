@@ -36,3 +36,19 @@ _2024-01-19_
 ### Fixed
 
 * Sign In works again
+
+## Version 2401.0.2
+
+### Added
+
+* DRILLTEQ H-230 for Beta users
+* CENTATEQ P-100 for Beta users
+* EDGETEQ S-500 for Beta users
+
+### Changed
+
+* Updated Weinmann Product Key
+
+### Fixed
+
+* Plan files no longer become unreadable under rare conditions
