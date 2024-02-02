@@ -52,3 +52,11 @@ _2024-01-19_
 ### Fixed
 
 * Plan files no longer become unreadable under rare conditions
+
+## Version 2401.0.3
+_2024-02-06_
+
+### Fixed
+
+* Objects now keep their correct layer when parented to another object with a custom layer when loading from a plan file
+* Paths can no longer be selected using box selection when they are on a disabled layer
