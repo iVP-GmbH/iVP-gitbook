@@ -60,3 +60,14 @@ _2024-02-06_
 
 * Objects now keep their correct layer when parented to another object with a custom layer when loading from a plan file
 * Paths can no longer be selected using box selection when they are on a disabled layer
+
+## Version 2401.0.4
+_2024-02-12_
+
+### Added
+
+* Customizations can now show/hide other customizations in the inspector based on their state
+
+### Fixed
+
+* Dropdowns now always immediately update their options when other customizations have been modified that the options depend on
