@@ -71,3 +71,10 @@ _2024-02-12_
 ### Fixed
 
 * Dropdowns now always immediately update their options when other customizations have been modified that the options depend on
+
+## Version 2401.0.5
+_2024-02-13_
+
+### Fixed
+
+* The inspector panel no longer sometimes visually breaks when selecting an object after an object where a customization was hidden by another customization
