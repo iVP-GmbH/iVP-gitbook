@@ -6,11 +6,11 @@ iVP is the multi user virtual collaboration software for effective building info
 
 ### List of Features
 
-* **Effective Planning:** iVP provides the tools you need to plan large scale projects in real time. Whether machines, furnishings, rooms, or other products, this BIM software supplies you a database of 3D models that you have previously defined making the entire planning process easy.
+* **Effective Planning:** iVP provides the tools you need to plan large scale projects in real time. Whether machines, furnishings, rooms, or other products, this BIM software supplies you a library of 3D models that you have previously defined making the entire planning process easy.
 * **Enhanced Visualization:** iVP offers you the opportunity to execute your virtual plan using different 3D inspectors. You get to experience and evaluate your project in a virtual environment and check whether the project is precisely what you imagined. That is virtual planning made easy.
 * **Easy Evaluation:** With iVP, you can evaluate the feasibility and scale of your project by getting a real-time view of every aspect of the proposed final project, making it easy to identify and fix flaws or replace various products and parts that might not be useful in the project.
 * **Project Collaboration:** iVP offers you the chance to collaborate with your team and clients, discuss and make modifications to your project virtually in 3D/VR/AR, no matter the location of the team members.
-* **Multi 3D -Database:** iVP offers you an unlimited database of 3D models from which to choose. Even if you wish to get more specific and plan with your 3D models, you can import them into the iVP database and start planning your project. iVP processes all possible 3D formats.
+* **Multi 3D Library:** iVP offers you an unlimited library of 3D models from which to choose. Even if you wish to get more specific and plan with your 3D models, you can import them into the iVP library and start planning your project.
 
 If you would like to know more about the capabilities of iVP have a look at our [Whitepaper](https://de.i-vp.dev/ivp-business-whitepaper).
 

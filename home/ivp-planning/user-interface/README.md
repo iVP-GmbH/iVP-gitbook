@@ -12,7 +12,7 @@ Overview for the interface (german)
 * [2D-panel](the-2d-panel.md)
 * [3D-panel](the-3d-panel.md)
 * [Hierarchy panel](hierarchy-panel.md)
-* [Machine database panel](machine-database-panel.md)
+* [Library panel](library-panel.md)
 * [Info panel](the-info-panel.md)
 
 ## **Tool-related panels:**

@@ -39,8 +39,4 @@ With these tools it is possible to
 {% content-ref url="3d-import.md" %}
 [3D import](3d-import.md)
 {% endcontent-ref %}
-
-{% content-ref url="local-library.md" %}
-[local library](local-library.md)
-{% endcontent-ref %}
   

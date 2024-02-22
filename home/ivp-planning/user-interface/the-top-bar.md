@@ -38,7 +38,7 @@ The text menu contains four submenus:
 * Windows:
   * _**Layout:**_ Opens a small submenu that lets you choose a [window layout](layouts.md)
   * _**Hierarchy:**_ opens the [hierarchy panel](the-machine-list.md), opened and docked by default
-  * _**Library:**_ opens the [library panel](machine-database-panel.md), opened and docked by default
+  * _**Library:**_ opens the [library panel](library-panel.md), opened and docked by default
   * _**Properties:**_ opens the [properties panel](the-info-panel.md), opened and docked by default
   * _**Camera List:**_ opens the [camera list panel](camera-list-panel.md)
   * _**Video:**_ opens the [video panel](virtual-camera-panel.md)

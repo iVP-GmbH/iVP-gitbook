@@ -6,17 +6,13 @@ This tutorial explains how to add new machines or objects to your iVP project. W
 How to add objects and edit them (german)
 {% endembed %}
 
-{% hint style="warning" %}
-To be able to add new machines to the scene, there has to be at least one [database ](broken-reference/)in your project.
-{% endhint %}
-
 ## Adding a new object step by step:
 
-to add a new object, first click on one of the database names in the [machine database panel](../user-interface/machine-database-panel.md).
+to add a new object, first click on one of the categories in the [library panel](../user-interface/library-panel.md).
 
-![](../../../.gitbook/assets/iVP\_guide\_add\_new\_machines\_databases.jpg)
+![](../../../.gitbook/assets/library.png)
 
-The database will unfold into subcategories that contain objects or other subcategories. To select an object, simply click on its name.
+The category will unfold into subcategories that contain objects or other subcategories. To select an object, simply click on its name.
 
 ![](../../../.gitbook/assets/iVP\_guide\_add\_new\_machines\_expanded\_database.jpg)
 
