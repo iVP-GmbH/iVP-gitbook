@@ -1,5 +1,7 @@
 # Undo And Redo
 
 {% hint style="danger" %}
-Currently there is **no undo / redo system** implemented in iVP. As a result, **all actions permanent**. However, such a system is currently in development.
+Undo/redo currently only supports positions, rotations and scales of objects. All other changes are permanent.
 {% endhint %}
+
+Use the _Ctrl+Z_ keyboard shortcut to undo changes and _Ctrl+Y_ to redo them. Alternatively, you can also use the undo/redo buttons in the toolbar of the [2D panel](../user-interface/the-2d-panel.md).

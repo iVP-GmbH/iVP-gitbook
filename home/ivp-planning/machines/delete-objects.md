@@ -7,7 +7,7 @@ How to delete objects (german)
 {% endembed %}
 
 {% hint style="danger" %}
-Currently there is **no undo system** implemented in iVP. As a result, **deletions are permanent**.
+Currently there is no way to undo a delete action
 {% endhint %}
 
 ![](../../../.gitbook/assets/iVP\_guide\_delete\_objects\_2D\_panel\_buttons.jpg)
