@@ -93,6 +93,7 @@
     * [Bug Reporting](home/ivp-planning/bug-reporting.md)
     * [Feature Requests](home/ivp-planning/feature-requests.md)
     * [Changelog](home/ivp-planning/changelog/README.md)
+      * [Version 2402](home/ivp-planning/changelog/version-2402.md)
       * [Version 2401](home/ivp-planning/changelog/version-2401.md)
       * [Version 2310](home/ivp-planning/changelog/version-2310.md)
       * [Version 2309](home/ivp-planning/changelog/version-2309.md)
