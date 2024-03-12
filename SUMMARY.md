@@ -55,7 +55,6 @@
       * [Settings Panel](home/ivp-planning/user-interface/settings-panel.md)
       * [Camera List Panel](home/ivp-planning/user-interface/camera-list-panel.md)
       * [Virtual Camera Panel](home/ivp-planning/user-interface/virtual-camera-panel.md)
-      * [Changelog Panel](home/ivp-planning/user-interface/changelog-panel.md)
       * [Coordinate System](home/ivp-planning/user-interface/coordinate-system.md)
       * [Grid](home/ivp-planning/user-interface/the-grid.md)
       * [Adjusting The User Interface](home/ivp-planning/user-interface/adjusting-the-ui.md)
