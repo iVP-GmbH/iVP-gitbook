@@ -47,7 +47,7 @@ The text menu contains four submenus:
 * Help:
   * _**Report a bug:**_ opens the [bug report dialog](../bug-reporting.md)
   * _**Documentation:**_ opens the [main page](../../) of this documentation
-  * _**About:**_ opens the [about dialog](changelog-panel.md)
+  * _**About:**_ opens the about dialog
 
 ## Icons:
 

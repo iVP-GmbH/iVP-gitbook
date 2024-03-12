@@ -28,10 +28,9 @@ Overview for the interface (german)
 * [Floor plan](the-floor-plan.md)
 * [Layouts](layouts.md)
 
-## **Settings, changelog and license:**
+## **Settings:**
 
 * [Settings](settings-panel.md)
-* [Changelog](changelog-panel.md)
 
 ## **Adjusting the User interface:**
 
