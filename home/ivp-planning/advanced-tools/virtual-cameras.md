@@ -29,12 +29,12 @@ Alternatively, it is also possible to create a new virtual camera that will posi
 Virtual cameras behave like regular objects when it comes to [position ](../machines/move-objects.md)and [rotation](../machines/scale-and-rotate-objects.md). As other objects, they appear in the 2D- and 3D-panel and can be [moved around](../machines/move-objects.md) or [rotated](../machines/scale-and-rotate-objects.md) in the same way.
 
 {% hint style="info" %}
-It is also possible to [move ](../machines/move-objects.md)or [rotate](../machines/scale-and-rotate-objects.md) several cameras at once. To do so, simply [select ](../machines/selecting-and-moving-objects.md)multiple cameras before you make changes in the [2D- ](../user-interface/the-2d-panel.md)or [3D-panel](../user-interface/the-3d-panel.md).
+It is also possible to [move](../machines/move-objects.md)or [rotate](../machines/scale-and-rotate-objects.md) several cameras at once. To do so, simply [select](../machines/selecting-and-moving-objects.md)multiple cameras before you make changes in the [2D-](../user-interface/the-2d-panel.md)or [3D-panel](../user-interface/the-3d-panel.md).
 {% endhint %}
 
 ![](../../../.gitbook/assets/iVP\_virtual\_cameras\_objects.jpg)
 
-Furthermore, a virtual camera can be manipulated by its values in the[ info panel](../user-interface/the-info-panel.md) after it has been selected.
+Furthermore, a virtual camera can be manipulated by its values in the[info panel](../user-interface/the-info-panel.md) after it has been selected.
 
 ![](../../../.gitbook/assets/iVP\_virtual\_cameras\_position.jpg)
 
@@ -84,7 +84,7 @@ In the [panel](../user-interface/camera-list-panel.md), it is possible to adjust
 
 ![](../../../.gitbook/assets/iVP\_virtual\_cameras\_camera\_list\_panel\_camera\_settings.jpg)
 
-If you want to exclude cameras you set up from the final video without [deleting ](../machines/delete-objects.md)them, you can do so by clicking on the check marks of the cameras in the [camera list panel](../user-interface/camera-list-panel.md).
+If you want to exclude cameras you set up from the final video without [deleting](../machines/delete-objects.md)them, you can do so by clicking on the check marks of the cameras in the [camera list panel](../user-interface/camera-list-panel.md).
 
 ![](../../../.gitbook/assets/iVP\_virtual\_cameras\_camera\_list\_panel\_camera\_selection.jpg)
 
@@ -108,4 +108,4 @@ Virtual cameras can be [renamed like objects](../machines/renaming-objects-and-f
 
 ## Deleting cameras:
 
-Virtual cameras can be[ deleted like objects](../machines/delete-objects.md).
+Virtual cameras can be[deleted like objects](../machines/delete-objects.md).
