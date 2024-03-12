@@ -33,7 +33,8 @@ The new folder will be placed at the topmost position of the hierarchy. It can t
 ### Moving objects in the hierarchy panel:
 
 Objects can be [moved](../machines/selecting-and-moving-objects.md#selecting-objects-via-the-hierarchy) in the hierarchy via drag and drop. A white frame will indicate where the object will go. Drop an object onto another one, to group it together with the target.
-![](../../../.gitbook/assets/Hierarchy_move.jpg)
+
+![](../../../.gitbook/assets/hierarchy_move.png)
 
 ## Lock/Unlock objects
 
