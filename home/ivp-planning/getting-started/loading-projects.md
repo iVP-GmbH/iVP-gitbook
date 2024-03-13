@@ -10,7 +10,7 @@ To load a project first click on **File -> Open**. A new window will open where 
 As soon as you found the file, simply double click or it or select it and click **Open**.
 
 {% hint style="info" %}
-Project files can easily be identified by their **.plan** extension. You can move them to other folders or share them with collogues or customers, but you should not remove or change their extension.
+Project files can easily be identified by their **.plan** extension. You can move them to other folders or share them with colleagues or customers, but you should not remove or change their extension.
 {% endhint %}
 
 ![](../../../.gitbook/assets/open_file_dialogue.jpg)
