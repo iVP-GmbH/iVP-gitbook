@@ -55,10 +55,10 @@ Existing paths can be further edited to adjust the individual lengths between co
 
 ![](../../../.gitbook/assets/iVP_path_tool_edit_corner_distance.jpg)
 
-Additionally, you can edit the individual axis angles of a path. The blue line serves as the global Y-axis, providing a better reference point when adjusting your angles.
+Additionally, you can edit the individual axis angles of a path. The blue line serves as the global Y-axis, providing a better reference point when adjusting your angles.  
+The angles are measured based on the line between two points, where one of these points is the current point and the other is either the previous or the next point. The angle is formed between this line and the vertical axis (blue line)
 
 ![](../../../.gitbook/assets/iVP_path_tool_edit_axis_distance.jpg)
-
 ## Measurement display options
 
 You can toggle the display of **edge lengths**, **angle** and **area** information for each path by right-clicking on them and selecting the corresponding option in the context menu.
