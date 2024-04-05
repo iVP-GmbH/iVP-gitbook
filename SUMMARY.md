@@ -82,6 +82,7 @@
       * [Path Tool](home/ivp-planning/advanced-tools/path-tool.md)
       * [Fence Tool](home/ivp-planning/advanced-tools/fence-tool.md)
       * [Room Tool](home/ivp-planning/advanced-tools/the-room-tool.md)
+      * [Ground Markings](home/ivp-planning/advanced-tools/ground-markings.md)
       * [Markup Tool](home/ivp-planning/advanced-tools/markup-tool.md)
       * [3D Import](home/ivp-planning/advanced-tools/3d-import.md)
     * [Settings](home/ivp-planning/settings/README.md)
