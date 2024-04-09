@@ -16,7 +16,7 @@ After activation, a small path icon will follow your curser, indicating that you
 
 ![](../../../.gitbook/assets/iVP_path_tool_mouse_icon.jpg)
 
-To create a path, **left-click on a position** in the [2D-panel](../user-interface/the-2d-panel.md). A small circle will appear, marking the spot of the click and functioning as the first measurement point. When the mouse is moved after the click, a line will appear between the measurement point and the mouse pointer. To set a new measurement point, simply **left-click on another position** in the [2D-panel](../user-interface/the-2d-panel.md).
+To create a path, **left click on a position** in the [2D-panel](../user-interface/the-2d-panel.md) or [3D-panel](../user-interface/the-3d-panel.md). A small circle will appear, marking the spot of the click and functioning as the first measurement point. When the mouse is moved after the click, a line will appear between the measurement point and the mouse pointer. To set a new measurement point, simply **left click on another position** in either the [2D-panel](../user-interface/the-2d-panel.md) or [3D-panel](../user-interface/the-3d-panel.md).
 
 ![](../../../.gitbook/assets/iVP_path_tool_draw_path_line_new.jpg)
 
@@ -24,10 +24,10 @@ During the creation process of the path, each line and corner will automatically
 
 ![](../../../.gitbook/assets/iVP_path_tool_daw_path_angle_new.jpg)
 
-To complete a path, you can either press **Enter** or **double-click on the last measurement point** set. Upon completion, the path is saved as a permanent object that can be adjusted or deleted in the [hierarchy panel](../user-interface/hierarchy-panel.md)
+To complete a path, you can either press **Enter** or **double-click on the last point**. Upon completion, the path is saved as a permanent object that can be adjusted or deleted in the [hierarchy panel](../user-interface/hierarchy-panel.md)
 
 {% hint style="info" %}
-If the path contains three or more measurement points, it will automatically be closed after creation (the first and the last measurement points will be connected automatically).
+If the path contains three or more points, it will automatically be closed after creation (the first and the last points will be connected automatically).
 {% endhint %}
 
 ![](../../../.gitbook/assets/iVP_path_tool_draw_path_panel_new.jpg)
@@ -36,13 +36,11 @@ The path creation can be canceled at any time by pressing the **Escape key**. Th
 
 ## Path editing
 
-Existing paths can be selected by **clicking on the path name** in the [hierarchy panel](../user-interface/hierarchy-panel.md), as well as the [2D-panel](../user-interface/the-2d-panel.md) & [3D-panel](../user-interface/the-3d-panel.md).
-
 To add new points to a selected path, **right-click on a line** and then click on **add point**.  
 
 ![](../../../.gitbook/assets/iVP_path_tool_draw_path_right_click_line_new.jpg)
 
-To delete a point, **right click on the point** and then click on **"Delete"**.
+To delete a point, either **right click on the point** and then click on **"Delete"**, or select a point and simply press the Delete button on your keyboard.
 
 ![](../../../.gitbook/assets/iVP_path_tool_delete_point.jpg)
 
@@ -51,11 +49,11 @@ Points can also be seleceted and moved individually, either in the [2D-panel](..
 
 ### Editing Path Distance and Angles
 
-Existing paths can be further edited to adjust the individual lengths between corner points. To do so, select one of your corner points and edit either the "Distance to previous point" or "Distance to next point" options.
+Existing paths can be further edited to adjust the individual lengths between corner points. To do so, select one of the corner points and edit either the "Distance to previous point" or "Distance to next point" options.
 
 ![](../../../.gitbook/assets/iVP_path_tool_edit_corner_distance.jpg)
 
-Additionally, you can edit the individual axis angles of a path. The blue line that gets displayed once a path point is selected serves as the global Y-axis, providing a better reference point when adjusting your angles.  
+Additionally, you can edit the individual angles of a path. The blue line that gets displayed once a path point is selected serves as the global Y-axis, providing a better reference point when adjusting your angles.  
 The angles are measured based on the line between two points, where one of these points is the current point and the other is either the previous or the next point. The angle is formed between this line and global Y axis (blue line).
 
 ![](../../../.gitbook/assets/iVP_path_tool_edit_axis_distance.jpg)
@@ -65,6 +63,6 @@ You can toggle the display of **edge lengths**, **angle** and **area** informati
 
 ![](../../../.gitbook/assets/iVP_path_tool_context_menu.jpg)
 
-Alternatively it is possible to hide or show all lengths or angles by changing the entry in the measurement section of the [properties panel](../user-interface/the-info-panel.md) and subsequently clicking on **edge lengths**, **angles** or **area**.
+Alternatively it is possible to hide or show all lengths or angles by changing the entry in the measurement section of the [properties panel](../user-interface/the-info-panel.md).
 
 ![](../../../.gitbook/assets/iVP_path_tool_properties_window_2d.jpg)
