@@ -2,9 +2,7 @@
 
 The scaling objects offers a way to alter the size of every object. This is useful to make adjustments of objects that are not [customizable](customizable-machines.md).
 
-{% hint style="warning" %}
-Exercise caution when using the scaling function to prevent distortions or errors. When opting for the [customization](customizable-machines.md) options of an object, keep in mind that scaling along the Z-axis is possible for most, yet not all objects
-{% endhint %}
+Exercise caution when using the scaling function to prevent distortions or errors. When opting for the [customization](customizable-machines.md) options of an object, keep in mind that scaling along the Z-axis is possible for some, it may not apply to most objects.
 
 ## Scaling objects in the 3D-panel:
 
