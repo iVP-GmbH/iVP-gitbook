@@ -1,5 +1,9 @@
 # Changelog
 
+{% content-ref url="version-2404.md" %}
+[version-2404.md](version-2404.md)
+{% endcontent-ref %}
+
 {% content-ref url="version-2402.md" %}
 [version-2402.md](version-2402.md)
 {% endcontent-ref %}
