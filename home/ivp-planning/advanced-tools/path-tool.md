@@ -16,7 +16,7 @@ After activation, a small path icon will follow your curser, indicating that you
 
 ![](../../../.gitbook/assets/iVP_path_tool_mouse_icon.jpg)
 
-To create a path, **left click on a position** in the [2D-panel](../user-interface/the-2d-panel.md) or [3D-panel](../user-interface/the-3d-panel.md). A small circle will appear, marking the spot of the click and functioning as the first point. When the mouse is moved after the click, a line will appear between the point and the mouse cursor. To add a new point, simply **left click on another position** in either the [2D-panel](../user-interface/the-2d-panel.md) or [3D-panel](../user-interface/the-3d-panel.md).0
+To create a path, **left click on a position** in the [2D-panel](../user-interface/the-2d-panel.md) or [3D-panel](../user-interface/the-3d-panel.md). A small circle will appear, indicating the spot of the click and serving as the initial point. When the mouse is moved after the click, a line will appear between the point and the mouse cursor. To add a new point, simply **left click on another position** in either the [2D-panel](../user-interface/the-2d-panel.md) or [3D-panel](../user-interface/the-3d-panel.md).0
 
 ![](../../../.gitbook/assets/iVP_path_tool_draw_path_line_new.jpg)
 
