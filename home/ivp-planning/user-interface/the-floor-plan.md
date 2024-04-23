@@ -14,7 +14,7 @@ The [floor plan](the-floor-plan.md) - the virtual room or factory hall in which 
 
 * By setting new values for the floor size in the [global settings panel](settings-panel.md#global-settings)
 * By [loading a save](../getting-started/loading-projects.md) file with the _"Resize floor to saved dimensions"_  option enabled
-* By [importing a floor plan PDF](../getting-started/importing-pdfs.md#pdf-import-settings) with the _"Resize floor to PDF scale"_ option enabled
+* By [importing a floor plan PDF](../getting-started/importing-pdfs.md) with the _"Resize floor to PDF scale"_ option enabled
 * By using the [Room Tool](../advanced-tools/the-room-tool.md)
 
 ## PDFs as floor plan
