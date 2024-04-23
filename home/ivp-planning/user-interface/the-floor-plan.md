@@ -21,4 +21,6 @@ The [floor plan](the-floor-plan.md) - the virtual room or factory hall in which 
 
 It is possible to use a PDF as floor plan by [importing it](../getting-started/importing-pdfs.md). If the project already contains a PDF, it is possible to toggle its [visibility](../getting-started/pdf-visibility.md) or [delete](../getting-started/delete-pdfs.md) it via the [hierarchy panel](../user-interface/hierarchy-panel.md).
 
+{% hint style="warning" %}
 _Please note that this is a legacy feature and only applies to older plan files in which PDF files were saved as a floor plan beforehand._
+{% endhint %}
