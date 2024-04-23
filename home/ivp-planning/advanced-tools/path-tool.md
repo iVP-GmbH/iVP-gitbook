@@ -16,7 +16,7 @@ After activation, a small path icon will follow your curser, indicating that you
 
 ![](../../../.gitbook/assets/iVP_path_tool_mouse_icon.jpg)
 
-To create a path, **left click on a position** in the [2D-panel](../user-interface/the-2d-panel.md) or [3D-panel](../user-interface/the-3d-panel.md). A small circle will appear, marking the spot of the click and functioning as the first measurement point. When the mouse is moved after the click, a line will appear between the measurement point and the mouse pointer. To set a new measurement point, simply **left click on another position** in either the [2D-panel](../user-interface/the-2d-panel.md) or [3D-panel](../user-interface/the-3d-panel.md).
+To create a path, **left click on a position** in the [2D-panel](../user-interface/the-2d-panel.md) or [3D-panel](../user-interface/the-3d-panel.md). A small circle will appear, marking the spot of the click and functioning as the first point. When the mouse is moved after the click, a line will appear between the point and the mouse cursor. To add a new point, simply **left click on another position** in either the [2D-panel](../user-interface/the-2d-panel.md) or [3D-panel](../user-interface/the-3d-panel.md).0
 
 ![](../../../.gitbook/assets/iVP_path_tool_draw_path_line_new.jpg)
 
@@ -53,8 +53,7 @@ Existing paths can be further edited to adjust the individual lengths between co
 
 ![](../../../.gitbook/assets/iVP_path_tool_edit_corner_distance.jpg)
 
-Additionally, you can edit the individual angles of a path. The blue line that gets displayed once a path point is selected serves as the global Y-axis, providing a better reference point when adjusting your angles.  
-The angles are measured based on the line between two points, where one of these points is the current point and the other is either the previous or the next point. The angle is formed between this line and global Y axis (blue line).
+Additionally, you can edit the individual angles of a path. A points angles are measured between the global Y axis and the line between the selected point and it's previous or next point. The blue line that gets displayed when a point is selected serves as a visual indicator for the global Y axis.
 
 ![](../../../.gitbook/assets/iVP_path_tool_edit_axis_distance.jpg)
 ## Measurement display options
