@@ -2,7 +2,7 @@
 
 The floor plan defines the virtual room or factory hall in which machines and objects are placed. It is the central element of the [2D view](the-2d-panel.md) (1) and the [3D view](the-3d-panel.md) (2).
 
-![](../../../.gitbook/assets/iVP\_floor\_plan\_2D\_and\_3D.jpg)
+![](../../../.gitbook/assets/floor_plan_3d_2d.jpg)
 
 {% hint style="info" %}
 All machines and objects can also be placed outside of the floor plan without any limitations. Although this might not be the typical use case it can be used to temporarily "store" machines. However, a better practice is usually to place the machines in their correct spot on the floor plan and then to [hide](hierarchy-panel.md#hideunhide-objects) them.
@@ -19,4 +19,8 @@ The [floor plan](the-floor-plan.md) - the virtual room or factory hall in which 
 
 ## PDFs as floor plan:
 
-It is possible to use a PDF as floor plan by [importing it](../getting-started/importing-pdfs.md). If the project already contains a PDF, it is possible to toggle its [visibility ](../getting-started/pdf-visibility.md)or [delete ](../getting-started/delete-pdfs.md)it. It can be replaced by [importing ](../getting-started/importing-pdfs.md)another PDF.
+It is possible to use a PDF as floor plan by [importing it](../getting-started/importing-pdfs.md). If the project already contains a PDF, it is possible to toggle its [visibility](../getting-started/pdf-visibility.md) or [delete](../getting-started/delete-pdfs.md) it via the [hierarchy panel](../user-interface/hierarchy-panel.md).
+
+{% hint style="warning" %}
+Please note that this is a legacy feature and only applies to older plan files in which PDF files were saved as a floor plan beforehand.
+{% endhint %}
