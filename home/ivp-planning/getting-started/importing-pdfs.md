@@ -1,31 +1,21 @@
 # Importing PDFs
 
-In iVP it is possible to import PDFs that will act as an overlay for the [floor plan](../user-interface/the-floor-plan.md). This can be useful for illustration or when it is necessary to transform a 2D (factory) plan into a 3D scene.
+To import a PDF, click on **File -> Import**. A new window will open that allows you to navigate to the folder containing the PDF you want to import.
 
+![](../../../.gitbook/assets/pdf_import_pdf_menu_entry.jpg)
 
-{% embed url="https://youtu.be/MuLt94b64O8?t=203" %}
-How to import and export PDFs (german)
-{% endembed %}
+Before iVP actually processes the PDF and imports it, you will be asked to set some parameters that specify how it will be loaded. The options are:
 
-## Importing PDFs step by step:
+* **Page Size**: Changes the size of the imported PDF, you can either choose from a preset or manually customize the size of the file. Additionally, you can use the dimensions saved in the PDF.
 
-To import a PDF click on **File -> PDF -> Import PDF**. A new window will open that allows you to navigate to the folder that contains the PDF you want to import.
+* **Width Original File**: Displays the original width of the file, which can be adjusted if the file size isn't derived from it. Also changes the overall width and scale of the PDF when modified.
 
-![](../../../.gitbook/assets/iVP\_pdf\_import\_pfd\_menu\_entry.jpg)
+* **Scale**: Adjusts the size ratio of the imported file (e.g. 50:1), thereby proportionately altering its dimensions.
 
-As soon as you found the file, simply double click or it or select it and click **Open**.
+* **Resolution**: Adjusts the resolution of the imported file. Note that higher resolution makes sharper lines, but might impact performance.
 
-![](../../../.gitbook/assets/iVP\_pdf\_import\_pdf\_file\_dialogue.jpg)
+* **Name**: Modifies the name of the imported object.
 
-Before iVP actually processes PDF and imports it, you will be asked to set some parameters that specify it will be loaded. The options are:
+* **Add to Library**: Saves the imported item to your [personal library](../user-interface/library-panel.md).
 
-* _**PPI:**_** t**his value represents the resolution of the PDF to import (most PDFs have a default resolution of 72 PPI so it is usually not necessary to change this value)
-* _**Scale:**_ this value represents the scale of the PDF to import, e.g. 1:100 or 1:50
-* _**Resize floor to PDF scale:**_ if checked the size of the floor plan will be adjusted to be equal to the dimensions of the imported PDF
-* _**Transparent background:** i_f checked the usually white background of the imported PDF will be removed so that only its contents are visible
-
-{% hint style="info" %}
-PDF PPI and PDF scale are interdependent values. Therefore the PPI value can also be used to compensate an incorrect PDF scale. However, it is usually not necessary to change the PPI value.
-{% endhint %}
-
-![](../../../.gitbook/assets/iVP\_pdf\_import\_pdf\_options.jpg)
+![](../../../.gitbook/assets/pdf_import_pdf_options.jpg)
