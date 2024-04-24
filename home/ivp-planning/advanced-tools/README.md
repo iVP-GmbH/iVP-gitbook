@@ -32,6 +32,10 @@ With these tools it is possible to
 [create rooms](the-room-tool.md)
 {% endcontent-ref %}
 
+{% content-ref url="ground-markings.md" %}
+[create ground markings](ground-markings.md)
+{% endcontent-ref %}
+
 {% content-ref url="markup-tool.md" %}
 [create markups](markup-tool.md)
 {% endcontent-ref %}
