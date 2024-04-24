@@ -10,11 +10,11 @@ Besides the regular path options, you will also have the option to change the gr
 
 * **Alignment**: Adjusts the alignment of the ground markings inner and outer lines to:  
 
-Center: The marking is aligned parallel to the drawn path through its center. The yellow lines are positioned parallel to each other, with the drawn path situated between them.  
+Center: The marking is aligned to the drawn path with its center. The yellow lines are positioned parallel to each other, with the drawn path situated between them.  
 
 Inside: The marking is inside the drawn path. The outer line is identical to the drawn line.  
 
-Outside: The marking is outside the  drawn path. The inside line is identical to the drawn line.
+Outside: The marking is outside the drawn path. The inner line is identical to the drawn line.
 
 * **Gap**: Adjusts the distance between the inner and outer lines.
 
