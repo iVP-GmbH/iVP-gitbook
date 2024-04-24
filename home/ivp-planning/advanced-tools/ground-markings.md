@@ -4,7 +4,7 @@ It is possible to convert your path into a ground marking, enabling you to highl
  
 ![](../../../.gitbook/assets/path_tool_ground_marking_type.jpg)
 
-Besides the regular path options, you will also have the option to change the ground markings **line width**, **alignment**, **gap** and its **color** in the [properties panel](..user-interface/..the-info-panel.md)  
+Besides the regular path options, you will also have the option to change the ground markings **line width**, **alignment**, **gap** and its **color** in the [properties panel](../user-interface/the-info-panel.md).  
 
 * **Line width**: Determines the width of the ground markings outer and inner lines.
 
