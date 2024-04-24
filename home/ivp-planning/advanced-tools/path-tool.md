@@ -1,6 +1,6 @@
 # Path Tool
 
-The path tool is an easy yet remarkably powerful feature of Planning that can be utilized for quick measurements as well as advanced highlighting. In its various forms it can also expedite the creation of complex ground markings, [fences](fence-tool.md#creating-a-fence) and [rooms](the-room-tool.md#creating-a-room).
+The path tool is an easy yet remarkably powerful feature of Planning that can be utilized for quick measurements as well as advanced highlighting. In its various forms it can also expedite the creation of complex [ground markings](ground-markings.md), [fences](fence-tool.md#creating-a-fence) and [rooms](the-room-tool.md#creating-a-room).
 
 {% embed url="https://youtu.be/wfdVZQ76_F0" %}
 How to use the path tool
