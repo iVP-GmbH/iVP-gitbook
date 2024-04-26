@@ -1,6 +1,6 @@
 # Install Applications
 
-All iVP applications can be installed and [updated ](installation-updates.md)directly from the iVP Hub window in a few steps. However, it is necessary to [activate the license of the particular program](license-activation.md) first.
+All iVP applications can be installed and [updated](installation-updates.md) directly from the iVP Hub window in a few steps. However, it is necessary to [activate the license of the particular program](license-activation.md) first.
 
 ## Install an application:
 
