@@ -4,7 +4,7 @@ The 2D-Panel acts as planning area where you can [place](../machines/first-steps
 
 ![](../../../.gitbook/assets/UI_2D_panel.jpg)
 
-## The toolbar of the 2D-Panel:
+## The toolbar of the 2D-Panel
 
 The toolbar is located at the top of the panel and contains several buttons that give you quick access to 2D-specific functions and settings.
 
