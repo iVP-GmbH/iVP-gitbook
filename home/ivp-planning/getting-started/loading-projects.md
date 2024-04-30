@@ -15,7 +15,7 @@ Before iVP actually processes the data from the file you will be asked to set so
 
 * **Replace current scene:** if checked iVP will replace the current project with the one stored in the plan.
 
-* _**Include PDF if available**_**:** if checked iVP will import the [floor plan](../user-interface/the-floor-plan.md) stored in the plan file (if there is one). _This is a legacy option for old plan files and might not be applicable to your plan file._
+* **Include PDF if available:** if checked iVP will import the [floor plan](../user-interface/the-floor-plan.md) stored in the plan file (if there is one). _This is a legacy option for old plan files and might not be applicable to your plan file._
 
 * **Resize floor to saved dimensions:** adjusts the current [floor plan](../user-interface/the-floor-plan.md#adjusting-the-shape-and-size-of-the-floor-plan) to the floor size stored in the plan.
 
