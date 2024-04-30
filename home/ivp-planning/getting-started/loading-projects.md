@@ -5,7 +5,6 @@ In iVP you can load previously [saved projects](saving-projects.md) for continuo
 To load a project click on **File -> Open** and select a file.
 
 ![](../../../.gitbook/assets/open_file_menu.jpg)
-As soon as you found the file, simply double click or it or select it and click **Open**.
 
 {% hint style="info" %}
 Project files can easily be identified by their **.plan** extension. You can move them to other folders or share them with colleagues or customers, but you should not remove or change their extension.
@@ -21,7 +20,7 @@ Before iVP actually processes the data from the file you will be asked to set so
 * **Resize floor to saved dimensions:** adjusts the current [floor plan](../user-interface/the-floor-plan.md#adjusting-the-shape-and-size-of-the-floor-plan) to the floor size stored in the plan.
 
 {% hint style="danger" %}
-Please note that replacing a scene can result in the deletion of the old scene content. Saved plan files remain untouched, however you will lose unsaved progress.  
+Please note that replacing a scene results in the deletion of the old scene content. Saved plan files remain untouched, however you will lose unsaved progress.
 {% endhint %}
 
 ![](../../../.gitbook/assets/open_file_options.jpg)
