@@ -27,3 +27,11 @@ _2024-02-28_
 * The application no longer sometimes crashes when working with imported 3D files that are not in the glTF format
 * Importing non glTF models with a capitalized file extension no longer fails
 * When duplicating an imported plan file, the objects in the file now do get highlighted correctly when the file is selected
+
+## Version 2402.0.1
+_2024-05-08_
+
+### Fixed
+
+* Analytics once again works
+* The virtual camera panel can no longer be resized to an insufficiently small size

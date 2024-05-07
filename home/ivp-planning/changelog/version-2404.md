@@ -18,4 +18,3 @@
 ### Fixed
 
 * The floor is no longer being clipped (partially invisible) in the 3D view in orthographic mode from certain camera angles
-* Analytics once again work
