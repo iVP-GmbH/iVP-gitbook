@@ -15,7 +15,7 @@
 * UI Scale: Adjusts UI scale
 * Grid: Toggles the grid in the 2D panel
 * Grid Origin: Toggles the origin marker
-* Animations: Allows animations to be visible in the 3D panel
-* Overhead View: Allows animations to be visible in the 2D panel
+* Animations: Enables/Disables animations across both 2D and 3D panels within the program.
+* Overhead View: Enables animations to be displayed in the 2D panel, enhancing visual rendering but potentially impacting performance negatively
 * Walls: Switches floor plan walls on/off.
 * Ceiling: Switches floor plan ceiling on/off.

@@ -11,7 +11,7 @@ The graphic settings offer several options to adjust the graphic quality and dif
 ## The options explained:
 
 * General Quality: Overall graphical quality based on presets
-* Frame Rate: Adjusts the frame rate
+* Frame Rate: Limits the maximum frame rate
 
 
 * Ambient Occlusion: Toggles ambient occlusion
