@@ -1,12 +1,12 @@
 # Properties Panel
 
-The propertie panel displays several information about the [selected object(s)](../machines/selecting-and-moving-objects.md#select-objects) like name, position or size and makes it possible to change these values. The panel can also contain additional options if the selected object(s) are customizable.
+The properties panel displays several information about the [selected object(s)](../machines/selecting-and-moving-objects.md#select-objects) like name, position or size and makes it possible to change these values. The panel can also contain additional options if the selected object(s) are customizable.
 
 ![](../../../.gitbook/assets/interface_properties_panel.jpg)
 
 ## The default options
 
-* **Name:** The name of the object which [can be changed](../machines/renaming-objects-and-folders.md) at any time.
+* **Name:** The [editable](../machines/renaming-objects-and-folders.md) name of the object.
 
 * **ID:** The unique ID of the object which is generated when the machine is [placed](../machines/first-steps-with-3d-object.md)in the [2D-](the-2d-panel.md) or [3D-panel](the-3d-panel.md); the ID is unchangeable and will persist until the object is [deleted](../machines/copy-and-delete-objects.md#delete-objects).
 
@@ -25,13 +25,11 @@ The unit of measurement used on the grid (e.g. mm, m or ft) [can be changed](set
 
 ## Customizable objects
 
-A central element of iVP are the so called "customizable objects". By offering additional customization options tailored to their specific characteristics, customizable objects can be altered far beyond simple scaling or rotation.
+A central element of Planning are the so called "customizable objects". By offering additional customization options tailored to their specific characteristics, customizable objects can be altered far beyond simple scaling or rotation.
 
-{% hint style="success" %}
-For example, consider a machine with variable wagon numbers depending on its working environment. In typical software, adjusting for this variability often involves imprecise stretching, which can lead to inaccuracies. However, in iVP, simply changing a single number in the info panel automatically adjusts the machine to accommodate the new wagon count, including resizing, adding/removing parts, or swapping the entire model.
+For example, consider a machine with variable wagon numbers depending on its working environment. In other software, adjusting for this variability often involves imprecise stretching, which can lead to inaccuracies. However, in iVP Planning, simply changing a single number in the info panel automatically adjusts the machine to accommodate the new wagon count, including resizing, adding/removing parts, or swapping the entire model.
 
-Customizable machines in iVP offer another advantage: constraints ensure that customization aligns with real-world feasibility, reflecting physical counterparts accurately.
-{% endhint %}
+Customizable machines in Planning offer another advantage: constraints ensure that customization aligns with real-world feasibility, reflecting physical counterparts accurately.
 
 {% hint style="success" %}
 Example: the same machine with 4 wagons and 1 wagon - realized without stretching or workarounds:
@@ -40,8 +38,8 @@ Example: the same machine with 4 wagons and 1 wagon - realized without stretchin
 ![](../../../.gitbook/assets/iVP\_guide\_customize\_objects\_example\_1\_wagon.jpg)&#x20;
 {% endhint %}
 
-## Customize objects via the info panel
+## Customize objects via the properties panel
 
-To customize a [selected object](selecting-and-moving-objects.md), have a look at the **lower part of the properties panel**. The options available here depend on the object.
+To customize [selected object(s)](selecting-and-moving-objects.md), have a look at the **lower part of the properties panel**. The options available here depend on the object(s)
 
 ![](../../../.gitbook/assets/customize_objects_properties_panel.jpg)
