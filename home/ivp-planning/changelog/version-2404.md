@@ -34,3 +34,15 @@ _2024-07-10_
 * Analytics once again work
 * Switching a path between room and fence type once again keeps the customizations that are specific to the respective type
 * Light Barriers in fences created using the path tool no longer change their material when the fence material is changed
+
+## Version 2404.0.1
+_2024-07-12_
+
+### Changed
+
+* Use port 8311 for the authentication redirect by default to fix authentication for some users
+* Allow specifying a port for the authentication redirect in the user settings, to make sure users can authenticate if the default port is blocked
+
+### Fixed
+
+* The grid origin in the 2D view is now also visible when overhead view is enabled
