@@ -1,6 +1,7 @@
 # Version 2404
 
 ## Version 2404.0
+_2024-07-10_
 
 ### Added
 
@@ -8,6 +9,9 @@
 * New cloud panel (Window > Cloud) for up- and downloading files for cloud services (in testing phase for selected users)
 * Add support for importing HDR images/skyboxes
 * The skybox can now optionally be used as a reflection source
+* New machine: CENTATEQ P-100
+* New machine: CENTATEQ P-610
+* Sorting shelf: New sizes
 
 ### Changed
 
