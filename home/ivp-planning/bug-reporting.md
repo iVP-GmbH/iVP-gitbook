@@ -26,4 +26,4 @@ After that you should enter your e-mail address, so that we can contact you if w
 
 Finally, confirm the bug report with the confirmation button.
 
-![](../../.gitbook\assets\iVP\_Bugreport\_Confirm.jpg)
+![](../../.gitbook/assets/iVP\_Bugreport\_Confirm.jpg)
