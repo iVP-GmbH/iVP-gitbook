@@ -2,7 +2,7 @@
 
 The top bar is located at the top of the screen and contains a text menu for various purposes as well as shortcuts in the form of different buttons. All elements are explained in detail below.
 
-![](../../../.gitbook/assets/iVP\_UI\_top\_bar.jpg)
+![](../../../.gitbook/assets/X_iVP_Planning_TopBar.jpg)
 
 ## Text menu:
 
@@ -11,15 +11,21 @@ The text menu contains four submenus:
 * File:
   * _**New:**_ creates a new project
   * _**Open:**_ [loads a project](../getting-started/loading-projects.md)
+  * _**Open Recent:**_ opens recent projects
   * _**Open autosave directory:**_ opens the autosave directory  
   * _**Save:**_ [saves the current project](../getting-started/saving-projects.md)
   * _**Save as:**_ [saves a copy of the current project](../getting-started/saving-projects.md)
+  * _**Import:**_ [Imports data such as PDFs](../getting-started/importing-pdfs.md) that will be used as floor plan overlay
+  *   Export:
+
+      * _**Video:**_ [exports a Video](../getting-started/exporting-videos.md) according to your own settings
+      * _**Selection as DXF:**_ [exports in dxf format](../getting-started/exporting-dxf.md) for further processing in CAD or CNC systems.
   *   PDF:
 
-      * _**Import PDF:**_ [imports a PDF](../getting-started/importing-pdfs.md) that will be used as floor plan overlay
       * _**Export PDF:**_ [exports a PDF](../getting-started/exporting-pdfs.md) of the current project
       * _**Delete PDF:**_ [deletes the PDF](../getting-started/delete-pdfs.md) that currently used as floor play overlay
-
+      
+  * _**Quit:**_ closes the program
 
 *   View:
 
@@ -43,6 +49,7 @@ The text menu contains four submenus:
   * _**Camera List:**_ opens the [camera list panel](camera-list-panel.md)
   * _**Video:**_ opens the [video panel](virtual-camera-panel.md)
   * _**Settings:**_ opens the [settings panel](settings-panel.md)
+  * _**Markups:**_ opens the [markups panel](markups-panel.md)
 
 * Help:
   * _**Report a bug:**_ opens the [bug report dialog](../bug-reporting.md)
@@ -53,7 +60,9 @@ The text menu contains four submenus:
 
 |                                                                                |                                                                          |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
-| ![](../../../.gitbook/assets/iVP\_menu\_bar\_layouts.jpg)                      | Opens a small submenu that lets you choose a [window layout](layouts.md) |
-| ![](../../../.gitbook/assets/iVP\_menu\_error\_reporting.jpg)                  | Opens the [bug report panel](../bug-reporting.md)                        |
-| ![](../../../.gitbook/assets/iVP\_menu\_bar\_help\_faq\_documentation.jpg)     | Opens the [main page](../../) of this documentation                      |
-| ![](../../../.gitbook/assets/iVP\_menu\_bar\_more\_information.jpg)            | Opens the about dialog, containing the [changelog](/changelog-panel.md) and the [3rd Party Licenses](../open-source-licensing.md)                        |
+| ![](../../../.gitbook/assets/iVP_Planning_TopBar_DefaultButton)                | Opens a small submenu that lets you choose a [window layout](layouts.md) |
+| ![](../../../.gitbook/assets/iVP_Planning_TopBar_Layers)                       | Opens a submenu where you can show or hide layers.                       |
+| ![](../../../.gitbook/assets/iVP_Planning_TopBar_ErrorReport)                  | Opens the [bug report panel](../bug-reporting.md)                        |
+| ![](../../../.gitbook/assets/iVP_Planning_TopBar_Dokumentation)                | Opens the [main page](../../) of this documentation                      |
+| ![](../../../.gitbook/assets/iVP_Planning_TopBar_Information)                  | Opens the about dialog, containing the [changelog](/changelog-panel.md) and the [3rd Party Licenses](../open-source-licensing.md)                        |
+| ![](../../../.gitbook/assets/iVP_Planning_TopBar_Konto)                        | It opens a small submenu where you can log out and see your user profile.|
