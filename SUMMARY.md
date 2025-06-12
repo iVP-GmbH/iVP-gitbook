@@ -112,7 +112,5 @@
     * [3rd Party Licenses](home/ivp-planning/open-source-licensing.md)
     * [Troubleshooting](home/ivp-planning/troubleshooting/troubleshooting.md)
       * [Reset Window Layout](home/ivp-planning/troubleshooting/reset-window-layout.md)
-  * [iVP Showroom](home/ivp-showroom.md)
-  * [iVP Viewer](home/ivp-viewer.md)
-  * [iVP CGI](home/ivp-cgi.md)
+  * [iVP Stage](home/ivp-stage.md)
   * [Privacy Policy](home/privacy-policy.md)
