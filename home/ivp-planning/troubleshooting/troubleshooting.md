@@ -1,6 +1,6 @@
 # Troubleshooting
 
-Reset Window Layout from outside iVP Planning
+## Reset Window Layout from outside iVP Planning
 
 When iVP Planning is closed, your current window layout is saved and restored when you open the application the next time. Under rare conditions, Planning might save a layout that renders the application unusable (windows are configured in a way that prevents the user from interacting with the application). If this has happened to you, you can fix this by restoring the default window layout from outside the application. Do do so, follow below steps:
 

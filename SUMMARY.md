@@ -111,6 +111,5 @@
       * [Beta](home/ivp-planning/changelog/beta.md)
     * [3rd Party Licenses](home/ivp-planning/open-source-licensing.md)
     * [Troubleshooting](home/ivp-planning/troubleshooting/troubleshooting.md)
-      * [Reset Window Layout](home/ivp-planning/troubleshooting/reset-window-layout.md)
   * [iVP Stage](home/ivp-stage.md)
   * [Privacy Policy](home/privacy-policy.md)
