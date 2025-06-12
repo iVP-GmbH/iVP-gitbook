@@ -20,10 +20,10 @@ Then you can add information about what you expected, what happened and if you w
 
 ![](../../.gitbook/assets/iVP\_help\_report\_a\_bug\_panel\_basics.jpg)
 
-Lastly, you should enter your e-mail address, so that we can contact you if we have further questions. You can also attach a save file of the project if possible - this would help us when it comes to a replication of a bug.
+After that you should enter your e-mail address, so that we can contact you if we have further questions. You can also attach a save file of the project if possible - this would help us when it comes to a replication of a bug.
 
 ![](../../.gitbook/assets/iVP\_help\_report\_a\_bug\_panel\_advanced.jpg)
 
 Finally, confirm the bug report with the confirmation button.
 
-![](../../.gitbook\assets\iVP_Bugreport_Confirm.jpg)
+![](../../.gitbook\assets\iVP\_Bugreport\_Confirm.jpg)
