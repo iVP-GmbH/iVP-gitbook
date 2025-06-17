@@ -2,15 +2,17 @@
 
 The grid is an overlay in the [2D-panel](the-2d-panel.md) that makes it easier to estimate distances, e.g. when placing objects.
 
-![](../../../.gitbook/assets/iVP\_UI\_2D\_panel\_grid.jpg)
+![](../../../.gitbook/assets/iVP_Planning_UserInterface_Grid1.png)
 
-![](../../../.gitbook/assets/iVP\_UI\_2D\_panel\_grid\_zoomed.jpg)
+![](../../../.gitbook/assets/iVP_Planning_UserInterface_Grid2.png)
 
 ## Grid visibility:
 
 The grid can be switched on or off at any time by clicking on **View -> Grid**.
 
-![](../../../.gitbook/assets/iVP\_UI\_2D\_panel\_grid\_menu\_entry.jpg)
+![](../../../.gitbook/assets/iVP_Planning_UserInterface_Grid3.png)
+
+![](../../../.gitbook/assets/iVP_Planning_UserInterface_Grid4.png)
 
 ## Grid origin:
 
