@@ -37,6 +37,7 @@ The simple layout is useful to display information of already existing objects a
 ![](../../../.gitbook/assets/iVP_Planning_UserInterface_Layout_2DLayout.png)
 
 The 2D layout focuses entirely on the [2D-panel](the-2d-panel.md), providing a streamlined interface for planning tasks. In the top-left corner,  it can be switched to the [3D-panel](the-3d-panel.md) to access spatial views and further planning capabilities.
+{% endtab %} 
 
 {% tab title="3D Layout" %}
 ![](../../../.gitbook/assets/iVP_Planning_UserInterface_Layout_3DLayout.png)
