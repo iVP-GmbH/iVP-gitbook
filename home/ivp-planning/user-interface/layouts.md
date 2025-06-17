@@ -21,7 +21,7 @@ The text on the layout button will change depending on the currently active layo
 The default layout displays all the panels necessary for planning and quick [measurements](../advanced-tools/path-tool.md#measurements).
 {% endtab %}
 
-{% tab title="Presentation Layout" %}
+{% tab title="Presentation layout" %}
 ![](../../../.gitbook/assets/iVP_Planning_UserInterface_Layout_PresentationLayout.png)
 
 The presentation layout replaces the info panel through the [virtual camera panel](virtual-camera-panel.md) and the [camera list panel](camera-list-panel.md) and widens the [2D-](the-2d-panel.md) and the [3D-panel](the-3d-panel.md) so that everything is set up for the production of [screenshots ](../advanced-tools/creating-screenshots.md)and [virtual dolly shots](../advanced-tools/virtual-cameras.md).
@@ -33,13 +33,13 @@ The presentation layout replaces the info panel through the [virtual camera pane
 The simple layout is useful to display information of already existing objects and features wider [machine](the-machine-list.md) and [library panels](library-panel.md) and a large [info panel](the-info-panel.md).
 {% endtab %}
 
-{% tab title="2D Layout" %}
+{% tab title="2D layout" %}
 ![](../../../.gitbook/assets/iVP_Planning_UserInterface_Layout_2DLayout.png)
 
 The 2D layout focuses entirely on the [2D-panel](the-2d-panel.md), providing a streamlined interface for planning tasks. In the top-left corner,  it can be switched to the [3D-panel](the-3d-panel.md) to access spatial views and further planning capabilities.
 {% endtab %} 
 
-{% tab title="3D Layout" %}
+{% tab title="3D layout" %}
 ![](../../../.gitbook/assets/iVP_Planning_UserInterface_Layout_3DLayout.png)
 
 The 3D layout centers around the [3D-panel](the-3d-panel.md), offering a spatial overview for advanced planning tasks. In the top-left corner, it can be switched to the [2D-panel](the-2d-panel.md) to focus on floor plans or schematic views.
