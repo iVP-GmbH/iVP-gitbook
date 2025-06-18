@@ -14,7 +14,7 @@ The info panel displays several information about the [selected object(s)](../ma
   * _**Position:**_ The [position](../machines/selecting-and-moving-objects.md#move-objects) of the object relative to the current [reference point](the-grid.md#adjusting-the-reference-point) of the [coordinate system](the-grid.md) and its [rotation](../machines/scale-and-rotate-objects.md#rotate-objects) relative to its default rotation
   * _**Scale:**_ It allows adjusting object size along the X, Y, and Z axes. A 1:1:1 ratio indicates uniform scaling, with changes reflected in the ratio display.
   * _**Rotation:**_ It allows adjusting the orientation around the Z axis in degrees.
-* **Customization:** Each object has individual custumizations and can be adapted there.
+* **Customization:** Each object has individual [custumizations](../machines/customizable-machines.md#customizable-machines) and can be adapted there.
 
 {% hint style="info" %}
 The unit of measurement used for the plan (e.g. mm, m or ft) [can be changed](settings-panel.md#global-settings) globally in the [settings panel](settings-panel.md).
