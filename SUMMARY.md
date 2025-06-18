@@ -48,7 +48,7 @@
       * [3D-Panel](home/ivp-planning/user-interface/the-3d-panel.md)
       * [Hierarchy Panel](home/ivp-planning/user-interface/hierarchy-panel.md)
       * [Library Panel](home/ivp-planning/user-interface/library-panel.md)
-      * [Info Panel](home/ivp-planning/user-interface/the-info-panel.md)
+      * [Properties Panel](home/ivp-planning/user-interface/the-properties-panel.md)
       * [Layouts](home/ivp-planning/user-interface/layouts.md)
       * [Markups Panel](home/ivp-planning/user-interface/markups-panel.md)
       * [The Floor Plan](home/ivp-planning/user-interface/the-floor-plan.md)
