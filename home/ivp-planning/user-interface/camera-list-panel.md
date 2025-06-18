@@ -6,7 +6,7 @@ The camera list panel is used to manage the [virtual cameras](../advanced-tools/
 
 ## Opening the panel step by step:
 
-The settings panel can be opened by either clicking on **Windows -> Camera List**
+The settings Camera list panel can be opened by either clicking on **Windows -> Camera List**
 
 ![](../../../.gitbook/assets/iVP_Planning_UserInterface_CameraListPanel_CameraListPanelOpen0.png)
 
