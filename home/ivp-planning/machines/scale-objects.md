@@ -18,6 +18,6 @@ As soon as you are in the scaling mode, the handle in the center of the object w
 
 ## Rotating objects via the properties panel:
 
-It is possible to scale an object via **text input** in the [properties panel](../user-interface/the-properties-panel.md).It allows adjusting object size along the X, Y, and Z axes. A 1:1:1 ratio indicates uniform scaling, with changes reflected in the ratio display.
+It is possible to scale an object via **text input** in the [properties panel](../user-interface/the-properties-panel.md). It allows adjusting object size along the X, Y, and Z axes. A 1:1:1 ratio indicates uniform scaling, with changes reflected in the ratio display.
 
 ![](../../../.gitbook/assets/iVP_Planning_ObjectInteraction_PropertiesScaleObjects.png)
