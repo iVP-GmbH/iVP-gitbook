@@ -10,14 +10,14 @@ How to delete objects (german)
 Currently there is no way to undo a delete action
 {% endhint %}
 
-Delete object via 2D panel:
+## Delete object via 2D-panel:
 
 ![](../../../.gitbook/assets/iVP_Planning_ObjectInteraction_DeleteObjects_2DPanel.png)
 
-Delete object via right click menu:
+## Delete object via right click menu:
 
 ![](../../../.gitbook/assets/iVP_Planning_ObjectInteraction_DeleteObjects_RightClick.png)
 
-Confirm removal of the object:
+## Confirm removal of the object:
 
 ![](../../../.gitbook/assets/iVP_Planning_ObjectInteraction_DeleteObjects_Confirm.png)
