@@ -14,4 +14,4 @@ Currently it is only possible to mirror objects along their horizontal axis. Ver
 
 To mirror an object in the 2D-panel select it and **press one of the two mirror buttons** located in the [2D-panel toolbar](../user-interface/the-2d-panel.md#the-toolbar-of-the-2d-panel). In this way it is possible to mirror an object along two axis. Moreover it is possible to mirror it by **right clicking on the object** and then selecting "Mirror on X axis" or "Mirror on Y axis" from the appearing context menu.
 
-![](../../../.gitbook/assets/iVP\_guide\_mirror\_objects\_2D\_panel\_buttons.jpg)
+![](../../../.gitbook/assets/iVP_Planning_ObjectInteraction_MirrorObjects.png)
