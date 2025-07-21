@@ -2,7 +2,7 @@
 
 It only takes a couple of steps to install and configure the iVP Hub - and from there, it will take only minutes to bring other iVP applications to your machine.
 
-## For a quick start:
+## Quick start:
 
 1. [Install the iVP Hub](launcher-installation.md)
 2. [Create an account](account-management/account-creation.md) or [log in](account-management/login.md) if you already have login credentials
@@ -23,7 +23,6 @@ If you cannot find something in the documentation or have any questions, send an
 After everything is set up and ready to go, we recommend you to have a look at the pages of the individual applications:
 
 * [iVP Planning](../ivp-planning/)
-* [iVP Showroom](../ivp-showroom.md)
-* [iVP Viewer](../ivp-viewer.md)
-* [iVP CGI](../ivp-cgi.md)
+* [iVP Stage](../ivp-stage.md)
+
 
