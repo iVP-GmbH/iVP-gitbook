@@ -10,7 +10,7 @@ How to save or load Projects and import PDFs (german)
 
 The current project can be saved by clicking on **File -> Save**. If the project was never saved before a new window will open that lets you chose a folder and a file name.
 
-![](../../../.gitbook/assets/iVP\_save\_file\_menu\_entry.jpg)
+![](../../../.gitbook/assets/iVP_Planning_GettingStarted_SavingProjects.png)
 
 To save a project that was previously saved always overwrites the old file. If you want to save a copy of the current project without loosing previous versions, click on **File -> Save As**.
 
