@@ -23,4 +23,4 @@ The export process can be started by clicking on **File -> PDF - > Export PDF**.
 * **Append machine list:** if checked a list of all machines and objects in the project will be appended as separate pages to the PDF (this list will also include the specification of [custom machines](../machines/customizable-machines.md))
 * **Open when finished:** if checked the PDF will be opened in the default PDF viewer right after the export process finished
 
-![](../../../.gitbook/assets/iVP\_pdf\_export\_pdf\_options.jpg)
+![](../../../.gitbook/assets/iVP_Planning_GettingStarted_ExportPDFs.png)
