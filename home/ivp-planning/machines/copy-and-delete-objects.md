@@ -18,7 +18,7 @@ The fastest way to copy objects is to press **Ctrl + C** after selecting the obj
 Although it is more precise to work in the 2D-panel for copying, the **Ctrl + C** / **Ctrl + V** method also works in the [3D-panel](../user-interface/the-3d-panel.md).
 {% endhint %}
 
-![](../../../.gitbook/assets/iVP\_guide\_copy\_objects\_2D\_active.jpg)
+![](../../../.gitbook/assets/iVP_Planning_ObjectInteraction_CopyDirection.png)
 
 ## Copy via button or right click:
 
@@ -26,17 +26,17 @@ To start the copying process of selected objects you can either **click on the c
 
 ![](../../../.gitbook/assets/iVP\_guide\_copy\_objects\_2D\_panel\_button.jpg)
 
-![](../../../.gitbook/assets/iVP\_guide\_copy\_objects\_right\_click.jpg)
+![](../../../.gitbook/assets/iVP_Planning_ObjectInteraction_CopyIcon.png)
 
 In both cases four arrows will appear. As soon as you **click one of the arrows** a copy of the selected objects will be created in that direction.&#x20;
 
-![](../../../.gitbook/assets/iVP\_guide\_copy\_objects\_2D\_active.jpg)
+![](../../../.gitbook/assets/iVP_Planning_ObjectInteraction_CopyLeftClickMenu.png)
 
 ## Multi-copy objects in the 2D-panel:
 
 To create a high number of copies in exact intervals it is possible to use the so called multi-copy function. By clicking on the respective **icon in the toolbar** of the [2D-panel](../user-interface/the-2d-panel.md) a window can be opened that lets you set several parameters.
 
-![](../../../.gitbook/assets/iVP\_guide\_copy\_objects\_multi\_copy\_toolbar\_icon.jpg)
+![](../../../.gitbook/assets/iVP_Planning_ObjectInteraction_CopyMultiCopy.png)
 
 The parameters have the following function:
 
@@ -49,4 +49,8 @@ The parameters have the following function:
 It is also possible to enter **negative distance values**. By doing so it is possible to multiply elements in negative x- respective y-direction.
 {% endhint %}
 
-![](../../../.gitbook/assets/iVP\_guide\_copy\_objects\_multi\_copy.jpg)
+![](../../../.gitbook/assets/iVP_Planning_ObjectInteraction_CopyMultiCopyMenu.png)
+
+Finally confirm with the **dublicate button**
+
+![](../../../.gitbook/assets/iVP_Planning_ObjectInteraction_CopyMultiCopyDublicateButton.png)
