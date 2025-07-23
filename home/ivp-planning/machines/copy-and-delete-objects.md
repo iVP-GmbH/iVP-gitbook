@@ -10,7 +10,7 @@ How to copy objects (german)
 If you want to construct fences or barriers we recommend to use the [fence tool](../advanced-tools/fence-tool.md) instead of placing and copying single elements.
 {% endhint %}
 
-## Copy objects via shortcut:
+## Copy via shortcut, button,  or right click:
 
 The fastest way to copy objects is to press **Ctrl + C** after selecting the objects. Four arrows will appear. As soon as you **click one of the arrows** a copy of the selected objects will be created in that direction. Alternatively you can press **Ctrl + V** while your mouse is hovering over the 2D-panel. This will spawn a copy at the current position of the mouse.
 
@@ -18,19 +18,15 @@ The fastest way to copy objects is to press **Ctrl + C** after selecting the obj
 Although it is more precise to work in the 2D-panel for copying, the **Ctrl + C** / **Ctrl + V** method also works in the [3D-panel](../user-interface/the-3d-panel.md).
 {% endhint %}
 
-![](../../../.gitbook/assets/iVP_Planning_ObjectInteraction_CopyDirection.png)
-
-## Copy via button or right click:
-
-To start the copying process of selected objects you can either **click on the copy icon in the toolbar** of the [2D-panel](../user-interface/the-2d-panel.md#the-toolbar-of-the-2d-panel) or **right click on a selected object in the 2D-panel** followed by a click on the "Copy" option.
-
-![](../../../.gitbook/assets/iVP\_guide\_copy\_objects\_2D\_panel\_button.jpg)
+You can either **click on the copy icon in the toolbar** of the [2D-panel](../user-interface/the-2d-panel.md#the-toolbar-of-the-2d-panel) or **right click on a selected object in the 2D-panel** followed by a click on the "Copy" option.
 
 ![](../../../.gitbook/assets/iVP_Planning_ObjectInteraction_CopyIcon.png)
 
-In both cases four arrows will appear. As soon as you **click one of the arrows** a copy of the selected objects will be created in that direction.&#x20;
-
 ![](../../../.gitbook/assets/iVP_Planning_ObjectInteraction_CopyLeftClickMenu.png)
+
+In all cases four arrows will appear. As soon as you **click one of the arrows** a copy of the selected objects will be created in that direction.&#x20;
+
+![](../../../.gitbook/assets/iVP_Planning_ObjectInteraction_CopyDirection.png)
 
 ## Multi-copy objects in the 2D-panel:
 
