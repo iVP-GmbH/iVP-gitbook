@@ -8,7 +8,7 @@ If the issue is severe (project crashes, freezes or similar) it could be that yo
 
 ## Report a bug in iVP Planning:
 
-To report a bug, go to **Help -> Report a Bug** or **click on the warning triangle icon** in the top right corner of the iVP window.
+To report a bug, go to **Help -> Report a Bug** or **click on the speech bubble icon with an exclamation mark** in the top right corner of the iVP window.
 
 ![](../../.gitbook/assets/iVP_Planning_BugReporting.png)
 
