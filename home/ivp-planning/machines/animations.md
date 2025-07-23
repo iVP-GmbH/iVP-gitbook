@@ -6,7 +6,7 @@ Many objects in iVP have animations available that can be turned on for [video p
 
 Animations are a [customization ](customizable-machines.md)that can be turned on and off in the [properties panel](../user-interface/the-properties-panel.md) provided the [selected object](selecting-and-moving-objects.md) has an animation available.
 
-![](../../../.gitbook/assets/iVP\_guide\_canimations.jpg)
+![](../../../.gitbook/assets/iVP_Planning_ObjectInteraction_AnimationPropertiesPanel.png)
 
 ## Toggling animations globally:
 
