@@ -60,9 +60,9 @@ The text menu contains four submenus:
 
 |                                                                                |                                                                          |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
-| ![](../../../.gitbook/assets/iVP_Planning_TopBar_DefaultButton.jpg)                | Opens a small submenu that lets you choose a [window layout](layouts.md) |
-| ![](../../../.gitbook/assets/iVP_Planning_TopBar_Layers.jpg)                       | Opens a submenu where you can show or hide layers.                       |
-| ![](../../../.gitbook/assets/iVP_Planning_TopBar_ErrorReport.jpg)                  | Opens the [bug report panel](../bug-reporting.md)                        |
-| ![](../../../.gitbook/assets/iVP_Planning_TopBar_Dokumentation.jpg)                | Opens the [main page](../../) of this documentation                      |
-| ![](../../../.gitbook/assets/iVP_Planning_TopBar_Information.png)                  | Opens the about dialog, containing the [changelog](/changelog-panel.md) and the [3rd Party Licenses](../open-source-licensing.md)                        |
-| ![](../../../.gitbook/assets/iVP_Planning_TopBar_Konto.jpg)                        | Opens a small submenu where you can log out and see your user profile.|
+| ![](../../../.gitbook/assets/planning_top_bar_layout_presets.png)                | Opens a small submenu that lets you choose a [window layout](layouts.md) |
+| ![](../../../.gitbook/assets/planning_top_bar_layers.png)                       | Opens a submenu where you can show or hide layers.                       |
+| ![](../../../.gitbook/assets/planning_top_bar_report_an_error.png)                  | Opens the [bug report panel](../bug-reporting.md)                        |
+| ![](../../../.gitbook/assets/planning_top_bar_help_faq_documentation.png)                | Opens the [main page](../../) of this documentation                      |
+| ![](../../../.gitbook/assets/planning_top_bar_about_ivp.png)                  | Opens the about dialog, containing the [changelog](/changelog-panel.md) and the [3rd Party Licenses](../open-source-licensing.md)                        |
+| ![](../../../.gitbook/assets/planning_top_bar_user_account.png)                        | Opens a small submenu where you can log out and see your user profile.|
