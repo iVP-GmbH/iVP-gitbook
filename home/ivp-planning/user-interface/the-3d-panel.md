@@ -17,16 +17,16 @@ The toolbar is located at the top of the panel and contains several buttons that
 
 |                                                                                    |                                                                                                                                                                                              |
 | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](../../../.gitbook/assets/iVP_Planning_UserInterface_3DPanel_ToggleCamera.png)                                                                                  | Switches to a camera mode.|
-| ![](../../../.gitbook/assets/iVP_Planning_UserInterface_3DPanel_SelectedView.png)                                                                                  | Allows you to switch between different [virtual cameras](../advanced-tools/virtual-cameras.md)|
-| ![](../../../.gitbook/assets/iVP_Planning_UserInterface_3DPanel_3DMove.png)         | Switches to a mode that makes it possible to [move](../machines/selecting-and-moving-objects.md) the selected object(s) by using the mouse; if the mode is active, the background of the icon becomes dark.|
-| ![](<../../../.gitbook/assets/iVP_Planning_UserInterface_3DPanel_3DRotate.png>)     | Switches to a mode that makes it possible to [rotate](../machines/scale-and-rotate-objects.md#rotate-objects) the selected object(s); if the mode is active, the background of the icon becomes dark.|
-| ![](../../../.gitbook/assets/iVP_Planning_UserInterface_3DPanel_3DScale.png)        | Switches to a mode that makes it possible to [scale](../machines/scale-and-rotate-objects.md#scale-objects) the selected object(s); if the mode is active, the background of the icon becomes dark.|
-| ![](../../../.gitbook/assets/iVP_Planning_UserInterface_3DPanel_GlobalSpace.png)    | ?|
-| ![](../../../.gitbook/assets/iVP_Planning_UserInterface_3DPanel_FOV.png)            | ?|
-| ![](../../../.gitbook/assets/iVP_Planning_UserInterface_3DPanel_ResetCameraView.png)| ?|
-| ![](../../../.gitbook/assets/iVP_Planning_UserInterface_3DPanel_AddCurrentCameraViewPoint.png)| ?|
-| ![](../../../.gitbook/assets/iVP_Planning_UserInterface_3DPanel_UpdateSelectedCamera.png)| ?|
-| ![](../../../.gitbook/assets/iVP_Planning_UserInterface_3DPanel_AspectRatio.png)    | ?|
-| ![](../../../.gitbook/assets/iVP_Planning_UserInterface_3DPanel_CreateScreenshots.png) | Takes a [screenshot](../advanced-tools/creating-screenshots.md) of the 3D-view.|
-| ![](../../../.gitbook/assets/iVP_Planning_UserInterface_3DPanel_Skybox.png)         | ?|
+| ![](../../../.gitbook/assets/planning_3d_panel_toggle_camera_mode.png)                                                                                  | Switches to a camera mode.|
+| ![](../../../.gitbook/assets/planning_3d_panel_selected_view.png)                                                                                  | Allows you to switch between different [virtual cameras](../advanced-tools/virtual-cameras.md)|
+| ![](../../../.gitbook/assets/planning_3d_panel_3d_move.png)         | Switches to a mode that makes it possible to [move](../machines/selecting-and-moving-objects.md) the selected object(s) by using the mouse; if the mode is active, the background of the icon becomes dark.|
+| ![](<../../../.gitbook/assets/planning_3d_panel_3d_rotate.png>)     | Switches to a mode that makes it possible to [rotate](../machines/scale-and-rotate-objects.md#rotate-objects) the selected object(s); if the mode is active, the background of the icon becomes dark.|
+| ![](../../../.gitbook/assets/planning_3d_panel_3d_scale.png)        | Switches to a mode that makes it possible to [scale](../machines/scale-and-rotate-objects.md#scale-objects) the selected object(s); if the mode is active, the background of the icon becomes dark.|
+| ![](../../../.gitbook/assets/planning_3d_panel_global_space.png)    | ?|
+| ![](../../../.gitbook/assets/planning_3d_panel_fov.png)            | ?|
+| ![](../../../.gitbook/assets/planning_3d_panel_reset_the_camera_view.png)| ?|
+| ![](../../../.gitbook/assets/planning_3d_panel_add_current_camera_viewpoint.png)| ?|
+| ![](../../../.gitbook/assets/planning_3d_panel_update_selected_camera.png)| ?|
+| ![](../../../.gitbook/assets/planning_2d_panel_aspect_ratio.png)    | ?|
+| ![](../../../.gitbook/assets/planning_2d_panel_create_screenshot.png) | Takes a [screenshot](../advanced-tools/creating-screenshots.md) of the 3D-view.|
+| ![](../../../.gitbook/assets/planning_3d_panel_skybox.png)         | ?|
