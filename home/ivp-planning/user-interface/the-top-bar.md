@@ -60,9 +60,9 @@ The text menu contains four submenus:
 
 |      |     |
 | ---- | --- |
-| <img src="../../../.gitbook/assets/planning_top_bar_layout_presets.png" alt="Layout Presets" style="max-width: 50px;" /> | Opens a small submenu that lets you choose a [window layout](layouts.md) |
+| ![Layout Presets](../../../.gitbook/assets/planning_top_bar_layout_presets.png) | Opens a small submenu that lets you choose a [window layout](layouts.md). |
 | ![Layers](../../../.gitbook/assets/planning_top_bar_layers.png) | Opens a submenu where you can show or hide layers. |
-| ![Report an Error](../../../.gitbook/assets/planning_top_bar_report_an_error.png) | Opens the [bug report panel](../bug-reporting.md) |
-| ![Help, FAQ and Documentation](../../../.gitbook/assets/planning_top_bar_help_faq_documentation.png) | Opens the [main page](../../) of this documentation |
-| ![About iVP](../../../.gitbook/assets/planning_top_bar_about_ivp.png) | Opens the about dialog, containing the [changelog](/changelog-panel.md) and the [3rd Party Licenses](../open-source-licensing.md) |
+| ![Report an Error](../../../.gitbook/assets/planning_top_bar_report_an_error.png) | Opens the [bug report panel](../bug-reporting.md). |
+| ![Help, FAQ and Documentation](../../../.gitbook/assets/planning_top_bar_help_faq_documentation.png) | Opens the [main page](../../) of this documentation. |
+| ![About iVP](../../../.gitbook/assets/planning_top_bar_about_ivp.png) | Opens the about dialog, containing the [changelog](/changelog-panel.md) and the [3rd Party Licenses](../open-source-licensing.md). |
 | ![User Account](../../../.gitbook/assets/planning_top_bar_user_account.png) | Opens a small submenu where you can log out and see your user profile. |
