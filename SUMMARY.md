@@ -78,7 +78,7 @@
       * [Creating Screenshots](home/ivp-planning/advanced-tools/creating-screenshots.md)
       * [Video Export](home/ivp-planning/advanced-tools/video-export-tool.md)
       * [Virtual Cameras](home/ivp-planning/advanced-tools/virtual-cameras.md)
-      * [DXF Import](home/ivp-planning/advanced-tools/dxf-tool.md)
+      * [DXF Tool](home/ivp-planning/advanced-tools/dxf-tool.md)
       * [Path Tool](home/ivp-planning/advanced-tools/path-tool.md)
       * [Fence Tool](home/ivp-planning/advanced-tools/fence-tool.md)
       * [Room Tool](home/ivp-planning/advanced-tools/the-room-tool.md)
