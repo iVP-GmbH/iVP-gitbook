@@ -10,11 +10,11 @@ The name of an object is global - when it is changed in the [hierarchy panel](..
 
 To edit the name of an object or folder [select](../machines/selecting-and-moving-objects.md) it and press the **F2** key on your keyboard. The current name in the [hierarchy panel](../user-interface/hierarchy-panel.md) will show a white background which indicates that it can be changed. Type in the new name and press **Enter**.
 
-![](../../../.gitbook/assets/hierarchy_rename_active.jpg)
+![](../../../.gitbook/assets/iVP_Planning_ObjectInteraction_RenameObjectsHierarchy1.png)
 
-Alternatively it is possible to **right click on the selected object or folder** in the [hierarchy panel](../user-interface/hierarchy-panel.md) and then selecting **"Rename"** from the appearing context menu.
+Alternatively it is possible to **right click on the selected object or folder** in the [hierarchy panel](../user-interface/hierarchy-panel.md) and then selecting **"Rename"** from the appearing context menu, or simply **double-click the object or folder** to rename it directly.
 
-![](../../../.gitbook/assets/hierarchy_context_rename.jpg)
+![](../../../.gitbook/assets/iVP_Planning_ObjectInteraction_RenameObjectsHierarchy0.png)
 
 ## Rename objects in the properties panel:
 
