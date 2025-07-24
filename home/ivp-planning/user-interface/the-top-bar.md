@@ -60,21 +60,9 @@ The text menu contains four submenus:
 
 |     |     |
 | --- | --- |
-| ![Layout Presets](../../../.gitbook/assets/planning_top_bar_layout_presets.png) | 
-Layout Presets
-: Opens a small submenu that lets you choose a [window layout](layouts.md). |
-| ![Layers](../../../.gitbook/assets/planning_top_bar_layers.png) | 
-Layers
-: Opens a submenu where you can show or hide layers. |
-| ![Report an Error](../../../.gitbook/assets/planning_top_bar_report_an_error.png) | 
-Report an Error
-: Opens the [bug report panel](../bug-reporting.md). |
-| ![Help, FAQ and Documentation](../../../.gitbook/assets/planning_top_bar_help_faq_documentation.png) | 
-Help, FAQ and Documentation
-: Opens the [main page](../../) of this documentation. |
-| ![About iVP](../../../.gitbook/assets/planning_top_bar_about_ivp.png) | 
-About iVP
-: Opens the about dialog, containing the [changelog](/changelog-panel.md) and the [3rd Party Licenses](../open-source-licensing.md). |
-| ![User Account](../../../.gitbook/assets/planning_top_bar_user_account.png) | 
-User Account
-: Opens a small submenu where you can log out and see your user profile. |
+| ![Layout Presets](../../../.gitbook/assets/planning_top_bar_layout_presets.png) | __Layout Presets__  Opens a small submenu that lets you choose a [window layout](layouts.md). |
+| ![Layers](../../../.gitbook/assets/planning_top_bar_layers.png) | __Layers__  Opens a submenu where you can show or hide layers. |
+| ![Report an Error](../../../.gitbook/assets/planning_top_bar_report_an_error.png) | __Report an Error__  Opens the [bug report panel](../bug-reporting.md). |
+| ![Help, FAQ and Documentation](../../../.gitbook/assets/planning_top_bar_help_faq_documentation.png) | __Help, FAQ and Documentation__  Opens the [main page](../../) of this documentation. |
+| ![About iVP](../../../.gitbook/assets/planning_top_bar_about_ivp.png) | __About iVP__  Opens the about dialog, containing the [changelog](/changelog-panel.md) and the [3rd Party Licenses](../open-source-licensing.md). |
+| ![User Account](../../../.gitbook/assets/planning_top_bar_user_account.png) | __User Account__  Opens a small submenu where you can log out and see your user profile. |
