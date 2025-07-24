@@ -8,8 +8,8 @@ The 2D-Panel acts as planning area where you can [place](../machines/first-steps
 
 The toolbar is located at the top of the panel and contains several buttons that give you quick access to 2D-specific functions and settings.
 
-|     |     |
-| --- | --- |
+|      |     |
+| ---: | --- |
 | ![Regular Mode](../../../.gitbook/assets/planning_2d_panel_regular_mode.png) | Switches to a mode that lets you drag and drop machines and objects; if the mouse mode is active, the icon will appear blue. |
 | ![Path Mode](../../../.gitbook/assets/planning_2d_panel_path_mode.png) | Switches to the [path tool mode](../advanced-tools/path-tool.md) which allows you to draw [measurements](../advanced-tools/path-tool.md#measurements), [fences](../advanced-tools/fence-tool.md) and [rooms](../advanced-tools/the-room-tool.md); if the path tool mode is active, the icon will appear blue. |
 | ![Place New Markup](../../../.gitbook/assets/planning_2d_panel_place_new_markup.png) | Switches to the [markup tool mode](../machines/copy-and-delete-objects.md#copy-objects) which allows you to place markups to annotate issues or highlight. |

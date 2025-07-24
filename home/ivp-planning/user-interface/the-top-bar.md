@@ -59,7 +59,7 @@ The text menu contains four submenus:
 ## Icons:
 
 |      |     |
-| ---- | --- |
+| ---: | --- |
 | ![Layout Presets](../../../.gitbook/assets/planning_top_bar_layout_presets.png) | Opens a small submenu that lets you choose a [window layout](layouts.md). |
 | ![Layers](../../../.gitbook/assets/planning_top_bar_layers.png) | Opens a submenu where you can show or hide layers. |
 | ![Report an Error](../../../.gitbook/assets/planning_top_bar_report_an_error.png) | Opens the [bug report panel](../bug-reporting.md). |
