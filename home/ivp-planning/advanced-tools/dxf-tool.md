@@ -12,29 +12,34 @@ How to import and export DXF files
 
 ## Importing a DXF File:
 
-To import a DXF click **File -> DXF -> Import DXF**. 
+To import a DXF click **File -> Import**. 
 
-![](../../../.gitbook/assets/DXF\_Import\_open.jpg)
+![](../../../.gitbook/assets/iVP_Planning_ObjectInteraction_DXFToolImport0.png)
 
 A new window will open that allows to navigate to the folder containing the DXF file to be imported. To open the file, simply double click it **or** select it and click Open.
 
-![](../../../.gitbook/assets/DXF\_Import\_file.jpg)
+![](../../../.gitbook/assets/iVP_Planning_ObjectInteraction_DXFToolImport1.png)
 
 Before iVP Planning imports a DXF file, a prompt will ask to set some parameters that specify how the DXF file will be imported. 
 
-![](../../../.gitbook/assets/DXF\_Import\_settings.jpg)
+![](../../../.gitbook/assets/iVP_Planning_ObjectInteraction_DXFToolImport2.png)
 
 * _**File path:**_ this line represents the location of the to be imported file, change it by clicking the three dots
-* _**As references:**_ this toggle defines whether or not you reference the dxf file. If checked, you will need to keep the dxf file accessible. (changing the name or location of that file will break the reference!) 
 * _**Line width:**_ this value represents the width of each line (in mm)
 * _**Scale:**_ this value represents the scale **of the DXF to import**, e.g. 1:1 or 16:1
 * _**Unit:**_ this value represents the measurement unit **of the DXF to import**, e.g. mm, cm, inch...
+* _**Name:**_ the **name** of the dxf file in the project
+* _**Add to library:**_ This toggle determines whether the DXF file is **included in the library** or not.
 
 ![](../../../.gitbook/assets/DXF\_Import\_comparison.jpg)
 
 {% hint style="info" %}
 Note that the **scale** and the **measurement unit** for imported files refer to the scale/unit the DXF file was planned in and not the scale you want to use in your iVP Planning project. If changed in comparison to the origin; the size of the import might be incorrect.
 {% endhint %}
+
+Example of a valid import:
+
+![](../../../.gitbook/assets/iVP_Planning_ObjectInteraction_DXFToolImport3.png)
 
 ## Exporting a DXF File:
 
