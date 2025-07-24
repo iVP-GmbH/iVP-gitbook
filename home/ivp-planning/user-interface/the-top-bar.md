@@ -60,7 +60,7 @@ The text menu contains four submenus:
 
 |      |     |
 | ---- | --- |
-| ![<img src="../../../.gitbook/assets/planning_top_bar_layout_presets.png" alt="Layout Presets" style="max-width: 100px;" />] | Opens a small submenu that lets you choose a [window layout](layouts.md) |
+| <img src="../../../.gitbook/assets/planning_top_bar_layout_presets.png" alt="Layout Presets" style="max-width: 50px;" /> | Opens a small submenu that lets you choose a [window layout](layouts.md) |
 | ![Layers](../../../.gitbook/assets/planning_top_bar_layers.png) | Opens a submenu where you can show or hide layers. |
 | ![Report an Error](../../../.gitbook/assets/planning_top_bar_report_an_error.png) | Opens the [bug report panel](../bug-reporting.md) |
 | ![Help, FAQ and Documentation](../../../.gitbook/assets/planning_top_bar_help_faq_documentation.png) | Opens the [main page](../../) of this documentation |
