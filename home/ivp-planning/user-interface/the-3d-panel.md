@@ -15,8 +15,8 @@ The 3D-Panel acts as a visualization area where you can work in a three dimensio
 
 The toolbar is located at the top of the panel and contains several buttons that give you quick access to 3D-specific functions and settings.
 
-|      |     |
-| ---: | --- |
+|      |      |
+| :--- | :--- |
 | ![Toggle Camera Mode](../../../.gitbook/assets/planning_3d_panel_toggle_camera_mode.png) | Switches to a camera mode. |
 | ![Selected View](../../../.gitbook/assets/planning_3d_panel_selected_view.png) | Allows you to switch between different [virtual cameras](../advanced-tools/virtual-cameras.md). |
 | ![3D Move](../../../.gitbook/assets/planning_3d_panel_3d_move.png) | Switches to a mode that makes it possible to [move](../machines/selecting-and-moving-objects.md) the selected object(s) by using the mouse; if the mode is active, the background of the icon becomes dark. |
