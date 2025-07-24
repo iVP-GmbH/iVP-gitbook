@@ -40,15 +40,15 @@ Note that the **scale** and the **measurement unit** for imported files refer to
 
 To export objects from iVP Planning, first select the ojects you want to export.
 
-![](../../../.gitbook/assets/DXF\_Export\_selection.jpg)
+![](../../../.gitbook/assets/iVP_Planning_ObjectInteraction_DXFToolExport0.png)
 
-Then click **File -> DXF -> Export Selection**.
+Then click **File -> Export -> Selection as DXF**.
 
-![](../../../.gitbook/assets/DXF\_Export\_open.jpg)
+![](../../../.gitbook/assets/iVP_Planning_ObjectInteraction_DXFToolExport1.png)
 
 A new window will open that allows to choose a location for the exported file.
 
-![](../../../.gitbook/assets/DXF\_Export\_file.jpg)
+![](../../../.gitbook/assets/iVP_Planning_ObjectInteraction_DXFToolExport2.png)
 
 Before iVP Planning exports a DXF file, a prompt will ask to set some parameters that specify how the DXF file will be exported. 
 
