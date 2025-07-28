@@ -1,6 +1,6 @@
 # Text objects settings
 
-![](../../../.gitbook/assets/planning\_settings\_text\_objetcts.png)
+![](../../../.gitbook/assets/planning_settings_text_objects.png)
 
 The Text Objects settings allow you to change the basic properties and behaviour of Text Objects. You can open it via the [settings panel](../user-interface/settings-panel.md).
 

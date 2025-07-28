@@ -6,7 +6,7 @@ The Input settings allows you to change many of the [keyboard shortcuts](../keyb
 
 ## Changing shortcuts
 
-![](../../../.gitbook/assets/iVP\_settings\_input\_manager\_entries.jpg)
+![](../../../.gitbook/assets/iVP_settings_input_manager_entries.jpg)
 
 To change a shortcut simply click on the gray button on the right side of the respective entry, followed by pressing the key you want to use as new shortcut.
 
