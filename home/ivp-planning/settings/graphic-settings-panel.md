@@ -4,7 +4,7 @@
 
 The graphic settings offer several options to adjust the graphic quality and various visual aspects. They can be adjusted by using the [settings panel](../user-interface/settings-panel.md).
 
-## The options explained
+## Settings
 
 **General Quality**   
 The overall graphical quality based on three presets: _Low_, _Medium_ and _High_.

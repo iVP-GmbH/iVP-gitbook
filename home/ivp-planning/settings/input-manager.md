@@ -1,8 +1,8 @@
-# Input Manager
+# Input
 
 ![](../../../.gitbook/assets/iVP\_settings\_input\_manager.jpg)
 
-The input manager makes allows you to change many of the [keyboard shortcuts](../keyboard-shortcuts.md) used in iVP Planning. You can open it via the [settings panel](../user-interface/settings-panel.md).
+The Input settings allows you to change many of the [keyboard shortcuts](../keyboard-shortcuts.md) used in iVP Planning. You can open it via the [settings panel](../user-interface/settings-panel.md).
 
 ## Changing shortcuts
 
