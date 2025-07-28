@@ -20,8 +20,8 @@ __Foreign Tag Language Threshold__ lets you define a minimum amount of search re
 
 ### Asset Databases
 
-You can also find a list of all externally accessible asset databases you have access to showing you their __Name__, __Access Rights__ and two toggles for __Load__ and __Delete__.
+You can also find a list of all externally accessible asset databases showing you their __Name__, __Access Rights__ and two toggles for __Load__ and __Delete__.
 
-__Load__ toogles the initial loading of the assets during opening the software.
+__Load__ toggles the initial loading of the assets during opening the software.
 
 __Delete__ removes the local copy of the assets from your system.
