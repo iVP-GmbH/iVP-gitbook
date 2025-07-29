@@ -9,7 +9,7 @@ Overview for the interface (german)
 ## **Main interface:**
 
 * [Top bar](the-top-bar.md)
-* [2D-panel](the-2d-panel.md)
+* [2D View](the-2d-view.md)
 * [3D View](the-3d-view.md)
 * [Hierarchy panel](hierarchy-panel.md)
 * [Library panel](library-panel.md)

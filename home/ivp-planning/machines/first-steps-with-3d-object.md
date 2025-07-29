@@ -24,7 +24,7 @@ If you selected the wrong object, you can change your selection by clicking on t
 
 ![](../../../.gitbook/assets/iVP_Planning_ObjectInteraction_AddNewObjects2.png)
 
-The last step is to simply click anywhere in the [2D-panel](../user-interface/the-2d-panel.md) or the [3D View](../user-interface/the-3d-view.md). The previously selected machine will now appear in the scene at the spot you clicked and the preview window will close automatically.
+The last step is to simply click anywhere in the [2D View](../user-interface/the-2d-view.md) or the [3D View](../user-interface/the-3d-view.md). The previously selected machine will now appear in the scene at the spot you clicked and the preview window will close automatically.
 
 ![](../../../.gitbook/assets/iVP_Planning_ObjectInteraction_AddNewObjects3.png)
 

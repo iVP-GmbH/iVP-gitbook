@@ -23,7 +23,7 @@ The shape of a room can be changed by [editing the path](path-tool.md#path-selec
 
 ## Doors and pass-troughs:
 
-It is possible to add doors or pass-troughs to rooms which will automatically be adapted when the room changes. To add one, right **click on a path point** of a selected path in the [2D-panel](../user-interface/the-2d-panel.md) and choose **"Door"** or **"Pass-through"** from the appearing menu.
+It is possible to add doors or pass-troughs to rooms which will automatically be adapted when the room changes. To add one, right **click on a path point** of a selected path in the [2D View](../user-interface/the-2d-view.md) and choose **"Door"** or **"Pass-through"** from the appearing menu.
 
 ![](../../../.gitbook/assets/iVP\_fence\_tool\_fence\_right\_click\_point\_options.jpg)
 

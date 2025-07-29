@@ -6,9 +6,9 @@ In iVP, objects always have a position in the three dimensional space. This posi
 How to select and move objects (german)
 {% endembed %}
 
-## Moving objects in the 2D-panel:
+## Moving objects in the 2D View:
 
-In the [2D-panel](../user-interface/the-2d-panel.md), objects can be moved by using the handle that appears as soon as an object is selected. To move the object unrestricted by **dragging the circle** in the middle of the handle. To move the object along a specific axis **drag the arrow** of the respective direction.
+In the [2D View](../user-interface/the-2d-view.md), objects can be moved by using the handle that appears as soon as an object is selected. To move the object unrestricted by **dragging the circle** in the middle of the handle. To move the object along a specific axis **drag the arrow** of the respective direction.
 
 ![](../../../.gitbook/assets/iVP_Planning_ObjectInteraction_2DMoveObjects.png)
 

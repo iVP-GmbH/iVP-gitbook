@@ -27,7 +27,7 @@ _2024-01-18_
 
 ### Fixed
 
-* When viewing paths perspective mode from the top view of the 3D panel, their lines are no longer sometimes missing parts
+* When viewing paths perspective mode from the top view of the 3D View, their lines are no longer sometimes missing parts
 * When duplicating markups, their messages now get duplicated aswell
 
 ## Version 2401.0.1

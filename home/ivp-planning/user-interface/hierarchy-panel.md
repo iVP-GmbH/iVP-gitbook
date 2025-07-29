@@ -20,7 +20,7 @@ Every object that is added to a project will get an associated entry in the hier
 
 ## Folders
 
-Folders can be used to optimize the structure of your project by grouping the objects you placed inside. They will be treated as a single parent object that can be colorized, locked or hidden as well. Locking and Hiding them will also affect all children objects inside - in the [2D View](../user-interface/the-2d-panel.md) and in the [3D View](../user-interface/the-3d-view.md).
+Folders can be used to optimize the structure of your project by grouping the objects you placed inside. They will be treated as a single parent object that can be colorized, locked or hidden as well. Locking and Hiding them will also affect all children objects inside - in the [2D View](../user-interface/the-2d-view.md) and in the [3D View](../user-interface/the-3d-view.md).
 
 {% hint style="info" %}
 Folders can only be accessed in the hierarchy panel.
@@ -46,18 +46,18 @@ Objects can be [moved](../machines/select-objects.md#selecting-objects-via-the-h
 
 ## Lock/Unlock objects
 
-To prevent objects from being [selected](../machines/select-objects.md#selecting-objects-in-the-2d--and-3D View) and [moved](../machines/move-objects.md) in the [2D View](the-2d-panel.md) and [3D View](the-3d-view.md) press the ![Hierarchy Lock](../../../.gitbook/assets/planning_hierarchy_panel_lock_unlock_machine_small.png) **Lock/Unlock Machine** button.
+To prevent objects from being [selected](../machines/select-objects.md#selecting-objects-in-the-2d--and-3D View) and [moved](../machines/move-objects.md) in the [2D View](the-2d-view.md) and [3D View](the-3d-view.md) press the ![Hierarchy Lock](../../../.gitbook/assets/planning_hierarchy_panel_lock_unlock_machine_small.png) **Lock/Unlock Machine** button.
 
 ## Hide/unhide objects
 
 To hide or show one or more objects [select](../machines/select-objects.md#selecting-objects-via-the-hierarchy) them and press the ![Hierarchy Visibility](../../../.gitbook/assets/planning_hierarchy_panel_hide_unhide_machine_small.png) **Hide/Unhide Machine** button.
 
-A hidden object will not be shown in the [2D View](the-2d-panel.md) and [3D View](the-3d-view.md). It will still be shown in the Hierarchy Panel with a darker grey color and the ![Hierarchy Hidden Object](../../../.gitbook/assets/planning_hierarchy_panel_hidden_object_small.png) icon. You can still edit it in the [Properties Panel](./the-properties-panel.md).
+A hidden object will not be shown in the [2D View](the-2d-view.md) and [3D View](the-3d-view.md). It will still be shown in the Hierarchy Panel with a darker grey color and the ![Hierarchy Hidden Object](../../../.gitbook/assets/planning_hierarchy_panel_hidden_object_small.png) icon. You can still edit it in the [Properties Panel](./the-properties-panel.md).
 
 ![Hierarchy Hidden Object](../../../.gitbook/assets/planning_hierarchy_hidden_object.png)
 
 {% hint style="warning" %}
-You can __not__ [__move__](../machines/move-objects.md) or [__rotate__](../machines/rotate-objects.md) a hidden object in the [2D View](the-2d-panel.md) and [3D View](the-3d-view.md).
+You can __not__ [__move__](../machines/move-objects.md) or [__rotate__](../machines/rotate-objects.md) a hidden object in the [2D View](the-2d-view.md) and [3D View](the-3d-view.md).
 {% endhint %}
 
 ## Context Menu

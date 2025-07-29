@@ -1,6 +1,6 @@
 # Grid
 
-The grid is an overlay in the [2D-panel](the-2d-panel.md) that makes it easier to estimate distances, e.g. when placing objects.
+The grid is an overlay in the [2D View](the-2d-view.md) that makes it easier to estimate distances, e.g. when placing objects.
 
 ![](../../../.gitbook/assets/iVP_Planning_UserInterface_Grid1.png)
 

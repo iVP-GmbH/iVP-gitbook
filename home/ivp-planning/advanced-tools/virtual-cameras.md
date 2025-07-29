@@ -29,7 +29,7 @@ Alternatively, it is also possible to create a new virtual camera that will posi
 Virtual cameras behave like regular objects when it comes to [position ](../machines/move-objects.md)and [rotation](../machines/rotate-objects.md). As other objects, they appear in the 2D- and 3D View and can be [moved around](../machines/move-objects.md) or [rotated](../machines/rotate-objects.md) in the same way.
 
 {% hint style="info" %}
-It is also possible to [move](../machines/move-objects.md) or [rotate](../machines/rotate-objects.md) several cameras at once. To do so, simply [select](../machines/select-objects.md) multiple cameras before you make changes in the [2D-](../user-interface/the-2d-panel.md)or [3D View](../user-interface/the-3d-view.md).
+It is also possible to [move](../machines/move-objects.md) or [rotate](../machines/rotate-objects.md) several cameras at once. To do so, simply [select](../machines/select-objects.md) multiple cameras before you make changes in the [2D-](../user-interface/the-2d-view.md)or [3D View](../user-interface/the-3d-view.md).
 {% endhint %}
 
 ![](../../../.gitbook/assets/iVP\_virtual\_cameras\_objects.jpg)

@@ -1,6 +1,6 @@
 # Creating Screenshots
   
-It is possible to save the current content of the 3D- or 2D-Panel as a screenshot. To do so, first click the screenshot button in either panel.
+It is possible to save the current content of the 3D- or 2D View as a screenshot. To do so, first click the screenshot button in either panel.
 A new window will open, in which you will be prompted to pick a location for your screenshot.
 
 ![](../../../.gitbook/assets/screenshot-creation.png)  
@@ -29,7 +29,7 @@ A screenshot with a transparent background will have a clear cut of your chosen 
 
 ## Marker- and Eraser-Tools
 
-Before saving your sreenshot, you also have the option to use the annotation tool to highlight any given object inside the 3D- or 2D-Panel. To do so, click on the "Annotate" button highlighted below.   
+Before saving your sreenshot, you also have the option to use the annotation tool to highlight any given object inside the 3D- or 2D View. To do so, click on the "Annotate" button highlighted below.   
 To erase any unwanted markings, you can use either the Eraser- or Clear-Tools.
 
 ![](../../../.gitbook/assets/screenshot-marker-eraser-tool.png)

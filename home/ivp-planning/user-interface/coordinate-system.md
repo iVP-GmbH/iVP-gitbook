@@ -1,6 +1,6 @@
 # Coordinate System
 
-The three dimensional coordinate system in iVP is the foundation of all object [positions](../machines/move-objects.md). Originating from an adjustable reference / zero point, it describes where all objects in a project are located. In the 2D-panel, the reference point is represented by a white cross hair.
+The three dimensional coordinate system in iVP is the foundation of all object [positions](../machines/move-objects.md). Originating from an adjustable reference / zero point, it describes where all objects in a project are located. In the 2D View, the reference point is represented by a white cross hair.
 
 {% hint style="info" %}
 The reference point is also the origin of the [grid](the-grid.md).
@@ -14,7 +14,7 @@ The reference point is also the origin of the [grid](the-grid.md).
 
 ## Adjusting the reference point:
 
-The reference point can be changed through a menu which can be opened by clicking on the corresponding icon in the [toolbar of the 2D-panel](the-2d-panel.md#the-toolbar-of-the-2d-panel).
+The reference point can be changed through a menu which can be opened by clicking on the corresponding icon in the [toolbar of the 2D View](the-2d-view.md#the-toolbar-of-the-2D View).
 
 ![](../../../.gitbook/assets/iVP_Planning_UserInterface_CoordinateSystem2.png)
 
@@ -35,7 +35,7 @@ The visibility of the reference point can be toggled by either clicking on **Vie
 
 ![](../../../.gitbook/assets/iVP_Planning_UserInterface_CoordinateSystem5.png)
 
-Alternatively, the visibility of the reference point can also be toggled via the menu that can be opened via the click on an icon in the [2D-panel toolbar](the-2d-panel.md#the-toolbar-of-the-2d-panel).
+Alternatively, the visibility of the reference point can also be toggled via the menu that can be opened via the click on an icon in the [2D View toolbar](the-2d-view.md#the-toolbar-of-the-2D View).
 
 ![](../../../.gitbook/assets/iVP_Planning_UserInterface_CoordinateSystem6.png)
 
@@ -45,10 +45,10 @@ In the menu, the corresponding button can be found at the bottom.
 
 ## Mouse coordinates:
 
-The current x/y-position of the mouse pointer is displayed at the edge of the 2D-panel.
+The current x/y-position of the mouse pointer is displayed at the edge of the 2D View.
 
 ![](../../../.gitbook/assets/iVP_Planning_UserInterface_CoordinateSystem8.png)
 
-The mouse coordinates can be toggled by clicking on the "Mouse Coordinates" icon in the [2D-panel toolbar](the-2d-panel.md#the-toolbar-of-the-2d-panel).
+The mouse coordinates can be toggled by clicking on the "Mouse Coordinates" icon in the [2D View toolbar](the-2d-view.md#the-toolbar-of-the-2D View).
 
 ![](../../../.gitbook/assets/iVP_Planning_UserInterface_CoordinateSystem9.png)

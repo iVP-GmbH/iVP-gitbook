@@ -44,7 +44,7 @@
       * [PDF Visibility](home/ivp-planning/getting-started/pdf-visibility.md)
     * [User Interface](home/ivp-planning/user-interface/README.md)
       * [Top Bar](home/ivp-planning/user-interface/the-top-bar.md)
-      * [2D View](home/ivp-planning/user-interface/the-2d-panel.md)
+      * [2D View](home/ivp-planning/user-interface/the-2d-view.md)
       * [3D View](home/ivp-planning/user-interface/the-3d-view.md)
       * [Hierarchy Panel](home/ivp-planning/user-interface/hierarchy-panel.md)
       * [Library Panel](home/ivp-planning/user-interface/library-panel.md)

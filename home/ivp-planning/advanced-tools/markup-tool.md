@@ -10,7 +10,7 @@ How to use the markup tool
 
 ## Placement:
 
-The markup tool can be activated by clicking the markup icon in the [2D-panel toolbar](../user-interface/the-2d-panel.md#the-toolbar-of-the-2d-panel).
+The markup tool can be activated by clicking the markup icon in the [2D View toolbar](../user-interface/the-2d-view.md#the-toolbar-of-the-2D View).
 
 ![](../../../.gitbook/assets/markup\_icon.jpg)
 
@@ -18,7 +18,7 @@ As soon as the tool is active, a small markup icon will follow the mouse cursor 
 
 ![](../../../.gitbook/assets/markup\_cursor.jpg)
 
-To create a markup, **left click on a position** in the [2D-panel](../user-interface/the-2d-panel.md) or [3D View](../user-interface/the-3d-view.md). A blue markup (a pin resembling a map location marker) will appear that marks the spot where you clicked and functions as an interactable highlight point.
+To create a markup, **left click on a position** in the [2D View](../user-interface/the-2d-view.md) or [3D View](../user-interface/the-3d-view.md). A blue markup (a pin resembling a map location marker) will appear that marks the spot where you clicked and functions as an interactable highlight point.
 
 ![](../../../.gitbook/assets/markup\_placement.jpg)
 
@@ -34,7 +34,7 @@ After placing a markup, the [properties panel](../user-interface/the-info-panel.
 
 * Default: the general information of a markup regarding
     * _**Name:**_ the name of the object which [can be changed](../machines/renaming-objects-and-folders.md) at any time
-    * _**ID:**_ the unique ID of the object which is generated when the markup is [placed](../machines/first-steps-with-3d-object.md) in the [2D-](../user-interface/the-2d-panel.md) or [3D View](../user-interface/the-3d-view.md); the ID is unchangeable 
+    * _**ID:**_ the unique ID of the object which is generated when the markup is [placed](../machines/first-steps-with-3d-object.md) in the [2D-](../user-interface/the-2d-view.md) or [3D View](../user-interface/the-3d-view.md); the ID is unchangeable 
     * _**Author:**_ the author of the markup, per default "Planner"; this information is unchangeable and independent from the object name
     * _**Created:**_ exact time and date when the markup was created; this information is unchangeable
 * Transform: the panel containing information of the markup regarding

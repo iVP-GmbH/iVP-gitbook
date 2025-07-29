@@ -10,13 +10,13 @@ How to rotate objects (german)
 Currently it is only possible to rotate objects around a vertical axis. A free rotation is currently in development.
 {% endhint %}
 
-## Rotating objects in the 2D-panel:
+## Rotating objects in the 2D View:
 
-To rotate an object in the [2D-panel](../user-interface/the-2d-panel.md) **drag and drop the arrows** near the corners of the object.
+To rotate an object in the [2D View](../user-interface/the-2d-view.md) **drag and drop the arrows** near the corners of the object.
 
 ![](../../../.gitbook/assets/iVP_Planning_ObjectInteraction_2DMoveObjects0.png)
 
-If you are using a tablet or a laptop or if you want a quick standard rotation, you can also use the **rotation buttons** in the [toolbar of the 2D-panel](../user-interface/the-2d-panel.md#the-toolbar-of-the-2d-panel). The rotation amount per click can be changed in the [global settings](../settings/global-settings.md).
+If you are using a tablet or a laptop or if you want a quick standard rotation, you can also use the **rotation buttons** in the [toolbar of the 2D View](../user-interface/the-2d-view.md#the-toolbar-of-the-2D View). The rotation amount per click can be changed in the [global settings](../settings/global-settings.md).
 
 ![](../../../.gitbook/assets/iVP_Planning_ObjectInteraction_2DMoveObjects1.png)
 

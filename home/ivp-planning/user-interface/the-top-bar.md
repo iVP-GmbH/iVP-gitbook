@@ -29,11 +29,11 @@ The text menu contains four submenus:
 
 *   View:
 
-    * _**Grid:**_ toggles the [grid ](the-grid.md)that is visible as floor play overlay in the [2D-Panel](the-2d-panel.md)
-    * _**Coordinate System:**_ toggles the [coordinate system](the-grid.md) that acts as orientation in the [2D-Panel](the-2d-panel.md)
+    * _**Grid:**_ toggles the [grid ](the-grid.md)that is visible as floor play overlay in the [2D View](the-2d-view.md)
+    * _**Coordinate System:**_ toggles the [coordinate system](the-grid.md) that acts as orientation in the [2D View](the-2d-view.md)
     * _**Animations:**_ toggles all animations globally without overwriting the animation values set for [customizable machines](../machines/customizable-machines.md)
     * _**PDF Floor Plan:**_ toggles the visibility of the [PDF](../getting-started/importing-pdfs.md) that acts as an overlay for the [floor plan](the-floor-plan.md)
-    * _**Overhead View:**_ toggles between a "snapshot" view and a live view in the [2D-Panel](the-2d-panel.md)
+    * _**Overhead View:**_ toggles between a "snapshot" view and a live view in the [2D View](the-2d-view.md)
     * _**Walls:**_ toggles the visibility of walls in the [3D-View](the-3d-view.md)
     * _**Ceiling:**_ toggles the visibility of the ceiling in the [3D-View](the-3d-view.md)
 

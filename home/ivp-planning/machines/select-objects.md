@@ -8,10 +8,10 @@ How to select and move objects (german)
 
 ## Selecting Objects in the 2D- and 3D View:
 
-To select an object in the [2D-](../user-interface/the-2d-panel.md) or [3D View](../user-interface/the-3d-view.md) it is sufficient to **click on it**.  
+To select an object in the [2D-](../user-interface/the-2d-view.md) or [3D View](../user-interface/the-3d-view.md) it is sufficient to **click on it**.  
 
 
-In the [2D-panel](../user-interface/the-2d-panel.md), you can identify selected objects by a blue tint and a white frame around the objects that displays their x- and y-size. Parts of this frame can also be used to [move](move-objects.md#moving-objects-in-the-2d-panel) and [rotate](rotate-objects.md#rotating-objects-in-the-2d-panel) objects in 2D.
+In the [2D View](../user-interface/the-2d-view.md), you can identify selected objects by a blue tint and a white frame around the objects that displays their x- and y-size. Parts of this frame can also be used to [move](move-objects.md#moving-objects-in-the-2D View) and [rotate](rotate-objects.md#rotating-objects-in-the-2D View) objects in 2D.
 
 
 ![](../../../.gitbook/assets/2d-select-highlighted.png)

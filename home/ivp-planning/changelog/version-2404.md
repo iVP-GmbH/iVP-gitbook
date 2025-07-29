@@ -24,8 +24,8 @@ _2024-07-10_
 
 ### Fixed
 
-* The bounding box of paths in the 2D panel is no longer incorrect when their points have been moved
-* The bounding box of objects in the 2D panel is no longer incorrect when they've been rotated around the x- or z-axis
+* The bounding box of paths in the 2D View is no longer incorrect when their points have been moved
+* The bounding box of objects in the 2D View is no longer incorrect when they've been rotated around the x- or z-axis
 * Setting the position of a path point from the inspector no longer results in the point being moved to a wrong position when the grid origin is not set to center
 * Imported images are no longer invisible in the 2D view when locked and the overhead view is disabled
 * Focusing (F) a point of a path once again moves the camera close to the point instead of very far away from it

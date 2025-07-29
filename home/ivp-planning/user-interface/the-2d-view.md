@@ -1,10 +1,10 @@
-# 2D-Panel
+# 2D View
 
-The 2D-Panel acts as planning area where you can [place](../machines/first-steps-with-3d-object.md), [move](../machines/move-objects.md), [scale and rotate](../machines/rotate-objects.md) machines and objects as if you would work with a traditional floor plan on paper.
+The 2D View acts as planning area where you can [place](../machines/first-steps-with-3d-object.md), [move](../machines/move-objects.md), [scale and rotate](../machines/rotate-objects.md) machines and objects as if you would work with a traditional floor plan on paper.
 
 ![](../../../.gitbook/assets/iVP_Planning_UserInterface_2DPanel.png)
 
-## The toolbar of the 2D-Panel:
+## The toolbar of the 2D View:
 
 The toolbar is located at the top of the panel and contains several buttons that give you quick access to 2D-specific functions and settings.
 
@@ -31,6 +31,6 @@ The toolbar is located at the top of the panel and contains several buttons that
 | ![Animations On/Off Globally](../../../.gitbook/assets/planning_2d_panel_animations_on_off_globally.png) | Toggles all [animations ](../machines/animations.md)globally without overwriting the animation values set for. |
 | ![Fullscreen](../../../.gitbook/assets/planning_2d_panel_fullscreen.png) | 2D View is set to full screen mode. |
 
-## Navigation in the the 2D-Panel:
+## Navigation in the the 2D View:
 
 To change the visible area, you can move the camera by holding down the **middle mouse button**. The zoom level can be adjusted by using the **mouse wheel**.
