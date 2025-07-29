@@ -27,4 +27,4 @@ The toolbar is located at the top of the 3D View providing you with quick access
 | ![Update Selected Camera](../../../.gitbook/assets/planning_3d_panel_update_selected_camera.png) | __Update selected Camera__ applies the current position and orientation of your 3D View to the virtual camera selected in the [Hierarchy Panel](./hierarchy-panel.md). |
 | ![Aspect Ratio](../../../.gitbook/assets/planning_2d_panel_aspect_ratio.png) | __Aspect ratio__ lets you choose between a set of common aspect ratios for your 3D View. |
 | ![Create Screenshot](../../../.gitbook/assets/planning_2d_panel_create_screenshot.png) | __Create screenshot__ lets you take a [screenshot](../advanced-tools/creating-screenshots.md) of your current 3D View. |
-| ![Skybox](../../../.gitbook/assets/planning_3d_panel_skybox.png) | __Skybox__  |
+| ![Skybox](../../../.gitbook/assets/planning_3d_panel_skybox.png) | __Skybox__ lets you choose an image file to use as a skybox (backdrop) of your 3D View. |
