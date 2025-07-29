@@ -1,6 +1,6 @@
 # Graphic Settings
 
-![](../../../.gitbook/assets/iVP_settings_graphic_settings.jpg)
+![](../../../.gitbook/assets/iVP_Planning_Settings_Graphics.png)
 
 The graphic settings offer several options to adjust the graphic quality and various visual aspects. They can be adjusted by using the [settings panel](../user-interface/settings-panel.md).
 
