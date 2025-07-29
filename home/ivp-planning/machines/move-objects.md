@@ -14,7 +14,7 @@ In the [2D-panel](../user-interface/the-2d-panel.md), objects can be moved by us
 
 ## Moving objects in the 3D-panel:
 
-To move an object in the [3D-panel](../user-interface/the-3d-panel.md) first make sure that you activated the **move mode** by clicking on the respective button of the [3D-panel toolbar](../user-interface/the-3d-panel.md#the-toolbar-of-the-3d-panel).
+To move an object in the [3D-panel](../user-interface/the-3d-view.md) first make sure that you activated the **move mode** by clicking on the respective button of the [3D-panel toolbar](../user-interface/the-3d-view.md#the-toolbar-of-the-3d-panel).
 
 ![](../../../.gitbook/assets/iVP_Planning_ObjectInteraction_3DMoveObjects.png)
 

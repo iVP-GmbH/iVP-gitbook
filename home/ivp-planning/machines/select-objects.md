@@ -8,7 +8,7 @@ How to select and move objects (german)
 
 ## Selecting Objects in the 2D- and 3D-panel:
 
-To select an object in the [2D-](../user-interface/the-2d-panel.md) or [3D-panel](../user-interface/the-3d-panel.md) it is sufficient to **click on it**.  
+To select an object in the [2D-](../user-interface/the-2d-panel.md) or [3D-panel](../user-interface/the-3d-view.md) it is sufficient to **click on it**.  
 
 
 In the [2D-panel](../user-interface/the-2d-panel.md), you can identify selected objects by a blue tint and a white frame around the objects that displays their x- and y-size. Parts of this frame can also be used to [move](move-objects.md#moving-objects-in-the-2d-panel) and [rotate](rotate-objects.md#rotating-objects-in-the-2d-panel) objects in 2D.
@@ -16,7 +16,7 @@ In the [2D-panel](../user-interface/the-2d-panel.md), you can identify selected 
 
 ![](../../../.gitbook/assets/2d-select-highlighted.png)
 
-In the [3D-Panel](../user-interface/the-3d-panel.md), selected Objects will have blue angle brackets around them which form a virtual box. Additionally, a handle will appear in their geometric center which can also be used to [move](move-objects.md#moving-objects-in-the-3d-panel), [rotate](rotate-objects.md#rotating-objects-in-the-3d-panel) or [scale](scale-objects.md#scaling-objects-in-the-3d-panel) objects in 3D.
+In the [3D-Panel](../user-interface/the-3d-view.md), selected Objects will have blue angle brackets around them which form a virtual box. Additionally, a handle will appear in their geometric center which can also be used to [move](move-objects.md#moving-objects-in-the-3d-panel), [rotate](rotate-objects.md#rotating-objects-in-the-3d-panel) or [scale](scale-objects.md#scaling-objects-in-the-3d-panel) objects in 3D.
 
 
 ![](../../../.gitbook/assets/3d-select-brackets.png)

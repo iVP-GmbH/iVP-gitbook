@@ -7,7 +7,7 @@ The info panel displays several information about the [selected object(s)](../ma
 ## The default fields:
 
 * **Name:** The name of the object which [can be changed](../machines/renaming-objects-and-folders.md) at any time
-* **ID:** The unique ID of the object which is generated when the machine is [placed](../machines/first-steps-with-3d-object.md) in the [2D-panel](the-2d-panel.md) or [3D-panel](the-3d-panel.md); the ID is unchangeable and will persist until the object is [deleted](../machines/copy-and-delete-objects.md#delete-objects)
+* **ID:** The unique ID of the object which is generated when the machine is [placed](../machines/first-steps-with-3d-object.md) in the [2D-panel](the-2d-panel.md) or [3D-panel](the-3d-view.md); the ID is unchangeable and will persist until the object is [deleted](../machines/copy-and-delete-objects.md#delete-objects)
 * **Layer:** The object can be assigned to a layer.
 * **Transform:**
   * _**Dimensions:**_ It is the size of the object that will be changed by the transformation by scale.

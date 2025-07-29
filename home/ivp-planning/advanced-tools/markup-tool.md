@@ -18,7 +18,7 @@ As soon as the tool is active, a small markup icon will follow the mouse cursor 
 
 ![](../../../.gitbook/assets/markup\_cursor.jpg)
 
-To create a markup, **left click on a position** in the [2D-panel](../user-interface/the-2d-panel.md) or [3D-panel](../user-interface/the-3d-panel.md). A blue markup (a pin resembling a map location marker) will appear that marks the spot where you clicked and functions as an interactable highlight point.
+To create a markup, **left click on a position** in the [2D-panel](../user-interface/the-2d-panel.md) or [3D-panel](../user-interface/the-3d-view.md). A blue markup (a pin resembling a map location marker) will appear that marks the spot where you clicked and functions as an interactable highlight point.
 
 ![](../../../.gitbook/assets/markup\_placement.jpg)
 
@@ -34,7 +34,7 @@ After placing a markup, the [properties panel](../user-interface/the-info-panel.
 
 * Default: the general information of a markup regarding
     * _**Name:**_ the name of the object which [can be changed](../machines/renaming-objects-and-folders.md) at any time
-    * _**ID:**_ the unique ID of the object which is generated when the markup is [placed](../machines/first-steps-with-3d-object.md) in the [2D-](../user-interface/the-2d-panel.md) or [3D-panel](../user-interface/the-3d-panel.md); the ID is unchangeable 
+    * _**ID:**_ the unique ID of the object which is generated when the markup is [placed](../machines/first-steps-with-3d-object.md) in the [2D-](../user-interface/the-2d-panel.md) or [3D-panel](../user-interface/the-3d-view.md); the ID is unchangeable 
     * _**Author:**_ the author of the markup, per default "Planner"; this information is unchangeable and independent from the object name
     * _**Created:**_ exact time and date when the markup was created; this information is unchangeable
 * Transform: the panel containing information of the markup regarding
@@ -70,7 +70,7 @@ The conversation tab can be opened by **clicking on the corresponding markup** a
 |
 | ![](../../../.gitbook/assets/conversation\_send\_text.jpg)                 | Sends text to be shown in conversation below (alternatively press **Enter** in the input field ) 
 |
-| ![](../../../.gitbook/assets/conversation\_create\_screenshot.jpg)         | Replaces the [3d-view](..user-interface/the-3d-panel.md) with a panel that lets you [take and edit screenshots](/markup-tool.md#taking-a-screenshot-in-conversations)
+| ![](../../../.gitbook/assets/conversation\_create\_screenshot.jpg)         | Replaces the [3d-view](..user-interface/the-3d-view.md) with a panel that lets you [take and edit screenshots](/markup-tool.md#taking-a-screenshot-in-conversations)
 |
 | ![](../../../.gitbook/assets/conversation_text.jpg)                        | After sending a text it will be shown in a chat with date/time of the text and who posted it; to delete a text, click the small bin icon
 |
@@ -81,7 +81,7 @@ The conversation tab can be opened by **clicking on the corresponding markup** a
 
 ## Taking a screenshot in Conversations
 
-After you press the Button **Create Screenshot**, the [3d-view](../user-interface/the-3d-panel.md) will be replaced with a panel that offers the possibility to take and edit screenshots.
+After you press the Button **Create Screenshot**, the [3d-view](../user-interface/the-3d-view.md) will be replaced with a panel that offers the possibility to take and edit screenshots.
 
 ![](../../../.gitbook/assets/markup\_screenshot\_panel.jpg)
 

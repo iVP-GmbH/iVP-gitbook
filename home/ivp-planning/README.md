@@ -1,10 +1,9 @@
 ---
+title: iVP Planning
 description: >-
   Real-time 3D planning software for industrial production plants and
   facilities.
 ---
-
-# iVP Planning
 
 <figure><img src="../../.gitbook/assets/iVPPlanning_ns.png" alt="Logo iVP Planning"><figcaption></figcaption></figure>
 

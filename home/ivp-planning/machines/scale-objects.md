@@ -10,7 +10,7 @@ Keep in mind that scaling along the Z-axis is possible for some, but not most ob
 
 ## Scaling objects in the 3D-panel:
 
-To scale objects make sure that you switched to the **scaling mode** by clicking on the corresponding button of the [3D-panel toolbar](../user-interface/the-3d-panel.md#the-toolbar-of-the-3d-panel).
+To scale objects make sure that you switched to the **scaling mode** by clicking on the corresponding button of the [3D-panel toolbar](../user-interface/the-3d-view.md#the-toolbar-of-the-3d-panel).
 
 ![](../../../.gitbook/assets/iVP_Planning_ObjectInteraction_3DScaleObjects.png)
 

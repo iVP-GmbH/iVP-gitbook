@@ -10,7 +10,7 @@ Overview for the interface (german)
 
 * [Top bar](the-top-bar.md)
 * [2D-panel](the-2d-panel.md)
-* [3D-panel](the-3d-panel.md)
+* [3D-panel](the-3d-view.md)
 * [Hierarchy panel](hierarchy-panel.md)
 * [Library panel](library-panel.md)
 * [Properties panel](the-properties-panel.md)

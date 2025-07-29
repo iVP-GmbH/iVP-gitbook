@@ -22,7 +22,7 @@ If you are using a tablet or a laptop or if you want a quick standard rotation, 
 
 ## Rotating objects in the 3D-panel:
 
-To rotate an object in the [3D-panel](../user-interface/the-3d-panel.md) first make sure that you activated the **rotation mode** by clicking on the respective button of the [3D-panel toolbar](../user-interface/the-3d-panel.md#the-toolbar-of-the-3d-panel).
+To rotate an object in the [3D-panel](../user-interface/the-3d-view.md) first make sure that you activated the **rotation mode** by clicking on the respective button of the [3D-panel toolbar](../user-interface/the-3d-view.md#the-toolbar-of-the-3d-panel).
 
 ![](../../../.gitbook/assets/iVP_Planning_ObjectInteraction_3DMoveObjects.png)
 

@@ -34,8 +34,8 @@ The text menu contains four submenus:
     * _**Animations:**_ toggles all animations globally without overwriting the animation values set for [customizable machines](../machines/customizable-machines.md)
     * _**PDF Floor Plan:**_ toggles the visibility of the [PDF](../getting-started/importing-pdfs.md) that acts as an overlay for the [floor plan](the-floor-plan.md)
     * _**Overhead View:**_ toggles between a "snapshot" view and a live view in the [2D-Panel](the-2d-panel.md)
-    * _**Walls:**_ toggles the visibility of walls in the [3D-View](the-3d-panel.md)
-    * _**Ceiling:**_ toggles the visibility of the ceiling in the [3D-View](the-3d-panel.md)
+    * _**Walls:**_ toggles the visibility of walls in the [3D-View](the-3d-view.md)
+    * _**Ceiling:**_ toggles the visibility of the ceiling in the [3D-View](the-3d-view.md)
 
 * Settings:
   * _**Language:**_ [sets the language](../getting-started/language-options.md) of the software

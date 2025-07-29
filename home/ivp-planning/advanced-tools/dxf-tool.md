@@ -69,7 +69,7 @@ Before iVP Planning exports a DXF file, a prompt will ask to set some parameters
 To export colored lines in a DXF file, the **selected objects** need to be [colored](../machines/highlighting-objects.md) first. After exporting the file any import will show the changed object outlines in this color.
 
 {% hint style="info" %}
-[Colored Objects](../machines/highlighting-objects.md) will **not show up as colored** in the [3d view](../user-interface/the-3d-panel.md).
+[Colored Objects](../machines/highlighting-objects.md) will **not show up as colored** in the [3d view](../user-interface/the-3d-view.md).
 {% endhint %}
 
 ## Troubleshooting

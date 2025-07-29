@@ -1,6 +1,6 @@
 # The Floor Plan
 
-The floor plan defines the virtual room or factory hall in which machines and objects are placed. It is the central element of the [2D view](the-2d-panel.md) (1) and the [3D view](the-3d-panel.md) (2).
+The floor plan defines the virtual room or factory hall in which machines and objects are placed. It is the central element of the [2D view](the-2d-panel.md) (1) and the [3D view](the-3d-view.md) (2).
 
 ![](../../../.gitbook/assets/floor_plan_3d_2d.jpg)
 
