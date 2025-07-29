@@ -1,61 +1,72 @@
-# Hierarchy Panel
+---
+title: Hierarchy Panel
+description: >-
+  The Hierarchy panel displays the main structure of your project's setup by providing you a tree view of all the objects your project currently contains. It can help you organizing your project's complexity and keeping an overview of your currently used assets.
+---
 
-Every object that is added to a project will get an associated entry in the hierarchy panel during its creation. This panel contains a list of all objects and is used to organize them in a tree structure. 
+![Hierarchy Panel](../../../.gitbook/assets/Hierarchy.jpg)
 
-Via this panel it is possible to collect objects in [folders](#folders), to [rename](../machines/renaming-objects-and-folders.md) objects and folders, to toggle their [visibility](#hideunhide-objects) or to lock them to prevent unwanted changes.
+Every object that is added to a project will get an associated entry in the hierarchy panel during its creation. It is possible to collect objects in [folders](#folders), to [rename](../machines/renaming-objects-and-folders.md) objects and folders, to toggle their [visibility](#hide-unhide-objects) or to [lock](#lock-unlock-objects) them to prevent unwanted changes.
 
-![](../../../.gitbook/assets/hierarchy.jpg)
+## The elements of the panel
 
-## The elements of the panel:
-
-|                                                           |                                                                                                                                                   |
-| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](../../../.gitbook/assets/Hierarchy_search.jpg)        | The search bar makes it possible to only display machines or objects which names contain the entered text (the search is not case sensitive) |
-| ![](../../../.gitbook/assets/Hierarchy_folder_button.jpg) | Adds a new folder to the hierarchy                                                                                                                |
-| ![](../../../.gitbook/assets/Hierarchy_color.jpg)         | Visualisation of the [color](../machines/highlighting-objects.md) set for the object(s)                                                           |
-| ![](../../../.gitbook/assets/Hierarchy_lock.jpg)          | Locks or unlocks the currently selected object(s)                                                                                                 |
-| ![](../../../.gitbook/assets/Hierarchy_visibility.jpg)    | Toggles the visibility of the currently selected object(s)                                                                                        |
+|     |     |
+| --- | --- |
+| ![Hierarchy Search Bar](../../../.gitbook/assets/planning_hierarchy_panel_search.png) | The __Search Bar__ makes it possible to filter machines or objects inside the hierarchy by name. The search is not case sensitive. |
+| ![Hierarchy New Folder](../../../.gitbook/assets/planning_hierarchy_panel_new_folder.png) | __New Folder__ adds a new folder to the hierarchy. |
+| ![Hierarchy Color](../../../.gitbook/assets/planning_hierarchy_panel_color.png) | __Color__ provides you an indicator of the [color](../machines/highlighting-objects.md) set for the object(s) via the [Colorize](../machines/highlighting-objects.md) tool of the 2D View. |
+| ![Hierarchy Lock/Unlock Machine](../../../.gitbook/assets/planning_hierarchy_panel_lock_unlock_machine.png) | __Lock/Unlock Machine__ lets you lock or unlock the currently selected object(s) for editing. |
+| ![Hierarchy Hide/Unhide Machine](../../../.gitbook/assets/planning_hierarchy_panel_hide_unhide_machine.png) | __Hide/Unhide Machine__ toggles the visibility of the currently selected object(s) in the 2D View and 3D View. |
 
 ## Folders
 
-Folders can be used to structure projects. They can only be accessed in the hierarchy panel, however locking or hiding them will affect all objects inside - also in the [2D- ](../user-interface/the-2d-panel.md)and [3D-panel](../user-interface/the-3d-panel.md).
+Folders can be used to optimize the structure of your project by grouping the objects you placed inside. They will be treated as a single parent object that can be colorized, locked or hidden as well. Locking and Hiding them will also affect all children objects inside - in the [2D View](../user-interface/the-2d-panel.md) and in the [3D View](../user-interface/the-3d-panel.md). Folders can only be accessed in the hierarchy panel.
 
-### Creating folders:
+### Creating folders
 
-To create a folder, **press the "new folder" button** in the top of the hierarchy panel and a new folder will be added.
+![](../../../.gitbook/assets/planning_hierarchy_new_folder.png)
 
-![](../../../.gitbook/assets/Hierarchy_new_folder.jpg)
+To create a folder click on the ![Hierarchy New Folder](../../../.gitbook/assets/planning_hierarchy_panel_new_folder_small.png) __New Folder__ button in the top right corner of the hierarchy panel. A new folder will be added to your hierarchy.
 
 {% hint style="info" %}
-The new folder will be placed at the topmost position of the hierarchy. It can then be sorted into/under other folders or objects. 
+The new folder will be placed at the bottom position of the current hierarchy. It can then be sorted into/under other folders or objects. 
 {% endhint %}
 
-### Moving objects in the hierarchy panel:
+### Moving objects in the hierarchy panel
 
-Objects can be [moved](../machines/select-objects.md#selecting-objects-via-the-hierarchy) in the hierarchy via drag and drop. A white frame will indicate where the object will go. Drop an object onto another one, to group it together with the target.
+Objects can be [moved](../machines/select-objects.md#selecting-objects-via-the-hierarchy) in the hierarchy via drag and drop. A white frame will indicate where the object will be placed. Drop an object onto another one to group it together with the target.
 
-![](../../../.gitbook/assets/hierarchy_move.png)
+| Drag | Drop |
+| ---- | ---- |
+| ![Hierarchy Move Drag](../../../.gitbook/assets/planning_hierarchy_moving_objects_drag.png) | ![Hierarchy Move Drop](../../../.gitbook/assets/planning_hierarchy_moving_objects_drop.png) |
 
 ## Lock/Unlock objects
 
-To prevent objects from being [selected](../machines/select-objects.md#selecting-objects-in-the-2d--and-3d-panel) and [moved](../machines/move-objects.md) in the [2D View](the-2d-panel.md) and [3D View](the-3d-panel.md)  press the ![Hierarchy Lock](../../../.gitbook/assets/planning_hierarchy_panel_lock_unlock_machine_small.png) **Lock/Unlock Machine** button.
-
-Alternatively **right click** a selected object to open the context menu and lock the selected object(s).
-
-![](../../../.gitbook/assets/Hierarchy_context_lock.jpg)
+To prevent objects from being [selected](../machines/select-objects.md#selecting-objects-in-the-2d--and-3d-panel) and [moved](../machines/move-objects.md) in the [2D View](the-2d-panel.md) and [3D View](the-3d-panel.md) press the ![Hierarchy Lock](../../../.gitbook/assets/planning_hierarchy_panel_lock_unlock_machine_small.png) **Lock/Unlock Machine** button.
 
 ## Hide/unhide objects
 
-To hide or show one or more objects, [select](../machines/select-objects.md#selecting-objects-via-the-hierarchy) them and press the ![Hierarchy Visibility](../../../.gitbook/assets/planning_hierarchy_panel_hide_unhide_machine_small.png) **Hide/Unhide Machine** button.
+To hide or show one or more objects [select](../machines/select-objects.md#selecting-objects-via-the-hierarchy) them and press the ![Hierarchy Visibility](../../../.gitbook/assets/planning_hierarchy_panel_hide_unhide_machine_small.png) **Hide/Unhide Machine** button.
 
-Alternatively you can right click a selected object and use the context menu to change the visibility of any selected object.
+A hidden object will not be shown in the [2D View](the-2d-panel.md) and [3D View](the-3d-panel.md). It will still be shown in the Hierarchy Panel with a darker grey color and the  icon. You can still edit it in the [Properties Panel](./the-properties-panel.md). 
 
-![](../../../.gitbook/assets/Hierarchy_context_visibility.jpg)
-
-A hidden object will not be shown in the [2D view](the-2d-panel.md) and [3D view](the-3d-panel.md). It will still be shown in the hierarchy panel and turn to a darker grey color. It will still be editable in the properties panel. 
-
-![](../../../.gitbook/assets/Hierarchy_hidden_object.jpg)
+![Hierarchy Hidden Object](../../../.gitbook/assets/planning_hierarchy_hidden_object.png)
 
 {% hint style="warning" %}
-A hidden object can **not be moved** in the [2D view](the-2d-panel.md) and [3D view](the-3d-panel.md)! 
+You can __not__ [__move__](../machines/move-objects.md) or [__rotate__](../machines/rotate-objects.md) a hidden object in the [2D View](the-2d-panel.md) and [3D View](the-3d-panel.md).
 {% endhint %}
+
+## Context Menu
+
+You can open a context menu for any object with a __Right Click__ on it inside the Hierarchy Panel.
+Next to the already mentioned options to [colorize](#the-elements-of-the-panel), [lock](#lock-unlock-objects) and [hide](#hide-unhide-objects) there are additional features available for you.
+
+![Hierarchy Context Menu](../../../.gitbook/assets/planning_hierarchy_context_menu.png)
+
+__Rename__ allows you to edit the name of the object.
+__Copy__ lets you copy the object (without its children).
+__Delete__ will remove the currently selected object(s).
+__Select Children__ allows you to select the object and its children.
+__Create folder from selection__ will create a new folder with the currently selected objects inside of it.
+__Mirror__ allows you to mirror the currently selected object(s) horizontally or vertically.
+__Reset Scale__ will set the [scale](../machines/scale-objects.md) value of the currently selected object(s) to its default values (usually 1 on all axes).
