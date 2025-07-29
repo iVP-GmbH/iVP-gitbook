@@ -60,7 +60,7 @@
       * [Adjusting The User Interface](home/ivp-planning/user-interface/adjusting-the-ui.md)
     * [Object Interaction](home/ivp-planning/machines/README.md)
       * [Adding New Objects](home/ivp-planning/machines/first-steps-with-3d-object.md)
-      * [Select Objects](home/ivp-planning/machines/selecting-and-moving-objects.md)
+      * [Select Objects](home/ivp-planning/machines/select-objects.md)
       * [Move Objects](home/ivp-planning/machines/move-objects.md)
       * [Rotate Objects](home/ivp-planning/machines/rotate-objects.md)
       * [Scale Objects](home/ivp-planning/machines/scale-objects.md)

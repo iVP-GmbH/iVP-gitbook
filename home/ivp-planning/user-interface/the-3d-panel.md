@@ -17,7 +17,7 @@ The toolbar is located at the top of the 3D View providing you with quick access
 | :--- | :--- |
 | ![Toggle Camera Mode](../../../.gitbook/assets/planning_3d_panel_toggle_camera_mode.png) | __Toggle camera mode__ lets you lock/unlock your viewpoint to a selected virtual camera. |
 | ![Selected View](../../../.gitbook/assets/planning_3d_panel_selected_view.png) | __Selected View__ allows you to switch between the [virtual cameras](../advanced-tools/virtual-cameras.md) of your scene. |
-| ![3D Move](../../../.gitbook/assets/planning_3d_panel_3d_move.png) | __3D Move__ enables the mode to [move](../machines/selecting-and-moving-objects.md) the selected object(s) in three-dimensional space. |
+| ![3D Move](../../../.gitbook/assets/planning_3d_panel_3d_move.png) | __3D Move__ enables the mode to [move](../machines/move-objects.md) the selected object(s) in three-dimensional space. |
 | ![3D Rotate](<../../../.gitbook/assets/planning_3d_panel_3d_rotate.png>) | __3D Rotate__ enables the mode to [rotate](../machines/rotate-objects.md#rotate-objects) the selected object(s) in three-dimensional space. |
 | ![3D Scale](../../../.gitbook/assets/planning_3d_panel_3d_scale.png) | __3D Scale__ enables the mode to [scale](../machines/scale-objects.md#scale-objects) the selected object(s) in three-dimensional space. |
 | ![Global Space](../../../.gitbook/assets/planning_3d_panel_global_space.png) | __Global Space__ toggles the 3D transformations being applied along either the global space (coordinates) of the scene or the local space (orientation) of the object. |

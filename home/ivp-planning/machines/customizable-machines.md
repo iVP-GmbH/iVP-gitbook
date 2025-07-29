@@ -16,6 +16,6 @@ Example: the same machine with 4 wagons and 1 wagon - realized without stretchin
 
 ## Customize objects via the properties panel:
 
-To customize a [selected object](selecting-and-moving-objects.md), have a look at the **lower part of the** [properties panel](../user-interface/the-properties-panel.md). The options available here depend on the object and its usage scenarios.
+To customize a [selected object](select-objects.md), have a look at the **lower part of the** [properties panel](../user-interface/the-properties-panel.md). The options available here depend on the object and its usage scenarios.
 
 ![](../../../.gitbook/assets/iVP_Planning_ObjectInteraction_CustomizableObjects.png)

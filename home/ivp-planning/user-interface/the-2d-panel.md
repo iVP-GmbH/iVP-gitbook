@@ -1,6 +1,6 @@
 # 2D-Panel
 
-The 2D-Panel acts as planning area where you can [place](../machines/first-steps-with-3d-object.md), [move](../machines/selecting-and-moving-objects.md), [scale and rotate](../machines/rotate-objects.md) machines and objects as if you would work with a traditional floor plan on paper.
+The 2D-Panel acts as planning area where you can [place](../machines/first-steps-with-3d-object.md), [move](../machines/move-objects.md), [scale and rotate](../machines/rotate-objects.md) machines and objects as if you would work with a traditional floor plan on paper.
 
 ![](../../../.gitbook/assets/iVP_Planning_UserInterface_2DPanel.png)
 

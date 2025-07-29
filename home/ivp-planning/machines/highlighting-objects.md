@@ -4,7 +4,7 @@ It can be useful to color objects to group them visually or to make specific obj
 
 ## Coloring Objects:
 
-To color a [selected ](selecting-and-moving-objects.md)object, first click on the color picker icon in the [toolbar of the 2D-panel](../user-interface/the-2d-panel.md#the-toolbar-of-the-2d-panel).
+To color a [selected](select-objects.md) object, first click on the color picker icon in the [toolbar of the 2D-panel](../user-interface/the-2d-panel.md#the-toolbar-of-the-2d-panel).
 
 ![](../../../.gitbook/assets/iVP_Planning_ObjectInteraction_HighlightsObjects.png)
 
