@@ -1,7 +1,6 @@
 ---
 title: Hierarchy Panel
-description: >-
-  The Hierarchy panel displays the main structure of your project's setup by providing you a tree view of all the objects your project currently contains. It can help you organizing your project's complexity and keeping an overview of your currently used assets.
+description: The Hierarchy panel displays the main structure of your project's setup by providing you a tree view of all the objects your project currently contains. It can help you organizing your project's complexity and keeping an overview of your currently used assets.
 ---
 
 ![Hierarchy Panel](../../../.gitbook/assets/Hierarchy.jpg)
