@@ -11,7 +11,7 @@ The info panel displays several information about the [selected object(s)](../ma
 * **Layer:** The object can be assigned to a layer.
 * **Transform:**
   * _**Dimensions:**_ It is the size of the object that will be changed by the transformation by scale.
-  * _**Position:**_ The [position](../machines/selecting-and-moving-objects.md#move-objects) of the object relative to the current [reference point](the-grid.md#adjusting-the-reference-point) of the [coordinate system](the-grid.md) and its [rotation](../machines/scale-and-rotate-objects.md#rotate-objects) relative to its default rotation
+  * _**Position:**_ The [position](../machines/selecting-and-moving-objects.md#move-objects) of the object relative to the current [reference point](the-grid.md#adjusting-the-reference-point) of the [coordinate system](the-grid.md) and its [rotation](../machines/rotate-objects.md#rotate-objects) relative to its default rotation
   * _**Scale:**_ It allows adjusting object size along the X, Y, and Z axes. A 1:1:1 ratio indicates uniform scaling, with changes reflected in the ratio display.
   * _**Rotation:**_ It allows adjusting the orientation around the Z axis in degrees.
 * **Customization:** Each object has individual [custumizations](../machines/customizable-machines.md#customizable-machines) and can be adapted there.

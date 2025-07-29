@@ -1,6 +1,6 @@
 # 2D-Panel
 
-The 2D-Panel acts as planning area where you can [place](../machines/first-steps-with-3d-object.md), [move](../machines/selecting-and-moving-objects.md), [scale and rotate](../machines/scale-and-rotate-objects.md) machines and objects as if you would work with a traditional floor plan on paper.
+The 2D-Panel acts as planning area where you can [place](../machines/first-steps-with-3d-object.md), [move](../machines/selecting-and-moving-objects.md), [scale and rotate](../machines/rotate-objects.md) machines and objects as if you would work with a traditional floor plan on paper.
 
 ![](../../../.gitbook/assets/iVP_Planning_UserInterface_2DPanel.png)
 
@@ -18,8 +18,8 @@ The toolbar is located at the top of the panel and contains several buttons that
 | ![Rotate Clockwise](../../../.gitbook/assets/planning_2d_panel_rotate_clockwise.png) | Rotates the selected object(s) clockwise by a fixed degree (the degree can be adjusted in the [settings panel](settings-panel.md#global-settings)). |
 | ![Rotate Counterclockwise](../../../.gitbook/assets/planning_2d_panel_rotate_counterclockwise.png) | Rotates the selected object(s) anti-clockwise by a fixed degree (the degree can be adjusted in the [settings panel](settings-panel.md#global-settings)). |
 | ![Delete](../../../.gitbook/assets/planning_2d_panel_delete.png) | [Deletes](../machines/copy-and-delete-objects.md#delete-objects) the selected object(s). |
-| ![Mirror Vertically](../../../.gitbook/assets/planning_2d_panel_mirror_vertically.png) | [Mirrors](../machines/scale-and-rotate-objects.md#mirror-objects) the selected objects(s) vertically. |
-| ![Mirror Horizontally](../../../.gitbook/assets/planning_2d_panel_mirror_horizontally.png). | [Mirrors](../machines/scale-and-rotate-objects.md#mirror-objects) the selected object(s) horizontally. |
+| ![Mirror Vertically](../../../.gitbook/assets/planning_2d_panel_mirror_vertically.png) | [Mirrors](../machines/rotate-objects.md#mirror-objects) the selected objects(s) vertically. |
+| ![Mirror Horizontally](../../../.gitbook/assets/planning_2d_panel_mirror_horizontally.png). | [Mirrors](../machines/rotate-objects.md#mirror-objects) the selected object(s) horizontally. |
 | ![Colorize](../../../.gitbook/assets/planning_2d_panel_colorize.png)                                          | Highlights the selected object(s) by [coloring](../machines/highlighting-objects.md#coloring-objects) them. |
 | ![Undo](../../../.gitbook/assets/planning_2d_panel_undo.png) | Undo reverses the last action, allowing you to step back and correct mistakes. |
 | ![Redo](../../../.gitbook/assets/planning_2d_panel_redo.png) | Redo restores the last action that was undone, allowing you to reapply changes. |

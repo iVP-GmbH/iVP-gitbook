@@ -7,7 +7,7 @@ description: >-
 
 ![](../../../.gitbook/assets/iVP_Planning_UserInterface_3DPanel_3DPanel.png)
 
-It is possible to [place](../machines/first-steps-with-3d-object.md), [move](../machines/selecting-and-moving-objects.md), [scale and rotate](../machines/scale-and-rotate-objects.md) machines and objects like in the 2D View. Furthermore the 3D View offers functions to take [screenshots](../advanced-tools/creating-screenshots.md) or to work with [virtual cameras](virtual-camera-panel.md) for [recording videos](../advanced-tools/virtual-cameras.md).
+It is possible to [place](../machines/first-steps-with-3d-object.md), [move](../machines/selecting-and-moving-objects.md), [scale and rotate](../machines/rotate-objects.md) machines and objects like in the 2D View. Furthermore the 3D View offers functions to take [screenshots](../advanced-tools/creating-screenshots.md) or to work with [virtual cameras](virtual-camera-panel.md) for [recording videos](../advanced-tools/virtual-cameras.md).
 
 ## The toolbar of the 3D View
 
@@ -18,8 +18,8 @@ The toolbar is located at the top of the 3D View providing you with quick access
 | ![Toggle Camera Mode](../../../.gitbook/assets/planning_3d_panel_toggle_camera_mode.png) | __Toggle camera mode__ lets you lock/unlock your viewpoint to a selected virtual camera. |
 | ![Selected View](../../../.gitbook/assets/planning_3d_panel_selected_view.png) | __Selected View__ allows you to switch between the [virtual cameras](../advanced-tools/virtual-cameras.md) of your scene. |
 | ![3D Move](../../../.gitbook/assets/planning_3d_panel_3d_move.png) | __3D Move__ enables the mode to [move](../machines/selecting-and-moving-objects.md) the selected object(s) in three-dimensional space. |
-| ![3D Rotate](<../../../.gitbook/assets/planning_3d_panel_3d_rotate.png>) | __3D Rotate__ enables the mode to [rotate](../machines/scale-and-rotate-objects.md#rotate-objects) the selected object(s) in three-dimensional space. |
-| ![3D Scale](../../../.gitbook/assets/planning_3d_panel_3d_scale.png) | __3D Scale__ enables the mode to [scale](../machines/scale-and-rotate-objects.md#scale-objects) the selected object(s) in three-dimensional space. |
+| ![3D Rotate](<../../../.gitbook/assets/planning_3d_panel_3d_rotate.png>) | __3D Rotate__ enables the mode to [rotate](../machines/rotate-objects.md#rotate-objects) the selected object(s) in three-dimensional space. |
+| ![3D Scale](../../../.gitbook/assets/planning_3d_panel_3d_scale.png) | __3D Scale__ enables the mode to [scale](../machines/scale-objects.md#scale-objects) the selected object(s) in three-dimensional space. |
 | ![Global Space](../../../.gitbook/assets/planning_3d_panel_global_space.png) | __Global Space__ toggles the 3D transformations being applied along either the global space (coordinates) of the scene or the local space (orientation) of the object. |
 | ![FOV](../../../.gitbook/assets/planning_3d_panel_fov.png) | __FOV__ opens a slider to set the general field of view for your 3D View. |
 | ![Reset the Camera View](../../../.gitbook/assets/planning_3d_panel_reset_the_camera_view.png) | __Resets the camera view__ sets the current 3D View to its default position and orientation. |

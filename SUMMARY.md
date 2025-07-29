@@ -62,7 +62,7 @@
       * [Adding New Objects](home/ivp-planning/machines/first-steps-with-3d-object.md)
       * [Select Objects](home/ivp-planning/machines/selecting-and-moving-objects.md)
       * [Move Objects](home/ivp-planning/machines/move-objects.md)
-      * [Rotate Objects](home/ivp-planning/machines/scale-and-rotate-objects.md)
+      * [Rotate Objects](home/ivp-planning/machines/rotate-objects.md)
       * [Scale Objects](home/ivp-planning/machines/scale-objects.md)
       * [Mirror Objects](home/ivp-planning/machines/mirror-objects.md)
       * [Copy Objects](home/ivp-planning/machines/copy-and-delete-objects.md)
