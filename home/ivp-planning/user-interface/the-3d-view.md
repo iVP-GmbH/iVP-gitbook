@@ -1,7 +1,6 @@
 ---
 title: 3D View
-description: >-
-  The 3D View gives you a three-dimensional representation of your concept. Analogue to the 2D View you can perform several transformations to edit the setup of your objects.
+description: The 3D View gives you a three-dimensional representation of your concept. Analogue to the 2D View you can perform several transformations to edit the setup of your objects.
 ---
 
 ![](../../../.gitbook/assets/iVP_Planning_UserInterface_3DPanel_3DPanel.png)

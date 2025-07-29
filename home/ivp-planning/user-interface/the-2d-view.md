@@ -1,7 +1,6 @@
 ---
 title: 2D View
-description: >-
-  The 2D View provides you with a two-dimensional representation of your concept where you can perform several transformations to edit the setup of your objects.
+description: The 2D View provides you with a two-dimensional representation of your concept where you can perform several transformations to edit the setup of your objects.
 ---
 
 The 2D View acts as planning area where you can [place](../machines/first-steps-with-3d-object.md), [move](../machines/move-objects.md), [scale and rotate](../machines/rotate-objects.md) machines and objects as if you would work with a traditional floor plan on paper.

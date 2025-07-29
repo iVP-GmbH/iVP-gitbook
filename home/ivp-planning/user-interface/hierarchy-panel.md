@@ -1,11 +1,11 @@
 ---
 title: Hierarchy Panel
-description: The Hierarchy panel displays the main structure of your project's setup by providing you a tree view of all the objects your project currently contains. It can help you organizing your project's complexity and keeping an overview of your currently used assets.
+description: The Hierarchy panel displays the main structure of your project's setup. It can help you organizing your project's complexity and keeping an overview of your currently used assets.
 ---
 
 ![Hierarchy Panel](../../../.gitbook/assets/Hierarchy.jpg)
 
-Every object that is added to a project will get an associated entry in the hierarchy panel during its creation. It is possible to collect objects in [folders](#folders), to [rename](../machines/renaming-objects-and-folders.md) objects and folders, to toggle their [visibility](#hide-unhide-objects) or to [lock](#lock-unlock-objects) them to prevent unwanted changes.
+The Hierarchy Panel provides you with a tree view of all the objects your project currently contains. Every object that is added to your project will get an associated entry in the Hierarchy Panel during its creation. It is possible to collect objects in [folders](#folders), to [rename](../machines/renaming-objects-and-folders.md) objects and folders, to toggle their [visibility](#hide-unhide-objects) or to [lock](#lock-unlock-objects) them to prevent unwanted changes.
 
 ## The elements of the panel
 
