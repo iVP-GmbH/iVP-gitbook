@@ -7,7 +7,7 @@ description: >-
 
 ![](../../../.gitbook/assets/iVP_Planning_UserInterface_3DPanel_3DPanel.png)
 
-It is possible to [place](../machines/first-steps-with-3d-object.md), [move](../machines/selecting-and-moving-objects.md), [scale and rotate](../machines/rotate-objects.md) machines and objects like in the 2D View. Furthermore the 3D View offers functions to take [screenshots](../advanced-tools/creating-screenshots.md) or to work with [virtual cameras](virtual-camera-panel.md) for [recording videos](../advanced-tools/virtual-cameras.md).
+It is possible to [place](../machines/first-steps-with-3d-object.md), [move](../machines/move-objects.md), [rotate](../machines/rotate-objects.md) and [scale](../machines/scale-objects.md) machines and objects like in the 2D View. Furthermore the 3D View offers functions to take [screenshots](../advanced-tools/creating-screenshots.md) or to work with [virtual cameras](./virtual-camera-panel.md) for [recording videos](../advanced-tools/virtual-cameras.md).
 
 ## The toolbar of the 3D View
 
