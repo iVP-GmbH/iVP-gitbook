@@ -46,7 +46,7 @@ Objects can be [moved](../machines/select-objects.md#selecting-objects-via-the-h
 
 ## Lock/Unlock objects
 
-To prevent objects from being [selected](../machines/select-objects.md#selecting-objects-in-the-2d--and-3d-panel) and [moved](../machines/move-objects.md) in the [2D View](the-2d-panel.md) and [3D View](the-3d-view.md) press the ![Hierarchy Lock](../../../.gitbook/assets/planning_hierarchy_panel_lock_unlock_machine_small.png) **Lock/Unlock Machine** button.
+To prevent objects from being [selected](../machines/select-objects.md#selecting-objects-in-the-2d--and-3D View) and [moved](../machines/move-objects.md) in the [2D View](the-2d-panel.md) and [3D View](the-3d-view.md) press the ![Hierarchy Lock](../../../.gitbook/assets/planning_hierarchy_panel_lock_unlock_machine_small.png) **Lock/Unlock Machine** button.
 
 ## Hide/unhide objects
 

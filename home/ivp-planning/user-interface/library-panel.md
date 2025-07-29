@@ -11,7 +11,7 @@ The objects in the library are organized in a tree structure:
 |          |             |
 |----------|-------------|
 | ![](../../../.gitbook/assets/library-category.png) | Categories have a light gray background. With the exception of the top most categories, they show the number of subelements (subcategories and objects) in brackets. Clicking a category expands it. |
-| ![](../../../.gitbook/assets/library-object.png)   | Objects have a dark gray background. Clicking an object displays a 3D preview of the object. Clicking in the [2D-](the-2d-panel.md) or [3D-panel](the-3d-view.md) afterwards places the object at the respective position. |
+| ![](../../../.gitbook/assets/library-object.png)   | Objects have a dark gray background. Clicking an object displays a 3D preview of the object. Clicking in the [2D-](the-2d-panel.md) or [3D View](the-3d-view.md) afterwards places the object at the respective position. |
 
 
 ## Search

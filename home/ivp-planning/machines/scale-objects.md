@@ -8,9 +8,9 @@ Exercise caution when modifying scale to prevent distortions or errors. When cha
 Keep in mind that scaling along the Z-axis is possible for some, but not most objects at the moment.
 {% endhint %}
 
-## Scaling objects in the 3D-panel:
+## Scaling objects in the 3D View:
 
-To scale objects make sure that you switched to the **scaling mode** by clicking on the corresponding button of the [3D-panel toolbar](../user-interface/the-3d-view.md#the-toolbar-of-the-3d-panel).
+To scale objects make sure that you switched to the **scaling mode** by clicking on the corresponding button of the [3D View toolbar](../user-interface/the-3d-view.md#the-toolbar-of-the-3D View).
 
 ![](../../../.gitbook/assets/iVP_Planning_ObjectInteraction_3DScaleObjects.png)
 

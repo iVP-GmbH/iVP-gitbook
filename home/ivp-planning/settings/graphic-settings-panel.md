@@ -24,6 +24,6 @@ __Bloom__ toggles bloom.
 
 __Shadows__ toggles shadows.
 
-__Vignette__ toggles a vignette effect inside the [3D-panel](../user-interface/the-3d-view.md).
+__Vignette__ toggles a vignette effect inside the [3D View](../user-interface/the-3d-view.md).
 
 __Texture Detiling__ reduces visible patterns that occur when using textures on large areas.

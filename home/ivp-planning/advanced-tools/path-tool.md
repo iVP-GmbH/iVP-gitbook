@@ -16,7 +16,7 @@ After activation, a small path icon will follow your curser, indicating that you
 
 ![](../../../.gitbook/assets/iVP_path_tool_mouse_icon.jpg)
 
-To create a path, **left click on a position** in the [2D-panel](../user-interface/the-2d-panel.md) or [3D-panel](../user-interface/the-3d-view.md). A small circle will appear, indicating the spot of the click and serving as the initial point. When the mouse is moved after the click, a line will appear between the point and the mouse cursor. To add a new point, simply **left click on another position** in either the [2D-panel](../user-interface/the-2d-panel.md) or [3D-panel](../user-interface/the-3d-view.md).
+To create a path, **left click on a position** in the [2D-panel](../user-interface/the-2d-panel.md) or [3D View](../user-interface/the-3d-view.md). A small circle will appear, indicating the spot of the click and serving as the initial point. When the mouse is moved after the click, a line will appear between the point and the mouse cursor. To add a new point, simply **left click on another position** in either the [2D-panel](../user-interface/the-2d-panel.md) or [3D View](../user-interface/the-3d-view.md).
 
 ![](../../../.gitbook/assets/iVP_path_tool_draw_path_line_new.jpg)
 
@@ -45,7 +45,7 @@ To delete a point, either **right click on the point** and then click on **"Dele
 ![](../../../.gitbook/assets/iVP_path_tool_delete_point.jpg)
 
 To move points, simply **drag them** with the **left mouse button**.  
-Points can also be seleceted and moved individually, either in the [2D-panel](../user-interface/the-2d-panel.md) or the [3D-panel](../user-interface/the-3d-view.md).
+Points can also be seleceted and moved individually, either in the [2D-panel](../user-interface/the-2d-panel.md) or the [3D View](../user-interface/the-3d-view.md).
 
 ### Editing Path Distance and Angles
 

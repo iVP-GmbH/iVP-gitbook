@@ -20,16 +20,16 @@ The new camera will now appear in the hierarchy panel and is ready for setup.
 
 ![](../../../.gitbook/assets/iVP\_virtual\_cameras\_machine\_list\_panel.jpg)
 
-Alternatively, it is also possible to create a new virtual camera that will positioned to match the current [3D-panel](../user-interface/the-3d-view.md) view (position and rotation of the camera will be set automatically). To do so, click on the "Add current camera view" icon on the [toolbar of the 3D-panel](../user-interface/the-3d-view.md#the-toolbar-of-the-3d-panel).&#x20;
+Alternatively, it is also possible to create a new virtual camera that will positioned to match the current [3D View](../user-interface/the-3d-view.md) view (position and rotation of the camera will be set automatically). To do so, click on the "Add current camera view" icon on the [toolbar of the 3D View](../user-interface/the-3d-view.md#the-toolbar-of-the-3D View).&#x20;
 
-![](../../../.gitbook/assets/iVP\_virtual\_cameras\_3D-panel\_add\_adjusted\_camera\_icon.jpg)
+![](../../../.gitbook/assets/iVP\_virtual\_cameras\_3D View\_add\_adjusted\_camera\_icon.jpg)
 
 ## Setting camera position and rotation:
 
-Virtual cameras behave like regular objects when it comes to [position ](../machines/move-objects.md)and [rotation](../machines/rotate-objects.md). As other objects, they appear in the 2D- and 3D-panel and can be [moved around](../machines/move-objects.md) or [rotated](../machines/rotate-objects.md) in the same way.
+Virtual cameras behave like regular objects when it comes to [position ](../machines/move-objects.md)and [rotation](../machines/rotate-objects.md). As other objects, they appear in the 2D- and 3D View and can be [moved around](../machines/move-objects.md) or [rotated](../machines/rotate-objects.md) in the same way.
 
 {% hint style="info" %}
-It is also possible to [move](../machines/move-objects.md) or [rotate](../machines/rotate-objects.md) several cameras at once. To do so, simply [select](../machines/select-objects.md) multiple cameras before you make changes in the [2D-](../user-interface/the-2d-panel.md)or [3D-panel](../user-interface/the-3d-view.md).
+It is also possible to [move](../machines/move-objects.md) or [rotate](../machines/rotate-objects.md) several cameras at once. To do so, simply [select](../machines/select-objects.md) multiple cameras before you make changes in the [2D-](../user-interface/the-2d-panel.md)or [3D View](../user-interface/the-3d-view.md).
 {% endhint %}
 
 ![](../../../.gitbook/assets/iVP\_virtual\_cameras\_objects.jpg)
@@ -44,16 +44,16 @@ To set up exactly the desired perspective, it is possible to [display a cameras 
 
 ## Displaying the live output of a virtual camera:
 
-The output of a virtual camera can either be viewed in the [virtual camera panel](../user-interface/virtual-camera-panel.md) or in the [3D-panel](../user-interface/the-3d-view.md). To achieve the latter, toggle the camera mode of the [3D-panel](../user-interface/the-3d-view.md) by **clicking on the small camera icon** at the left end of the [3D-panel toolbar](../user-interface/the-3d-view.md#the-toolbar-of-the-3d-panel).
+The output of a virtual camera can either be viewed in the [virtual camera panel](../user-interface/virtual-camera-panel.md) or in the [3D View](../user-interface/the-3d-view.md). To achieve the latter, toggle the camera mode of the [3D View](../user-interface/the-3d-view.md) by **clicking on the small camera icon** at the left end of the [3D View toolbar](../user-interface/the-3d-view.md#the-toolbar-of-the-3D View).
 
-![](../../../.gitbook/assets/iVP\_virtual\_cameras\_3D-panel\_camera\_mode\_icon.jpg)
+![](../../../.gitbook/assets/iVP\_virtual\_cameras\_3D View\_camera\_mode\_icon.jpg)
 
 The icon will change to indicate the mode change and it will be possible to **select a camera from the drop-down** list next to the icon.
 
-![](../../../.gitbook/assets/iVP\_virtual\_cameras\_3D-panel\_camera\_mode\_dropdown.jpg)
+![](../../../.gitbook/assets/iVP\_virtual\_cameras\_3D View\_camera\_mode\_dropdown.jpg)
 
 {% hint style="info" %}
-While the output of a camera is displayed in the 3D-panel, the regular [camera movement](../getting-started/moving-the-camera.md) is not possible. However, is it possible to switch back to the regular camera mode of the 3D-panel by clicking on the icon at the left end of the [3D-panel toolbar](../user-interface/the-3d-view.md#the-toolbar-of-the-3d-panel) again.
+While the output of a camera is displayed in the 3D View, the regular [camera movement](../getting-started/moving-the-camera.md) is not possible. However, is it possible to switch back to the regular camera mode of the 3D View by clicking on the icon at the left end of the [3D View toolbar](../user-interface/the-3d-view.md#the-toolbar-of-the-3D View) again.
 {% endhint %}
 
 ## Setting up virtual dolly shots:

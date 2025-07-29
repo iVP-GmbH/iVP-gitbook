@@ -24,7 +24,7 @@ The default layout displays all the panels necessary for planning and quick [mea
 {% tab title="Presentation layout" %}
 ![](../../../.gitbook/assets/iVP_Planning_UserInterface_Layout_PresentationLayout.png)
 
-The presentation layout replaces the info panel through the [virtual camera panel](virtual-camera-panel.md) and the [camera list panel](camera-list-panel.md) and widens the [2D-](the-2d-panel.md) and the [3D-panel](the-3d-view.md) so that everything is set up for the production of [screenshots ](../advanced-tools/creating-screenshots.md)and [virtual dolly shots](../advanced-tools/virtual-cameras.md).
+The presentation layout replaces the info panel through the [virtual camera panel](virtual-camera-panel.md) and the [camera list panel](camera-list-panel.md) and widens the [2D-](the-2d-panel.md) and the [3D View](the-3d-view.md) so that everything is set up for the production of [screenshots ](../advanced-tools/creating-screenshots.md)and [virtual dolly shots](../advanced-tools/virtual-cameras.md).
 {% endtab %}
 
 {% tab title="Simple layout" %}
@@ -36,13 +36,13 @@ The simple layout is useful to display information of already existing objects a
 {% tab title="2D layout" %}
 ![](../../../.gitbook/assets/iVP_Planning_UserInterface_Layout_2DLayout.png)
 
-The 2D layout focuses entirely on the [2D-panel](the-2d-panel.md), providing a streamlined interface for planning tasks. In the top-left corner,  it can be switched to the [3D-panel](the-3d-view.md) to access spatial views and further planning capabilities.
+The 2D layout focuses entirely on the [2D-panel](the-2d-panel.md), providing a streamlined interface for planning tasks. In the top-left corner,  it can be switched to the [3D View](the-3d-view.md) to access spatial views and further planning capabilities.
 {% endtab %} 
 
 {% tab title="3D layout" %}
 ![](../../../.gitbook/assets/iVP_Planning_UserInterface_Layout_3DLayout.png)
 
-The 3D layout centers around the [3D-panel](the-3d-view.md), offering a spatial overview for advanced planning tasks. In the top-left corner, it can be switched to the [2D-panel](the-2d-panel.md) to focus on floor plans or schematic views.
+The 3D layout centers around the [3D View](the-3d-view.md), offering a spatial overview for advanced planning tasks. In the top-left corner, it can be switched to the [2D-panel](the-2d-panel.md) to focus on floor plans or schematic views.
 {% endtab %}
 {% endtabs %}
 

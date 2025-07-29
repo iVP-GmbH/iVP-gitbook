@@ -15,7 +15,7 @@ If you want to construct fences or barriers we recommend to use the [fence tool]
 The fastest way to copy objects is to press **Ctrl + C** after selecting the objects. Four arrows will appear. As soon as you **click one of the arrows** a copy of the selected objects will be created in that direction. Alternatively you can press **Ctrl + V** while your mouse is hovering over the 2D-panel. This will spawn a copy at the current position of the mouse.
 
 {% hint style="info" %}
-Although it is more precise to work in the 2D-panel for copying, the **Ctrl + C** / **Ctrl + V** method also works in the [3D-panel](../user-interface/the-3d-view.md).
+Although it is more precise to work in the 2D-panel for copying, the **Ctrl + C** / **Ctrl + V** method also works in the [3D View](../user-interface/the-3d-view.md).
 {% endhint %}
 
 You can either **click on the copy icon in the toolbar** of the [2D-panel](../user-interface/the-2d-panel.md#the-toolbar-of-the-2d-panel) or **right click on a selected object in the 2D-panel** followed by a click on the "Copy" option.
