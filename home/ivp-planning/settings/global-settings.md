@@ -4,7 +4,7 @@ The global settings offer different options to adjust the [user interface](../us
 
 ![](../../../.gitbook/assets/iVP_Planning_Settings_GlobalSettings.png)
 
-## The options explained:
+## Settings
 
 * **Unit**: Set the measurement unit used in the project. Available units are _mm_, _cm_, _dm_, _m_ and _ft_.
 * **Floor Material**: Change the visual appearance of the floor in the scene. You can choose between _Invisible_, _Light Gray_, _Gray_, _Dark Gray_ and _Concrete_.

@@ -6,10 +6,9 @@ description: >-
 
 # Keyboard Shortcuts
 
-Here is a list of all the default keyboard shortcuts and their function. Please note, that most of the shortcuts can be changed in iVP. 
-[**Here**](settings/input-manager.md) you can find how to change your shortcuts for individual usage.
+Below you find a list of all the default keyboard shortcuts and their functions. Most of the shortcuts can be changed to individualize your control of iVP Planning. You can set new shortcuts or restore existing ones to their default with the [Input Settings](settings/input-manager.md).
 
-## **Camera Control (2D and 3D)**
+## Camera Control (2D and 3D)
 
 | Shortcut                          | Input Name | Function                          |
 | --------------------------------- | ---------- | --------------------------------- |
@@ -20,21 +19,21 @@ Here is a list of all the default keyboard shortcuts and their function. Please 
 | **Right click + E**               | Up         | Moving the 2D/3D camera up        |
 | **Right click + Q**               | Down       | Moving the 2D/3D camera down      |
 
-## **Paths**
+## Paths
 
 | Shortcut       | Input Name   | Function                             |
 | -------------- | ------------ | ------------------------------------ |
 | **P**          | Path Mode    | Activate Path mode                   |
 | **M**          | Markup Mode  | Activate Markup mode                 |
 | **V**          | Regular Mode | Activate regular mode                |
-| **Left SHIFT** | Snapping     | Change angle only by [set](../ivp-planning/settings/global-settings.md#the-options-explained) degrees |
+| **Left SHIFT** | Snapping     | Limit angle changes to the [set](../ivp-planning/settings/global-settings.md#the-options-explained) degrees |
 
-## **Object interaction**
+## Object interaction
 
 | Shortcut                      | Input Name    | Function                                     |
 | ----------------------------- | ------------- | -------------------------------------------- | 
 | **F**                         | Focus Object  | Zoom in to the selected machine              | 
-| **W**                         | 3d Move       | Activate 3D-transform tools                  | 
+| **W**                         | 3D Move       | Activate 3D-transform tools                  | 
 | **E**                         | Rotate        | Activate 3D-rotate tools                     |
 | **R**                         | Scale         | Activate 3D-scale tools                      |
 | **Delete**                    | Delete        | Delete the selected objects                  |
@@ -43,16 +42,16 @@ Here is a list of all the default keyboard shortcuts and their function. Please 
 | **F7**                        | Multi-Copy    | Copy the selected object multiple times      |
 | **End**                       | Snap to floor | Snap selected object to floor                |
 
-## **Other**
+## Other
 
 | Shortcut             | Input Name        | Function                                         |
 | -------------------- | ----------------- | ------------------------------------------------ |
 | **Return**           | Submit            | Submit the action                                |
 | **Escape**           | Cancel            | Cancel Pop-up Windows / Exit fullscreen View     |
 | **G**                | Toggle Grid       | Toggle the 2D grid                               |
-| **B**                | Add Camera        | Add a virtual camera from 3D viewpoint           |
+| **B**                | Add Camera        | Add a virtual camera from your current 3D viewpoint |
 | **Tab**              | Switch Inputfield | Switch between the input fields                  |
-| **CTRL + O**         | Open File         | Open a save file                                 |
+| **CTRL + O**         | Open File         | Open a saved file                                 |
 | **CTRL + S**         | Save Project      | Save a project / Quicksave                       |
 | **CTRL + A**         | Select All        | Select all objects in the scene                  |
 | **CTRL + SHIFT + A** | Deselect All      | Deselect all objects in the scene                |
