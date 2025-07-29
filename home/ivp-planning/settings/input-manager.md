@@ -17,4 +17,5 @@ Some functions can have multiple shortcuts assigned, e.g. the forward movement o
 ![](../../../.gitbook/assets/iVP_Planning_Settings_Input1.png)
 
 **Default** resets the [keyboard shortcuts](../keyboard-shortcuts.md) to the default settings.
+
 **Save** stores the [keyboard shortcuts](../keyboard-shortcuts.md).

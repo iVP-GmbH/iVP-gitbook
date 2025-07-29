@@ -20,7 +20,11 @@ Every object that is added to a project will get an associated entry in the hier
 
 ## Folders
 
-Folders can be used to optimize the structure of your project by grouping the objects you placed inside. They will be treated as a single parent object that can be colorized, locked or hidden as well. Locking and Hiding them will also affect all children objects inside - in the [2D View](../user-interface/the-2d-panel.md) and in the [3D View](../user-interface/the-3d-panel.md). Folders can only be accessed in the hierarchy panel.
+Folders can be used to optimize the structure of your project by grouping the objects you placed inside. They will be treated as a single parent object that can be colorized, locked or hidden as well. Locking and Hiding them will also affect all children objects inside - in the [2D View](../user-interface/the-2d-panel.md) and in the [3D View](../user-interface/the-3d-panel.md).
+
+{% hint style="info" %}
+Folders can only be accessed in the hierarchy panel.
+{% endhint %}
 
 ### Creating folders
 
@@ -36,8 +40,8 @@ The new folder will be placed at the bottom position of the current hierarchy. I
 
 Objects can be [moved](../machines/select-objects.md#selecting-objects-via-the-hierarchy) in the hierarchy via drag and drop. A white frame will indicate where the object will be placed. Drop an object onto another one to group it together with the target.
 
-| Drag | Drop |
-| ---- | ---- |
+| __Drag__ | __Drop__ |
+| --- | --- |
 | ![Hierarchy Move Drag](../../../.gitbook/assets/planning_hierarchy_moving_objects_drag.png) | ![Hierarchy Move Drop](../../../.gitbook/assets/planning_hierarchy_moving_objects_drop.png) |
 
 ## Lock/Unlock objects
@@ -64,9 +68,15 @@ Next to the already mentioned options to [colorize](#the-elements-of-the-panel),
 ![Hierarchy Context Menu](../../../.gitbook/assets/planning_hierarchy_context_menu.png)
 
 __Rename__ allows you to edit the name of the object.
+
 __Copy__ lets you copy the object (without its children).
+
 __Delete__ will remove the currently selected object(s).
+
 __Select Children__ allows you to select the object and its children.
+
 __Create folder from selection__ will create a new folder with the currently selected objects inside of it.
+
 __Mirror__ allows you to mirror the currently selected object(s) horizontally or vertically.
+
 __Reset Scale__ will set the [scale](../machines/scale-objects.md) value of the currently selected object(s) to its default values (usually 1 on all axes).
