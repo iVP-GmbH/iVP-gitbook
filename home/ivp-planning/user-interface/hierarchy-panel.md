@@ -38,7 +38,7 @@ Objects can be [moved](../machines/select-objects.md#selecting-objects-via-the-h
 
 ## Lock/Unlock objects
 
-To prevent objects from being [selected](../machines/select-objects.md#selecting-objects-in-the-2d--and-3d-panel) and [moved](../machines/move-objects.md) in the [2D View](the-2d-panel.md) and [3D View](the-3d-panel.md)  press the ![Hierarchy Lock](../../../.gitbook/assets/planning_hierarchy_panel_lock_unlock_machine.png) **Lock/Unlock Machine** button.
+To prevent objects from being [selected](../machines/select-objects.md#selecting-objects-in-the-2d--and-3d-panel) and [moved](../machines/move-objects.md) in the [2D View](the-2d-panel.md) and [3D View](the-3d-panel.md)  press the ![Hierarchy Lock](../../../.gitbook/assets/planning_hierarchy_panel_lock_unlock_machine_small.png) **Lock/Unlock Machine** button.
 
 Alternatively **right click** a selected object to open the context menu and lock the selected object(s).
 
@@ -46,7 +46,7 @@ Alternatively **right click** a selected object to open the context menu and loc
 
 ## Hide/unhide objects
 
-To hide or show one or more objects, [select](../machines/select-objects.md#selecting-objects-via-the-hierarchy) them and press the ![Hierarchy Visibility](../../../.gitbook/assets/planning_hierarchy_panel_hide_unhide_machine.png) **Hide/Unhide Machine** button.
+To hide or show one or more objects, [select](../machines/select-objects.md#selecting-objects-via-the-hierarchy) them and press the ![Hierarchy Visibility](../../../.gitbook/assets/planning_hierarchy_panel_hide_unhide_machine_small.png) **Hide/Unhide Machine** button.
 
 Alternatively you can right click a selected object and use the context menu to change the visibility of any selected object.
 
