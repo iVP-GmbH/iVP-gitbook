@@ -25,7 +25,7 @@ The course of a fence can be changed by [editing the path](path-tool.md#path-sel
 
 ## Doors and pass-troughs:
 
-It is possible to add doors or pass-troughs to fences which will automatically be adapted when the fence changes in length or direction. To place one, **right-click** on a **path point** of a selected path in the [2D-panel](../user-interface/the-2d-panel.md), go to **Place Module**, and choose **"Door"**, **"Pass-through"**, **Fence** or **Light Barrier** from the menu.
+It is possible to add doors or pass-troughs to fences which will automatically be adapted when the fence changes in length or direction. To place one, **right-click** on a **path point** of a selected path in the [2D-panel](../user-interface/the-2d-view.md), go to **Place Module**, and choose **"Door"**, **"Pass-through"**, **Fence** or **Light Barrier** from the menu.
 
 ![](../../../.gitbook/assets/iVP_Planning_AdvancedTools_FenceTool_2DPanel_Module.png)
 
