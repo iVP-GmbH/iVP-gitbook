@@ -1,5 +1,9 @@
-# iVP Hub
+---
+title: iVP Hub
+description: The iVP Hub is the core tool to manage all of your iVP applications and stay up to date with our latest developments.
+---
 
-The iVP Hub is the central tool to manage all iVP applications on your computer or tablet. It is required to [activate licenses](application-management/license-activation.md) and [install](application-management/install-applications.md) iVP software. It will ensure that your programs will always be [up to date](application-management/installation-updates.md) and it offers you a [news feed](ivp-news.md) that you can use to stay informed about new features and content.
+![iVP Hub Default](../../.gitbook/assets/hub_default.png)
 
-![](../../.gitbook/assets/launcher_default.jpg)
+The iVP Hub allows you to manage and maintain your iVP software. You can [install](./application-management/install-applications.md) or [uninstall](./application-management/remove-installations.md) applications, [activate licenses](./application-management/license-activation.md), [update](./application-management/installation-updates.md) your iVP software and [repair](./application-management/repair-installations.md) installations.
+Furthermore the iVP Hub offers you a [news feed](./ivp-news.md) to stay informed about new software features and developments.
