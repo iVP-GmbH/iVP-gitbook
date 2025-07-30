@@ -1,5 +1,5 @@
 ---
-title: Welcome to iVP
+title: Welcome to the iVP Helpdesk
 description: The Helpdesk of iVP offers you an overview of our applications and their possibilities.
 ---
 
