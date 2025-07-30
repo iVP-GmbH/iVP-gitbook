@@ -19,7 +19,7 @@ That's it. From here you can continue to the pages of the [individual applicatio
 
 After everything is set up and ready to go we recommend you to have a look at the pages of the individual applications.
 
-<table data-view="cards">
+<table data-view="cards" style="width:100%">
     <thead>
         <tr>
             <th></th>
