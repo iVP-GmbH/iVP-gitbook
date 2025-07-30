@@ -1,10 +1,6 @@
 ---
-description: >-
-  ???
+title: iVP Stage
+description: Your real-time 3D presentation software for industrial machines and products.
 ---
 
-# iVP Stage
-
-<figure><img src="../../.gitbook/assets/???" alt="Logo iVP Stage"><figcaption></figcaption></figure>
-
-???
+Coming soon.
