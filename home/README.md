@@ -25,7 +25,7 @@ description: With iVP you have a software platform at hand that enables the visu
                 <a href="./ivp-hub/">./ivp-hub/</a>
             </td>
             <td>
-                <a href="../.gitbook/assets/hub_icon.png">hub_icon.png</a>
+                <a href=".gitbook/assets/hub_icon.png">hub_icon.png</a>
             </td>
         </tr>
         <tr>
@@ -39,7 +39,7 @@ description: With iVP you have a software platform at hand that enables the visu
                 <a href="./ivp-planning/">./ivp-planning/</a>
             </td>
             <td>
-                <a href="../.gitbook/assets/planning_icon.png">planning_icon.png</a>
+                <a href=".gitbook/assets/planning_icon.png">planning_icon.png</a>
             </td>
         </tr>
         <tr>
@@ -53,7 +53,7 @@ description: With iVP you have a software platform at hand that enables the visu
                 <a href="./ivp-stage/">./ivp-stage/</a>
             </td>
             <td>
-                <a href="../.gitbook/assets/stage_icon.png">stage_icon.png</a>
+                <a href=".gitbook/assets/stage_icon.png">stage_icon.png</a>
             </td>
         </tr>
     </tbody>
