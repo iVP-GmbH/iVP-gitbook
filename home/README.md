@@ -22,7 +22,7 @@ description: With iVP you have a software platform at hand that enables the visu
                 Manage your iVP applications
             </td>
             <td>
-                <a href="./ivp-hub/README.md">./ivp-hub/</a>
+                <a href="./ivp-hub/">./ivp-hub/</a>
             </td>
             <td>
                 <a href="../.gitbook/assets/hub_icon.png">hub_icon.png</a>
@@ -36,7 +36,7 @@ description: With iVP you have a software platform at hand that enables the visu
                 Plan your facilities in 2D and 3D in real-time
             </td>
             <td>
-                <a href="./ivp-planning/README.md">./ivp-planning/</a>
+                <a href="./ivp-planning/">./ivp-planning/</a>
             </td>
             <td>
                 <a href="../.gitbook/assets/planning_icon.png">planning_icon.png</a>
@@ -50,7 +50,7 @@ description: With iVP you have a software platform at hand that enables the visu
                 Present your customizable products interactively in 3D
             </td>
             <td>
-                <a href="./ivp-stage/README.md">./ivp-stage/</a>
+                <a href="./ivp-stage/">./ivp-stage/</a>
             </td>
             <td>
                 <a href="../.gitbook/assets/stage_icon.png">stage_icon.png</a>
@@ -58,11 +58,3 @@ description: With iVP you have a software platform at hand that enables the visu
         </tr>
     </tbody>
 </table>
-
-<!--
-## Our applications
-
-* [iVP Hub](/home/ivp-hub/)
-* [iVP Planning](/home/ivp-planning/)
-* [iVP Stage](/home/ivp-stage/)
--->
