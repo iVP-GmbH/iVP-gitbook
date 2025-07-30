@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to iVP](README.md)
+* [Welcome to the iVP Helpdesk](README.md)
 * [intelligent Virtual Platform](home/README.md)
   * [iVP Hub](home/ivp-hub/README.md)
     * [Getting Started](home/ivp-hub/getting-started.md)
