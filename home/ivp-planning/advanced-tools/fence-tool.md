@@ -41,6 +41,6 @@ Pass-troughs have a flexible width, they always span from the selected point to 
 
 To change the material of a fence, select the fence object and go to the [Properties Panel](../user-interface/the-properties-panel.md). Scroll down to the **Fence** section and open the **Material** dropdown. You can choose between **Wire Mesh** and **Glass**. The selected material will be instantly applied to the fence.
 
-![](../../../.gitbook/assets/iVP_Planning_AdvancedTools_FenceTool_MaterialGlass)
+![](../../../.gitbook/assets/iVP_Planning_AdvancedTools_FenceTool_MaterialGlass.png)
 
 
