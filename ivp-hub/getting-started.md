@@ -13,7 +13,7 @@ It only takes a couple of steps to install and configure the iVP Hub - and from 
 4. [Install and manage](./application-management/) your iVP applications
 5. Have a look at the [iVP News](./ivp-news.md)
 
-That's it. From here you can continue to the pages of the [individual applications](getting-started.md#next-steps) or just start to use and explore your iVP software.
+That's it. From here you can continue to the pages of the individual applications or just start to use and explore your iVP software.
 
 ## Next steps
 
@@ -37,7 +37,7 @@ After everything is set up and ready to go we recommend you to have a look at th
                 Plan your facilities in 2D and 3D in real-time
             </td>
             <td>
-                <a href="ivp-planning/">./ivp-planning/</a>
+                <a href="../ivp-planning/">../ivp-planning/</a>
             </td>
             <td>
                 <a href="../.gitbook/assets/planning_icon.png">planning_icon.png</a>
@@ -51,7 +51,7 @@ After everything is set up and ready to go we recommend you to have a look at th
                 Present your customizable products interactively in 3D
             </td>
             <td>
-                <a href="ivp-stage/">./ivp-stage/</a>
+                <a href="../ivp-stage/">../ivp-stage/</a>
             </td>
             <td>
                 <a href="../.gitbook/assets/stage_icon.png">stage_icon.png</a>
