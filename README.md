@@ -68,3 +68,5 @@ The iVP Helpdesk provides you with step-by-step guides, tips and information to 
 Do you prefer personalized support, individual tutorials, or workshops tailored to your needs?  
 Feel free to contact our [support team](mailto:support@i-vp.dev) at any time.
 {% endhint %}
+
+<!-- Comment to force update -->
