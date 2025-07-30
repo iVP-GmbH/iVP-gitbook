@@ -1,6 +1,6 @@
 ---
-title: Welcome to the Helpdesk of iVP
-description: The Helpdesk offers you an overview of our iVP applications and their possibilities.
+title: Welcome to iVP
+description: The Helpdesk of iVP offers you an overview of our applications and their possibilities.
 ---
 
 ![iVP Online User Manual](../.gitbook/assets/iVP_online_user_manual.png)

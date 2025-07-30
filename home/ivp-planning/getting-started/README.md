@@ -14,8 +14,8 @@ This short, interactive introduction to iVP Planning will give a compact runthro
 
 **1.** Activation and installation:
 
-* [Activation](../../ivp-launcher/application-management/license-activation.md)
-* [Installation](../../ivp-launcher/application-management/install-applications.md)
+* [Activation](../../ivp-hub/application-management/license-activation.md)
+* [Installation](../../ivp-hub/application-management/install-applications.md)
 * [Login](../getting-started/login.md)
 
 **2.** Language and graphic options:
