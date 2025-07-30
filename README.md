@@ -22,7 +22,7 @@ description: The Helpdesk of iVP offers you an overview of our applications and 
                 Manage your iVP applications
             </td>
             <td>
-                <a href="./home/ivp-hub/">./ivp-hub/</a>
+                <a href="./home/ivp-hub/">./home/ivp-hub/</a>
             </td>
             <td>
                 <a href=".gitbook/assets/hub_icon.png">hub_icon.png</a>
@@ -36,7 +36,7 @@ description: The Helpdesk of iVP offers you an overview of our applications and 
                 Plan your facilities in 2D and 3D in real-time
             </td>
             <td>
-                <a href="./home/ivp-planning/">./ivp-planning/</a>
+                <a href="./home/ivp-planning/">./home/ivp-planning/</a>
             </td>
             <td>
                 <a href=".gitbook/assets/planning_icon.png">planning_icon.png</a>
@@ -50,7 +50,7 @@ description: The Helpdesk of iVP offers you an overview of our applications and 
                 Present your customizable products interactively in 3D
             </td>
             <td>
-                <a href="./home/ivp-stage/">./ivp-stage/</a>
+                <a href="./home/ivp-stage/">./home/ivp-stage/</a>
             </td>
             <td>
                 <a href=".gitbook/assets/stage_icon.png">stage_icon.png</a>
@@ -68,5 +68,3 @@ The iVP Helpdesk provides you with step-by-step guides, tips and information to 
 Do you prefer personalized support, individual tutorials, or workshops tailored to your needs?  
 Feel free to contact our [support team](mailto:support@i-vp.dev) at any time.
 {% endhint %}
-
-<!-- Comment to force update -->
