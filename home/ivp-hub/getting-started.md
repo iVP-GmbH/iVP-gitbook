@@ -4,7 +4,7 @@ It only takes a couple of steps to install and configure the iVP Hub - and from 
 
 ## Quick start:
 
-1. [Install the iVP Hub](launcher-installation.md)
+1. [Install the iVP Hub](hub-installation.md)
 2. [Create an account](account-management/account-creation.md) or [log in](account-management/login.md) if you already have login credentials
 3. [Change the launcher language](settings/launcher-language.md) (if you want to - you can choose between English and German)\
 4. [Activate your iVP applications](application-management/license-activation.md)

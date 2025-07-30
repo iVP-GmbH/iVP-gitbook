@@ -4,7 +4,7 @@
 * [intelligent Virtual Platform](home/README.md)
   * [iVP Hub](home/ivp-hub/README.md)
     * [Getting Started](home/ivp-hub/getting-started.md)
-    * [Hub Installation](home/ivp-hub/launcher-installation.md)
+    * [Hub Installation](home/ivp-hub/hub-installation.md)
     * [Account Management](home/ivp-hub/account-management/README.md)
       * [Account Creation](home/ivp-hub/account-management/account-creation.md)
       * [Login](home/ivp-hub/account-management/login.md)
