@@ -1,31 +1,43 @@
-# Hub Installation
+---
+title: Hub Installation
+description: A step-by-step guide to install the iVP Hub.
+---
 
-**1.** To start the installation, double click on the .exe file you received.
+The iVP Hub comes with a common installer to guide you through the installation process step-by-step and to configure basic installation settings on the way.
 
-![](../../.gitbook/assets/iVP\_launcher\_exe.jpg)
+## Start the installer
+To start the installation double click on the .exe file of the iVP Hub installer.
 
-**2.** The setup is available in English and German. You can change the language by clicking on the drop-down and selecting the language you want.
+![iVP Hub Installation - Start the installer](../../.gitbook/assets/hub_installer.png)
 
-![](../../.gitbook/assets/iVP\_launcher\_installation\_language\_selection.jpg)
+## Set the language
+The setup is available in English and German. You can change the language by clicking on the drop-down and selecting your preferred option.
 
-**3.** Before the installation, you should have a look at the End-User License Agreement that contains all details concerning legal aspects and usage limitations. If you click on the "Next" button and continue the installation, we assume that you agree.
+![iVP Hub Installation - Set the language](../../.gitbook/assets/hub_installation_language.png)
 
-![](../../.gitbook/assets/iVP\_launcher\_installation\_agreement.jpg)
+## Read the license
+Before procedding with the installation we recommend to have a look at the End-User License Agreement that contains all details concerning legal aspects and usage limitations. By clicking on the __Next__ button to continue with the installation you confirm to the terms and regulations of the End-User License Agreement.
 
-**4.** If desired, the iVP Hub can create a desktop shortcut on your computer so that you can start the program directly from your home screen. If you want this, tick the checkbox.
+![iVP Hub Installation - Read the license](../../.gitbook/assets/hub_installation_license.png)
 
-![](../../.gitbook/assets/iVP\_launcher\_installation\_desktop\_shortcut.jpg)
+## Create a desktop shortcut
+You can choose if the installer creates a desktop shortcut on your computer's desktop by activating/deactivating the checkbox.
 
-**5.** Now the iVP Hub is ready for installation. To start the process, simply click on "Install".
+![iVP Hub Installation - Create a desktop shortcut](../../.gitbook/assets/hub_installation_desktop_shortcut.png)
+
+## Confirm the installation
+Now the iVP Hub is ready for installation. To start the process click the __Install__ button.
 
 {% hint style="info" %}
-Due to the technical structure of the VP Hub it is not possible to choose an individual installation folder.
+Due to the technical structure of the iVP Hub and the iVP applications it is not possible to choose a custom installation folder.
 {% endhint %}
 
-![](../../.gitbook/assets/iVP\_launcher\_installation\_ready\_to\_install.jpg)
+![iVP Hub Installation - Confirm the installation](../../.gitbook/assets/hub_installation_confirm.png)
 
-**6.** After the installation finished, you can choose whether the hub will be started immediately after exiting the setup or not. To deactivate the start, uncheck the checkbox.
+## Launch after install
+After the installation process you can choose whether to launch the iVP Hub immediately after exiting the installer by activating/deactivating the checkbox and click the __Finish__ button.
 
-![](../../.gitbook/assets/iVP\_launcher\_installation\_launch\_after\_install.jpg)
+![iVP Hub Installation - Launch after install](../../.gitbook/assets/hub_installation_launch.png)
 
-**7.** However you decide, the iVP Hub is now installed and ready to use. You can now continue and [create an account](account-management/account-creation.md) or [log in](account-management/login.md) if you already have login credentials. After that, you will be ready to [download and use](application-management/install-applications.md) the different tools of the iVP software family. Enjoy!
+## Next steps
+Whatever you decide the iVP Hub is now installed and ready to use. You can continue and [create an account](./account-management/account-creation.md) or [log in](./account-management/login.md) if you already created one. After that you will be ready to [download and use](./application-management/install-applications.md) the different tools of the iVP software family. Enjoy!
