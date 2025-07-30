@@ -109,7 +109,7 @@
       * [Beta](home/ivp-planning/changelog/beta.md)
     * [3rd Party Licenses](home/ivp-planning/open-source-licensing.md)
     * [Troubleshooting](home/ivp-planning/troubleshooting/troubleshooting.md)
-  * [iVP Stage](home/ivp-stage.md)
+  * [iVP Stage](home/ivp-stage/README.md)
   * [iVP Customer Service](home/ivp-customer-service/README.md)
     * [Create a Service Entry](home/ivp-customer-service/create-feature-request.md)
     * [View Service Entries](home/ivp-customer-service/view-feature-requests.md)

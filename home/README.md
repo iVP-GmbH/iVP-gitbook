@@ -22,7 +22,7 @@ description: With iVP you have a software platform at hand that enables the visu
                 Manage your iVP applications
             </td>
             <td>
-                <a href="./ivp-launcher/README.md">./ivp-launcher/README.md</a>
+                <a href="./ivp-launcher/README.md">./ivp-launcher/</a>
             </td>
             <td>
                 <a href="../.gitbook/assets/hub_icon.png">hub_icon.png</a>
@@ -36,7 +36,7 @@ description: With iVP you have a software platform at hand that enables the visu
                 Plan your facilities in 2D and 3D
             </td>
             <td>
-                <a href="./ivp-planning/README.md">./ivp-planning/README.md</a>
+                <a href="./ivp-planning/README.md">./ivp-planning/</a>
             </td>
             <td>
                 <a href="">planning_icon.png</a>
@@ -50,7 +50,7 @@ description: With iVP you have a software platform at hand that enables the visu
                 Present your customizable products in 3D
             </td>
             <td>
-                <a href="./ivp-stage/README.md">./ivp-stage/README.md</a>
+                <a href="./ivp-stage/README.md">./ivp-stage/</a>
             </td>
             <td>
                 <a href="">stage_icon.png</a>
