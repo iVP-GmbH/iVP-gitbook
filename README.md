@@ -3,20 +3,6 @@ title: Welcome to iVP
 description: The Helpdesk of iVP offers you an overview of your iVP applications and their possibilities.
 ---
 
-![Welcome to the iVP Helpdesk](./.gitbook/assets/iVP_online_user_manual.png)
-
-With iVP you have a software platform at hand that enables the visual planning and configuration of machines and system concepts in 2D as well as 3D.
-
-The iVP Helpdesk provides you with step-by-step guides, tips and information to help you get the most out of your software. We will also assist you with any further inquiries, requests or suggestions.
-
-{% hint style="info" %}
-**Would you like to dive deeper into the features of iVP and make better use of it in your company?**  
-Do you prefer personalized support, individual tutorials, or workshops tailored to your needs?  
-Feel free to contact our [support team](mailto:support@i-vp.dev) at any time.
-{% endhint %}
-
-## iVP - intelligent Virtual Platform
-
 <!-- Table layout with 3 cards -->
 <table data-view="cards">
     <thead>
@@ -72,3 +58,13 @@ Feel free to contact our [support team](mailto:support@i-vp.dev) at any time.
         </tr>
     </tbody>
 </table>
+
+With iVP you have a software platform at hand that enables the visual planning and configuration of machines and system concepts in 2D as well as 3D.
+
+The iVP Helpdesk provides you with step-by-step guides, tips and information to help you get the most out of your software. We will also assist you with any further inquiries, requests or suggestions.
+
+{% hint style="info" %}
+**Would you like to dive deeper into the features of iVP and make better use of it in your company?**  
+Do you prefer personalized support, individual tutorials, or workshops tailored to your needs?  
+Feel free to contact our [support team](mailto:support@i-vp.dev) at any time.
+{% endhint %}
