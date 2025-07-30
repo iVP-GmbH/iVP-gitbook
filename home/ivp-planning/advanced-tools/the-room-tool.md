@@ -8,14 +8,18 @@ The room tool is a special variant of the [path tool](path-tool.md). We recommen
 
 ## Creating a room:
 
-Rooms are based on measurements which can be created with the [path tool](path-tool.md). Afterwards, every path can be turned into a room by **changing the type ** under the Measurments foldout of the [properties](../user-interface/the-info-panel.md) that is displayed as soon as a path is [selected](path-tool.md#path-selection-and-editing).
+Rooms are created based on measurements defined using the [Path Tool](path-tool.md).  
+To convert a path into a fence, first [select the path](path-tool.md#path-selection-and-editing).  
+Then open the [Properties Panel](../user-interface/the-properties-panel.md), expand the **Measurement** section, and set the **Type** to **Room**.
 
-![](../../../.gitbook/assets/iVP\_fence\_tool\_create\_room.jpg)
+![](../../../.gitbook/assets/iVP_Planning_AdvancedTools_RoomTool.png)
 
-Alternatively, it is possible to **right click** on the desired path, followed by a **click on "Room"**. This will convert the path into a fence as well.
+Alternatively, you can convert a path into a room by **right-clicking** on the desired path in the [Hierarchy Panel](../user-interface/hierarchy-panel.md). Then **hover over "Convert path"** and select **Room** from the submenu.  
+This will also convert the path into a room.
 
-![](../../../.gitbook/assets/iVP\_fence\_tool\_right\_click\_menu\_to\_room.jpg)
+![](../../../.gitbook/assets/iVP_Planning_AdvancedTools_RoomTool_HierarchyPanel.png)
 
+![](../../../.gitbook/assets/iVP_Planning_AdvancedTools_RoomTool_Room.png)
 
 ## Editing the room shape:
 
@@ -37,7 +41,7 @@ Pass-troughs have a flexible width, they always span from the selected point to 
 
 ## Room customization:
 
-Rooms can be customized in various ways under the Measurments foldout of the [properties](../user-interface/the-info-panel.md) if 'Type' has been changed to room. Options are:
+Rooms can be customized in various ways under the Measurments foldout of the [Properties Panel](../user-interface/the-properties-panel.md) if 'Type' has been changed to room. Options are:
 
 * Wall visibility, material and dimensions
 * Window visibility, dimensions, spacing and offset

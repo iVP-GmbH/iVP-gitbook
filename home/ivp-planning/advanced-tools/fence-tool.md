@@ -6,19 +6,18 @@ The fence tool can be used to quickly generate fences without the need to work w
 The fence tool is a special variant of the [path tool](path-tool.md). We recommend to read the [path tool ](path-tool.md)section of this manual first.
 {% endhint %}
 
-## Creating a fence:
+## Creating a Fence
 
-Fences are based on measurements which can be created with the [path tool](path-tool.md). Afterwards, every path can be turned into a fence by **changing the 'Type' into Fence** that is displayed under 'Measurements' as soon as a path is [selected](path-tool.md#path-selection-and-editing).
+Fences are created based on measurements defined using the [Path Tool](path-tool.md).  
+To convert a path into a fence, first [select the path](path-tool.md#path-selection-and-editing).  
+Then open the [Properties Panel](../user-interface/the-properties-panel.md), expand the **Measurement** section, and set the **Type** to **Fence**.
 
-![](../../../.gitbook/assets/iVP\_fence\_tool\_create\_fence.jpg)
+![](../../../.gitbook/assets/iVP_Planning_AdvancedTools_FenceTool_PropertiesPanel.png)
 
-Alternatively, it is possible to **right click** on the desired path, followed by a **click on "Fence"**. This will convert the path into a fence as well.
+Alternatively, you can convert a path into a fence by **right-clicking** on the desired path in the [Hierarchy Panel](../user-interface/hierarchy-panel.md). Then **hover over "Convert path"** and select **"Fence"** from the submenu.  
+This will also convert the path into a fence.
 
-![](../../../.gitbook/assets/iVP\_fence\_tool\_right\_click\_menu\_to\_fence.jpg)
-
-Fences can be identified by the fence icon that is displayed next to their name.
-
-![](../../../.gitbook/assets/iVP\_fence\_tool\_fence\_icon.jpg)
+![](../../../.gitbook/assets/iVP_Planning_AdvancedTools_FenceTool_HierarchyPanel.png)
 
 ## Editing the fence course:
 
@@ -26,22 +25,22 @@ The course of a fence can be changed by [editing the path](path-tool.md#path-sel
 
 ## Doors and pass-troughs:
 
-It is possible to add doors or pass-troughs to fences which will automatically be adapted when the fence changes in length or direction. To add one, right **click on a path point** of a selected path in the [2D View](../user-interface/the-2d-view.md) and choose **"Door"** or **"Pass-through"** from the appearing menu.
+It is possible to add doors or pass-troughs to fences which will automatically be adapted when the fence changes in length or direction. To place one, **right-click** on a **path point** of a selected path in the [2D-panel](../user-interface/the-2d-view.md), go to **Place Module**, and choose **"Door"**, **"Pass-through"**, **Fence** or **Light Barrier** from the menu.
 
-![](../../../.gitbook/assets/iVP\_fence\_tool\_fence\_right\_click\_point\_options.jpg)
+![](../../../.gitbook/assets/iVP_Planning_AdvancedTools_FenceTool_2DPanel_Module.png)
 
 Doors are always placed on the right side of the path point and have a fixed width.
 
-![](../../../.gitbook/assets/iVP\_fence\_tool\_fence\_door.jpg)
+![](../../../.gitbook/assets/iVP_Planning_AdvancedTools_FenceTool_ModulDoor.png)
 
 Pass-troughs have a flexible width, they always span from the selected point to the next point on its right side.
 
-![](../../../.gitbook/assets/iVP\_fence\_tool\_fence\_passthrough.jpg)
+![](../../../.gitbook/assets/iVP_Planning_AdvancedTools_FenceTool_ModulPassthrough.png)
 
 ## Fence types and materials:
 
-It is possible to change the material of the fence. To do so, **choose an option from the list**.
+To change the material of a fence, select the fence object and go to the [Properties Panel](../user-interface/the-properties-panel.md). Scroll down to the **Fence** section and open the **Material** dropdown. You can choose between **Wire Mesh** and **Glass**. The selected material will be instantly applied to the fence.
 
-![](../../../.gitbook/assets/iVP\_fence\_tool\_create\_fence.jpg)
+![](../../../.gitbook/assets/iVP_Planning_AdvancedTools_FenceTool_MaterialGlass.png)
 
-![](../../../.gitbook/assets/iVP\_fence\_tool\_fence\_types.jpg)
+
