@@ -7,7 +7,7 @@ All iVP applications can be installed and [updated](./installation-updates.md) d
 
 ## Select an application
 
-Got to the __Application__ tab of the iVP Hub and click on the application you want to install.
+Open the __Application__ tab of the iVP Hub and click on the application you want to install.
 
 ![Select an application](../../../.gitbook/assets/hub_application.png)
 

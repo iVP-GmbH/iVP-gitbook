@@ -1,13 +1,13 @@
 ---
 title: Repair installations
-description: How to repair an installation of an application.
+description: How to repair an installation of an iVP application.
 ---
 
 If you repeatedly encounter a serious issue like a crash or freeze of your application it could originate from a corrupted application installation. By repairing an installation you can fix this issue without the need of a re-installation.
 
 ## Select an application
 
-Got to the __Application__ tab of the iVP Hub and click on the application you want to repair.
+Open the __Application__ tab of the iVP Hub and click on the application you want to repair.
 
 ![Select an application](../../../.gitbook/assets/hub_application.png)
 

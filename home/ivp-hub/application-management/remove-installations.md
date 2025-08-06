@@ -1,17 +1,18 @@
-# Remove Installations
+---
+title: Remove Installations
+description: How to remove an installation of an iVP application.
+---
 
-It is possible to remove iVP applications from your computer or tablet at any time.
+It is possible to remove an iVP application from your computer or tablet at any time.
 
-## Step by step:
+## Select an application
 
-**1.** Got to the "Application" tab of the iVP Launcher and click on the application you want to remove.
+Open the __Application__ tab of the iVP Hub and click on the application you want to remove.
 
-![](../../../.gitbook/assets/launcher_applications.jpg)
+![Select an application](../../../.gitbook/assets/hub_application.png)
 
-**2.** In the bottom right corner click on the grey "Options" button and choose "Uninstall" from the appearing menu.
+## Uninstall the application
 
-![](../../../.gitbook/assets/launcher_application_options.jpg)
+In the bottom right corner click the grey __Options__ button and choose __Uninstall__ from the options menu. The iVP Hub will then remove the application from your system.
 
-![](../../../.gitbook/assets/launcher_application_options_menu_uninstall.jpg)
-
-**3.** The launcher will now remove the application from your system. There is no further action required.
+![Uninstall the application](../../../.gitbook/assets/hub_remove.png)
