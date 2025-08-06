@@ -1,33 +1,42 @@
-# Reset Or Change Password
+---
+title: Reset or Change Password
+description: How to reset or change the password for your iVP Hub account.
+---
 
-In case you forgot your password or you want to change it, it is possible to request a reset link via your account e-mail.
-
-## Reset password:
-
-**1.** To reset a password, first start the iVP Hub and wait until the login window appears. At the bottom of the window, click on the "Forget your password?" link.
-
-![](../../../.gitbook/assets/iVP\_launcher\_login\_forgot\_password.jpg)
-
-**2.** You will now be forwarded to a web page that will open in the default browser. Alternatively, if the link will not be opened automatically, you can also click on the "Copy link" button and open the link manually in a browser of your choice.
-
-![](<../../../.gitbook/assets/iVP\_launcher\_reset\_password\_message (1).jpg>)
-
-**3.** In your browser enter your account e-mail in the "Email" field of the page and press "RECOVER PASSWORD".
-
-![](../../../.gitbook/assets/iVP\_launcher\_recover\_password.jpg)
-
-**4.** You will now receive an e-mail with the subject "intelligent Virtual Platform account recovery". By clicking on the link in this e-mail you will be forwarded to a webpage where you can enter the new password.
+In case you forgot the password for your iVP Hub account or you want to change it, it is possible to request a reset link via your account's e-mail address.
 
 {% hint style="info" %}
-If the e-mail does not arrive in your inbox in a couple of minutes, you should check you spam folder.
+If your [__Remember me__](../settings/remember-me-option.md) option is active you might have to [log out](./logout.md) first to get to the [login window](./login.md).
 {% endhint %}
 
-![](../../../.gitbook/assets/iVP\_launcher\_recover\_password\_web\_interface.jpg)
+## Request a password reset
 
-**5.** Now that the password was changed, you can switch back to the login window of the hub and enter your new credentials (click on "Back to login to go back to the login).
+To reset your password start the iVP Hub and wait until the login window appears. At the bottom of the window click the __Forgot your password?__ link.
 
-![](../../../.gitbook/assets/iVP\_launcher\_recover\_password\_mail\_sent.jpg)
+![Request a password reset](../../../.gitbook/assets/hub_forgot_password.png)
 
-## Change password:
+You will then be forwarded to a web page that will open in the default browser. If the link does not open automatically you can also click on the __Copy link__ button and open the link manually in a browser of your choice.
 
-To change your password, you have to take the same steps as if you [forgot your password](reset-account-password.md#reset-password). However, if you have the ["Remember me" option](../settings/remember-me-option.md) active, you might have to [log out](logout.md) first to get to the [login window](login.md).
+![Copy link](../../../.gitbook/assets/hub_copy_link.png)
+
+## Provide your e-mail address and recover your password
+
+In your browser window enter the e-mail address of your iVP Hub account into the field labelled __Email__. Verify there are no typographic errors and click the __RECOVER PASSWORD__ button.
+
+![Provide your e-mail address and recover password](../../../.gitbook/assets/hub_recover_password.png)
+
+## Check your e-mail inbox and reset your password
+
+You will now receive an e-mail with the subject __intelligent Virtual Platform account recovery__. By clicking on the link in this e-mail you will be forwarded to a web page where you can enter a new password.
+
+{% hint style="info" %}
+If the e-mail does not arrive in your inbox in a couple of minutes you should check your spam folder before clicking the __RESEND MESSAGE__ button.
+{% endhint %}
+
+![Reset your password](../../../.gitbook/assets/hub_reset_password.png)
+
+## Get back to the iVP Hub
+
+After resetting your password you can switch back to the login window of the hub and enter your new credentials by clicking the __Back to login__ button.
+
+![Back to the login of the iVP Hub](../../../.gitbook/assets/hub_back_to_login.png)

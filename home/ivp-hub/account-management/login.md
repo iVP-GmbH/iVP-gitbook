@@ -23,7 +23,7 @@ Remember that the password will be visible to anyone who can watch your screen, 
 
 ## Remember me
 
-If you prefer not not login every time you start the iVP Hub you can check the __Remember me__ option so your credentials will be stored locally for more convenient login.
+If you prefer not not login every time you start the iVP Hub you can check the __Remember me__ option so your credentials will be stored locally for a more convenient login procedure.
 
 ![Remember me](../../../.gitbook/assets/hub_login_remember_me.png)
 
