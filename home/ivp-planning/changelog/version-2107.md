@@ -1,4 +1,7 @@
-# Version 2107
+---
+title: Version 2105
+description: Changelog of version 2107
+---
 
 ## 2107.0
 _2021-07-09_
@@ -30,7 +33,7 @@ _2021-07-09_
   * CENTATEQ P-210 (BMG 210)
   * CENTATEQ P-310 (BMG 310)
   * DRILLTEQ C-500
-* Added 1500mm width configuration to PAQTEQ C-250 (VKS 250)&#x20;
+* Added 1500mm width configuration to PAQTEQ C-250 (VKS 250)
 * Disabled mirroring for following machines:
   * MOVETEQ W-100 (WTW 060)
   * STOCKTEQ V-300

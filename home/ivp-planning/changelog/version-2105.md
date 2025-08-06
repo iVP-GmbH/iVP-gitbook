@@ -1,4 +1,7 @@
-# Version 2105
+---
+title: Version 2105
+description: Changelog of version 2105
+---
 
 ## 2105.4
 _2021-05-26_
@@ -140,7 +143,7 @@ _2021-05-03_
   * Essepiggi Undefined
   * Fanuc Robo Arm
   * Felder AD 531
-  * Festool Energy Box&#x20;
+  * Festool Energy Box
   * Festool KAPEX KS 120
   * Four Side Moulder
   * Framepress
@@ -281,7 +284,7 @@ _2021-05-03_
 ### Fixed
 
 * Paths have the wrong height when loading
-* Renaming of Kantenregal & Sortierregal &#x20;
+* Renaming of Kantenregal & Sortierregal 
 * TFB-261 Static working height clamps & measurements
 * Mirroring machines' dimensions in 2D View makes changes to opposite side
 * Changing machines' length in 2D View uses middle pivot instead of dragged side

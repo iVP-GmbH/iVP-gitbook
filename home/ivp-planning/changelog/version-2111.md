@@ -1,13 +1,16 @@
+---
+title: Version 2111
+description: Changelog of version 2111
+---
+
 # Version 2111
 
-![](../../../.gitbook/assets/210923\_B320\_v2\_01\_white.jpg)
+![Changelog of version 2111](../../../.gitbook/assets/planning_changelog_2111.png)
 
-​
-
-## Version 2111.2 <a href="#version-2111.1-2021-11-12" id="version-2111.1-2021-11-12"></a>
+## Version 2111.2
 _2021-12-17_
 
-### Added <a href="#added" id="added"></a>
+### Added
 
 * SAWTEQ B-320 FlexTec (new incl. customization)
 * EDGETEQ T-100
@@ -21,7 +24,7 @@ _2021-12-17_
 * Messstation (new incl. customization)
 * Waste Removal (Chinese Market only)
 
-### Updated <a href="#changed" id="changed"></a>
+### Updated
 
 * CABTEQ S-200 (3 customization updates)
 * CABTEQ S-250 (47 customization updates)
@@ -33,13 +36,11 @@ _2021-12-17_
 * Kantenbandregal
 * Sortierregal
 
-### Fixed <a href="#fixed" id="fixed"></a>
+### Fixed
 
 * Performance Optimization on Trolleys
 
-
-
-![](<../../../.gitbook/assets/2111.1 (1).png>)
+![Changelog of version 2111.1](../../../.gitbook/assets/planning_changelog_2111_1.png)
 
 ## Version 2111.1
 _2021-11-12_

@@ -1,87 +1,90 @@
-# Beta
+---
+title: Beta
+description: Changelog of the beta version
+---
 
 ## 2102
 _2021-02-23_
 
-### **New Tools**
+### New Tools
 
-* New 3D assets: Weinmann &#x20;
-* New 3D assets: CNC (currently still work in progress)&#x20;
-* Video Export (Rev. 0.1 beta)&#x20;
-* Path Tool (Rev. 1)&#x20;
-* New User Interface&#x20;
+* New 3D assets: Weinmann 
+* New 3D assets: CNC (currently still work in progress)
+* Video Export (Rev. 0.1 beta)
+* Path Tool (Rev. 1)
+* New User Interface
 
-### **Added**&#x20;
+### Added
 
-* Beamteq B-660, Buildteq&#x20;
-* A-570 (WTZ-120)&#x20;
-* Buildteq F-500 (WTD)&#x20;
-* Feedteq H-300&#x20;
-* Frameteq F-500 &#x20;
-* Frameteq F-700&#x20;
-* Frameteq M-300&#x20;
-* Frameteq M-500&#x20;
-* Moveteq P-500 (WTW 120)&#x20;
-* Moveteq T-500 (WTW ZW)&#x20;
-* Moveteq W-100 (WTW 060)&#x20;
-* Stockteq D-300&#x20;
-* Stockteq U-530&#x20;
-* Stockteq V-300&#x20;
-* Storeteq H-300&#x20;
-* Storeteq H-700&#x20;
-* Wallteq M-120&#x20;
-* Wallteq M-340&#x20;
-* Wallteq M-310 insufill&#x20;
-* Holzstück&#x20;
-* Geometrischer Körper&#x20;
-* Kurve (TFB-261) Statisch&#x20;
-* CENTATEQ N-500 Customizable – WIP)&#x20;
-* CENTATEQ P-110 (Customizable)&#x20;
-* CENTATEQ P-210 (Customizable)&#x20;
-* CENTATEQ P-310 (Customizable – WIP)&#x20;
-* CENTATEQ S-800 (Customizable)&#x20;
-* CENTATEQ S-900 (Customizable)&#x20;
-* CENTATEQ T-300 (Customizable)&#x20;
-* DRILLTEQ C-300 (Customizable –WIP)&#x20;
-* DRILLTEQ D-510 (ABD260) (Customizable)&#x20;
-* DRILLTEQ L-200 (ABL XX\_YY) (Customizable –WIP)&#x20;
-* DRILLTEQ L-500 (ABL XX\_YY\_B\_F) (Customizable – WIP)&#x20;
-* DRILLTEQ L-800 (Customizable – WIP)&#x20;
-* DRILLTEQ V-500 (BHX) (Customizable – WIP)&#x20;
+* Beamteq B-660, Buildteq
+* A-570 (WTZ-120)
+* Buildteq F-500 (WTD)
+* Feedteq H-300
+* Frameteq F-500 
+* Frameteq F-700
+* Frameteq M-300
+* Frameteq M-500
+* Moveteq P-500 (WTW 120)
+* Moveteq T-500 (WTW ZW)
+* Moveteq W-100 (WTW 060)
+* Stockteq D-300
+* Stockteq U-530
+* Stockteq V-300
+* Storeteq H-300
+* Storeteq H-700
+* Wallteq M-120
+* Wallteq M-340
+* Wallteq M-310 insufill
+* Holzstück
+* Geometrischer Körper
+* Kurve (TFB-261) Statisch
+* CENTATEQ N-500 Customizable – WIP)
+* CENTATEQ P-110 (Customizable)
+* CENTATEQ P-210 (Customizable)
+* CENTATEQ P-310 (Customizable – WIP)
+* CENTATEQ S-800 (Customizable)
+* CENTATEQ S-900 (Customizable)
+* CENTATEQ T-300 (Customizable)
+* DRILLTEQ C-300 (Customizable –WIP)
+* DRILLTEQ D-510 (ABD260) (Customizable)
+* DRILLTEQ L-200 (ABL XX\_YY) (Customizable –WIP)
+* DRILLTEQ L-500 (ABL XX\_YY\_B\_F) (Customizable – WIP)
+* DRILLTEQ L-800 (Customizable – WIP)
+* DRILLTEQ V-500 (BHX) (Customizable – WIP)
 
-### **Miscellaneous**
+### Miscellaneous
 
 * Performance optimizations
-* Display mouse coordinates and grid origin(View > Coordinate System)&#x20;
-* Ability to choose a custom coordinate origin (via the floor plan tab)&#x20;
-* New customization option for Stackteq G-500/Loopteq C-500: Arch&#x20;
-* New customization option for Winkelübergabe: layers&#x20;
-* New customization option for Storeteq S-TLF: outer stands can be moved&#x20;
-* The following settings are now persistent across sessions:&#x20;
-* Grid on/off (Key G)&#x20;
-* Machine animations on/off globally&#x20;
-* PDF visible/invisible&#x20;
-* Measurements visible/invisible&#x20;
-* Overhead View on/off&#x20;
-* Walls visible/invisible&#x20;
-* Ceiling visible/invisible&#x20;
-* InfoPanel visible/invisible&#x20;
-* Snapping distance&#x20;
-* Language&#x20;
-* Custom coordinate origin&#x20;
-* Selected options in the save and load dialogue windows&#x20;
-* Ability to delete a PDF ground plan &#x20;
-* Multi-Copy (In the machine tab)&#x20;
-* Naming of machine width has been unified&#x20;
+* Display mouse coordinates and grid origin(View > Coordinate System)
+* Ability to choose a custom coordinate origin (via the floor plan tab)
+* New customization option for Stackteq G-500/Loopteq C-500: Arch
+* New customization option for Winkelübergabe: layers
+* New customization option for Storeteq S-TLF: outer stands can be moved
+* The following settings are now persistent across sessions:
+* Grid on/off (Key G)
+* Machine animations on/off globally
+* PDF visible/invisible
+* Measurements visible/invisible
+* Overhead View on/off
+* Walls visible/invisible
+* Ceiling visible/invisible
+* InfoPanel visible/invisible
+* Snapping distance
+* Language
+* Custom coordinate origin
+* Selected options in the save and load dialogue windows
+* Ability to delete a PDF ground plan 
+* Multi-Copy (In the machine tab)
+* Naming of machine width has been unified
 * Bugfixes and improvements
 
 ### Known Issues
 
-* 2D Path selection above machine. Selecting a Path icon while it´s over or covered by a machine in 2D view will only select the machine not the path. If you’d like to select the path in this version, please select it in the Path Tab Window or hide (h) the machine for that time.&#x20;
-* Video Tool Previous/Next cue. Has currently no effect while not running the timeline. &#x20;
-* Camera + F. If you select a virtual camera and press F to find the camera position in the 2D/3D and Hierarchy tab the position of the camera in the 3D view is too low.&#x20;
-* Path + F. It´s not possible currently to select a path/fence/room and press F to navigate to the selected path.&#x20;
-* From time to time it can happen, that you automatically “multi select” multiple machines in the left machine list window. We know that this issue already, but it is indeed not that easy to fix as it is a bug in the ui framework we use since day 1. The temp solution is, to drag the “width” align (horizontal size of the machine list tab) slider of the machine list tab and just move it to the left or right for just a few mm than the machines will be de- selected. We are working on this issue.&#x20;
+* 2D Path selection above machine. Selecting a Path icon while it´s over or covered by a machine in 2D view will only select the machine not the path. If you’d like to select the path in this version, please select it in the Path Tab Window or hide (h) the machine for that time.
+* Video Tool Previous/Next cue. Has currently no effect while not running the timeline. 
+* Camera + F. If you select a virtual camera and press F to find the camera position in the 2D/3D and Hierarchy tab the position of the camera in the 3D view is too low.
+* Path + F. It´s not possible currently to select a path/fence/room and press F to navigate to the selected path.
+* From time to time it can happen, that you automatically “multi select” multiple machines in the left machine list window. We know that this issue already, but it is indeed not that easy to fix as it is a bug in the ui framework we use since day 1. The temp solution is, to drag the “width” align (horizontal size of the machine list tab) slider of the machine list tab and just move it to the left or right for just a few mm than the machines will be de- selected. We are working on this issue.
 
 ## 1.30
 _2020-11-02_
