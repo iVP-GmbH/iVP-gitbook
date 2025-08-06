@@ -1,21 +1,30 @@
-# License Activation
+---
+title: License Activation
+description: How to activate the license for your iVP application.
+---
 
-To download the different iVP applications, you will first have to enter a valid key for the particular program.
+Before you can download an iVP application you will first have to enter a valid key for the particular program.
 
-## Step by step:
+## Choose your application
 
-**1.** In the "Applications" tab of the iVP Hub choose the application you want to activate on the left side.
+In the __Applications__ tab of the iVP Hub choose the application you want to activate on the left side.
 
-![](../../../.gitbook/assets/launcher_applications.jpg)
+![Choose your application](../../../.gitbook/assets/hub_application.png)
 
-**2.** Here, click on "Redeem license".
+## Redeem your license key
 
-![](../../../.gitbook/assets/launcher_redeem_key.jpg)
+To activate your iVP application click the __Redeem license key__ button.
 
-**3.** A "License key redemption" window will open where you can enter your activation key (the key should have a structure like "88FKH9-E01898-4FE396-47E441-570ACA-3FXB50").
+![Redeem your license key](../../../.gitbook/assets/hub_redeem_key.png)
+
+## Enter your license key
+
+A window titled __License key redemption__ will open where you can enter your license key. The structure of the key should look like __88FKH9-E01898-4FE396-47E441-570ACA-3FXB50__.
 
 ![](../../../.gitbook/assets/iVP\_launcher\_license\_key\_redemption.jpg)
 
-**4.** A click on "Redeem" will finish the activation progress. Now you are ready to [install the application](install-applications.md).
+## Activate your application
 
-![](../../../.gitbook/assets/iVP\_launcher\_license\_key\_success.jpg)
+To finish the activation process click __Redeem__ button. Now you are ready to [install the application](./install-applications.md).
+
+![Activate your application](../../../.gitbook/assets/hub_key_redemption_success.png)
