@@ -28,3 +28,31 @@ _2025-07-29_
 - Imported locked objects are now visible in the video-tool's preview window.
 - Rotated objects can now be moved along the world axis inside the 2D View.
 - Rotated objects don't change their position after scaling inside the 2D View.
+
+
+## Version 2507.2
+_2025-08-06_
+
+### Added
+
+- New asset: Nest (universal)
+- Asset update: Cardboard (Labels, max. Thickness to 7mm)
+- Asset update: Labelling system (axes movement possible)
+- Machine update: DRILLTEQ H-230 (CE version)
+- Machine update: DRILLTEQ H-610 (footprint) for some users
+- Machine update: SORTEQ R-200 and SORTEQ H-600 (tranpsort adjustments)
+- Machine update: STORETEQ P-X00 (custom height for 2nd level)
+
+### Changed
+
+- There is a new Cloud Panel for uploads of plan files to the iVP Cloud.
+- The localizations are detached from the built software and will be updated via the iVP Cloud.
+- The position of selected virtual cameras can be changed by a combination of holding the right mouse button while using the WASD-controls on the keyboard inside the corresponding panel (3D View or Video Tool Preview).
+
+### Fixed
+
+- Path labels are not visible through objects anymore.
+- Sub-elements of machines use only the local space if moved.
+- Text Objects display properly in 2D view.
+- Deprecated PDF-options are removed from the menu. Still they are backwards compatible and will show if you load an old file.
+- Path points do not reset anymore when their position is changed via the Properties Panel.
