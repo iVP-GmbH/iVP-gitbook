@@ -1,29 +1,38 @@
-# Install Applications
+---
+title: Install Applications
+description: How to install your iVP applications.
+---
 
-All iVP applications can be installed and [updated](installation-updates.md) directly from the iVP Hub window in a few steps. However, it is necessary to [activate the license of the particular program](license-activation.md) first.
+All iVP applications can be installed and [updated](./installation-updates.md) directly from the iVP Hub window in a few steps. Before you can do so make sure to [activate the license of the particular program](./license-activation.md) first.
 
-## Install an application:
+## Select an application
 
-**1.** Got to the "Application" tab of the iVP Hub and click on the application you want to install.
+Got to the __Application__ tab of the iVP Hub and click on the application you want to install.
 
-![](../../../.gitbook/assets/launcher_applications.jpg)
+![Select an application](../../../.gitbook/assets/hub_application.png)
 
-**2.** If you already have [activated the application](license-activation.md), click on the "Install" button in the bottom right corner of the window. If a grey "Redeem license" button is visible instead of the "Install" button that means this application was not [activated](license-activation.md) yet.
+## Start the installation
 
-![](../../../.gitbook/assets/launcher_install.jpg)
+To start the installation process click the __Install__ button in the bottom right corner of the window.
 
-**3.**  Now you can specify where the application will be installed and if you want to have a link to it in your windows start menu. Then all that is required to start the installation process is to click on the "Install" button.
+![Start the installation](../../../.gitbook/assets/hub_install_application.png)
 
 {% hint style="info" %}
-Although you can choose the installation folder freely, we recommend you to use the default installation path.
+If you see a grey __Redeem license__ button instead of the blue __Install__ button it means that this application has not been [activated](./license-activation.md) yet.
 {% endhint %}
 
-![](../../../.gitbook/assets/iVP\_launcher\_installation\_directory.jpg)
+## Installation settings
 
-**4.** As soon as you started the process, the installation window will close. Moreover, you can now track the download and installation progress in the hub window.
+You can then specify where the application will be installed and if you want to have a link to it in your windows start menu. To proceed click the __Install__ button.
 
-![](../../../.gitbook/assets/launcher_downloading_application.jpg)
+![Installation settings](../../../.gitbook/assets/hub_install_directory.png)
 
-From here, no action is needed. However, it is possible to pause the download if necessary.
+{% hint style="warning" %}
+Although you can choose the installation folder freely we recommend you to use the default installation path.
+{% endhint %}
 
-![](../../../.gitbook/assets/launcher_downloading_application_pause_stop.jpg)
+## Installation process
+
+As soon as you start the installation process the window will close and you will be back at the iVP Hub main window where you can track the progress of the download and installation process and decide to pause or stop it.
+
+![Installation process](../../../.gitbook/assets/hub_installation_progress.png)
