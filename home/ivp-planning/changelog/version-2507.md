@@ -4,7 +4,7 @@ description: Changelog of version 2507
 ---
 
 ## Version 2507.1
-_2025-07-28_
+_2025-07-29_
 
 ### Added
 
@@ -17,7 +17,6 @@ _2025-07-28_
 - New asset: Turning belt (MTD 100)
 - New asset: Power Line Transport
 - New asset: Labelling system (universal)
-- New asset: Nest (universal)
 - New asset: Workpiece (universal)
 - Machine update: CENTATEQ P-210 (24-fold tool changer)
 - Machine update: CENTATEQ P-100 (CE version, 5-axis machine)
