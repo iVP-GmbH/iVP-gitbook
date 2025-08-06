@@ -48,6 +48,7 @@ _2025-08-06_
 - There is a new Cloud Panel for uploads of plan files to the iVP Cloud.
 - The localizations are detached from the built software and will be updated via the iVP Cloud.
 - The position of selected virtual cameras can be changed by a combination of holding the right mouse button while using the WASD-controls on the keyboard inside the corresponding panel (3D View or Video Tool Preview).
+- 3D Rotation inside the 3D View is now available for all objects.
 
 ### Fixed
 
@@ -56,3 +57,4 @@ _2025-08-06_
 - Text Objects display properly in 2D view.
 - Deprecated PDF-options are removed from the menu. Still they are backwards compatible and will show if you load an old file.
 - Path points do not reset anymore when their position is changed via the Properties Panel.
+- Some logics of the 2D View have been updated.
