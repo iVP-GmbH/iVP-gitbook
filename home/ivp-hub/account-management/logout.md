@@ -13,6 +13,6 @@ Click on your account name (usually your e-mail address) in the top right corner
 
 ## Logout
 
-Click __Log out__.
+Inside the accoutn menu click __Log out__.
 
 ![](../../../.gitbook/assets/hub_logout.png)
