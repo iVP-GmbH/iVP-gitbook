@@ -38,8 +38,6 @@ _2025-08-06_
 - New asset: Nest (universal)
 - Asset update: Cardboard (Labels, max. Thickness to 7mm)
 - Asset update: Labelling system (axes movement possible)
-- Machine update: DRILLTEQ H-230 (CE version)
-- Machine update: DRILLTEQ H-610 (footprint) for some users
 - Machine update: SORTEQ R-200 and SORTEQ H-600 (tranpsort adjustments)
 - Machine update: STORETEQ P-X00 (custom height for 2nd level)
 
