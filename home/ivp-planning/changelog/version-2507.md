@@ -36,8 +36,9 @@ _2025-08-06_
 ### Added
 
 - New asset: Nest (universal)
-- Asset update: Cardboard (Labels, max. Thickness to 7mm)
+- Asset update: Cardboard box (universal) (default size and labels, max. thickness to 7mm)
 - Asset update: Labelling system (axes movement possible)
+- Asset update: Workpiece (universal) (default size updated)
 - Machine update: SORTEQ R-200 and SORTEQ H-600 (tranpsort adjustments)
 - Machine update: STORETEQ P-X00 (custom height for 2nd level)
 
