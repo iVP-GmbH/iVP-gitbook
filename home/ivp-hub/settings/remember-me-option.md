@@ -1,25 +1,18 @@
-# "Remember me"
+---
+title: Remember me
+description: How to save your login credentials locally to login more conveniently to the iVP Hub.
+---
 
-If you have the "Remember me" option active, your login credentials will be saved and you will be logged in automatically when starting the hub.
+If you activate the __Remember me__ option your login credentials will be saved and you will be logged in automatically when starting the hub.
 
-## Turning "Remember me" on:
+## Activate Remember me
 
-To stay logged in in the future, tick the "Remember me" checkbox in the login window when you start the hub.
+Start the iVP Hub and check the __Remember me__ option.
 
-![](../../../.gitbook/assets/iVP\_launcher\_login\_remember\_user.jpg)
+![Activate Remember me](../../../.gitbook/assets/hub_login_remember_me.png)
 
-## Turning "Remember me" off:
+## Deactivate Remember me
 
-Through the fact that the login window will not be available when "Remember me" is active, it is necessary to toggle the options through the settings.
+Since the login window will not be available when __Remember me__ is active you have to access the option via the Settings Panel to deactivate it. You can find the checkbox inside the __General__ tab.
 
-**1.** Click on your account name (usually your e-mail address) in the top right corner of the hub window. A list of available options will appear. Now click on "Settings".
-
-![](../../../.gitbook/assets/launcher_mail.jpg)
-
-![](../../../.gitbook/assets/launcher_settings.jpg)
-
-**2.** The "General" tabof the settings will open where you can find the checkbox that can be used to toggle the "Remember me" option.
-
-![](../../../.gitbook/assets/iVP\_launcher\_settings\_general\_tab.jpg)
-
-![](../../../.gitbook/assets/iVP\_launcher\_settings\_general\_remember\_user.jpg)
+![Deactivate Remember me](../../../.gitbook/assets/hub_remember_me.png)
