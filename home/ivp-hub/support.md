@@ -1,13 +1,18 @@
-# Support
+---
+title: Support
+description: How to access the iVP Helpdesk from the iVP Hub and get support.
+---
 
-It is possible to open the [main page of this online manual ](../../)directly out of the iVP Launcher interface. To do so, take the following steps:
+It is possible to open the __iVP Helpdesk__ directly out of the iVP Hub interface.
 
-**1.** Open the "Application" tab.
+## Open the Hub
 
-![](../../.gitbook/assets/iVP_launcher_application_tab.png)  
+Open the __Application__ tab of the iVP Hub.
 
-**2.** Click on the "Options" button in the bottom right corner and choose "Support" from the appearing menu.
+![Open the Hub](../../.gitbook/assets/hub_application.png)
+ 
+## Open the iVP Helpdesk
 
-![](../../.gitbook/assets/iVP_launcher_application_options.png) 
+In the bottom right corner click the grey __Options__ button and choose __Support__ from the options menu.
 
-![](../../.gitbook/assets/iVP_launcher_application_options_menu_support.png)
+![Open the iVP Helpdesk](../../.gitbook/assets/hub_support.png)
