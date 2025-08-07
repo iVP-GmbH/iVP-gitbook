@@ -52,7 +52,7 @@ __Please note:__ Rotating objects can cause distortions for the projected image 
 - The position of selected virtual cameras can be changed by a combination of holding the right mouse button while using the WASD-controls on the keyboard inside the corresponding panel.
 
 {% hint style="warning" %}
-Please note: Currently available only for the 3D View (3D-Ansicht). The preview of the Video Tool will follow soon.
+__Please note:__ Currently available only for the 3D View (3D-Ansicht). The preview of the Video Tool will follow soon.
 {% endhint %}
 
 - There is a new Cloud Panel for uploads of plan files to the iVP Cloud.
