@@ -43,10 +43,20 @@ _2025-08-06_
 
 ### Changed
 
+- 3D Rotation inside the 3D View is now available for all objects.
+
+{% hint style="warning" %}
+__Please note:__ Rotating objects can cause distortions for the projected image in the 2D View (2D-Ansicht). 
+{% endhint %}
+
+- The position of selected virtual cameras can be changed by a combination of holding the right mouse button while using the WASD-controls on the keyboard inside the corresponding panel.
+
+{% hint style="warning" %}
+Please note: Currently available only for the 3D View (3D-Ansicht). The preview of the Video Tool will follow soon.
+{% endhint %}
+
 - There is a new Cloud Panel for uploads of plan files to the iVP Cloud.
 - The localizations are detached from the built software and will be updated via the iVP Cloud.
-- The position of selected virtual cameras can be changed by a combination of holding the right mouse button while using the WASD-controls on the keyboard inside the corresponding panel (3D View or Video Tool Preview).
-- 3D Rotation inside the 3D View is now available for all objects.
 
 ### Fixed
 
