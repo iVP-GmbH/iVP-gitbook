@@ -18,7 +18,7 @@
       * [Remove Installations](home/ivp-hub/application-management/remove-installations.md)
     * [Settings](home/ivp-hub/settings/README.md)
       * [Hub Language](home/ivp-hub/settings/launcher-language.md)
-      * ["Remember me"](home/ivp-hub/settings/remember-me-option.md)
+      * [Remember me](home/ivp-hub/settings/remember-me-option.md)
       * [Show Full Username](home/ivp-hub/settings/show-full-username.md)
       * [P2P Connections](home/ivp-hub/settings/p2p-connections.md)
       * [Hide Hub In System Tray](home/ivp-hub/settings/hide-launcher-in-system-tray.md)
