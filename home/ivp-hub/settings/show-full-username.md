@@ -1,19 +1,18 @@
-# Show Full Username
+---
+title: Show Full Username
+description: How to hide/unhide your username from the iVP Hub main view.
+---
 
-By default, parts of the username / account e-mail address are masked with "\*" symbols to enhance security. However, it is possible to show the full name (e.g. if you share your computer with other users that have similar e-mail addresses).
+By default parts of the username / account e-mail address are masked with "\*" symbols to enhance security. It is possible however to show the full user name (e.g. if you share your computer with other users that have similar e-mail addresses).
 
-## Step by step:
+## Open the settings
 
-**1.** Open the settings page by clicking on your account name / e-mail address in the top right corner of the window, followed by a click on "Settings".
+Open the settings panel by clicking on your account name / e-mail address in the top right corner of the window and select the __Settings__.
 
-![](../../../.gitbook/assets/launcher_mail.jpg)
+![Open the settings](../../../.gitbook/assets/hub_settings.png)
 
-![](../../../.gitbook/assets/launcher_settings.jpg)
+## Hide/Unhide your username
 
-**2.** Open the "Account" tab by clicking on it.
+Inside the __Account__ tab in the left column of the Settings Panel you can find the option to hide/unhide your user name by activating/deactivating the __Hide email__ option.
 
-![](../../../.gitbook/assets/iVP\_launcher\_settings\_account\_tab.jpg)
-
-**3.** Here, you can disable the \*\*\*-masking by unchecking the "Hide email" option.
-
-![](../../../.gitbook/assets/iVP\_launcher\_settings\_account\_hide\_email.jpg)
+![Hide/Unhide your username](../../../.gitbook/assets/hub_hide_email.png)
