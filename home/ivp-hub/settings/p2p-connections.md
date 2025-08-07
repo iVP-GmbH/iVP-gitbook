@@ -1,19 +1,18 @@
-# P2P Connections
+---
+title: P2P Connections
+description: How to activate/deactivate the P2P connections.
+---
 
-By default, the iVP Hub will work as P2P ("Peer-to-peer") application which obtains its data primarily from other computers in the same network instead of a server. This brings speed and stability advantages but can be disabled if necessary.
+By default the iVP Hub will work as a P2P ("Peer-to-peer") application which obtains its data primarily from other computers in the same network instead of a server. This brings speed and stability advantages but can be disabled if necessary.
 
-## Disabling the P2P mode:
+## Open the settings
 
-**1.** Open the settings page by clicking on your account name / e-mail address in the top right corner of the window, followed by a click on "Settings".
+Open the settings panel by clicking on your account name / e-mail address in the top right corner of the window and select the __Settings__.
 
-![](../../../.gitbook/assets/launcher_mail.jpg)
+![Open the settings](../../../.gitbook/assets/hub_settings.png)
 
-![](../../../.gitbook/assets/launcher_settings.jpg)
+## Disable the P2P connections
 
-**2.** Go to the "General" tab.
+Inside the __General__ tab in the left column of the Settings Panel you can find the option to enable/disable the P2P connections by activating/deactivating the __Use a P2P connection__ option.
 
-![](../../../.gitbook/assets/iVP\_launcher\_settings\_general\_tab.jpg)
-
-**3.** Uncheck the "Use a P2P connection" option.
-
-![](../../../.gitbook/assets/iVP\_launcher\_settings\_general\_use\_p2p.jpg)
+![Disable the P2P connections](../../../.gitbook/assets/hub_p2p.png)
