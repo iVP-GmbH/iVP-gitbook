@@ -1,11 +1,12 @@
-# Settings
+---
+title: Settings
+description: The main settings of the iVP Hub
+---
 
-The iVP Launcher can be tweaked in different ways - it is possible to [save login data](remember-me-option.md), [change the language](launcher-language.md) and more. You can open the "Settings" page in two steps:
+The iVP Hub can be configured in different ways - it is possible to [change the language](./launcher-language.md), [save your login data](./remember-me-option.md) or configure the Hub's behaviour.
 
-**1.** Open the settings page by clicking on your account name / e-mail address in the top right corner of the window.
+## Open the settings
 
-![](../../../.gitbook/assets/launcher_mail.jpg)
+Open the settings panel by clicking on your account name / e-mail address in the top right corner of the window and select the __Settings__.
 
-**2.** Click on "Settings".
-
-![](../../../.gitbook/assets/launcher_settings.jpg)
+![Open the settings](../../../.gitbook/assets/hub_settings.png)
