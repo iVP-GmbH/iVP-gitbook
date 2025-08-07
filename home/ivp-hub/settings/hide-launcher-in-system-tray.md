@@ -1,23 +1,22 @@
-# Hide Hub In System Tray
+---
+title: Hide Hub in System Tray
+description: How to keep the hub running in the background and hide it with an icon in the Windows System Tray.
+---
 
-The iVP Hub can be minimized in the system tray to keep it running in the background without the need to have it opened in the windows taskbar all the time.
+The iVP Hub can be minimized in the Windows System Tray to keep it running in the background without the need to have it opened in the windows taskbar all the time.
 
 {% hint style="warning" %}
-The hub will only be minimized to the system tray if its window is minimized. If the window is closed, it will **not** be minimized to the system tray.
+The iVP Hub will only be minimized to the System Tray if its window is minimized. If the window is closed it will **not** be minimized to the System Tray.
 {% endhint %}
 
-## Step by step:
+## Open the settings
 
-**1.** Open the settings page by clicking on your account name / e-mail address in the top right corner of the window, followed by a click on "Settings".
+Open the settings panel by clicking on your account name / e-mail address in the top right corner of the window and select the __Settings__.
 
-![](../../../.gitbook/assets/launcher_mail.jpg)
+![Open the settings](../../../.gitbook/assets/hub_settings.png)
 
-![](../../../.gitbook/assets/launcher_settings.jpg)
+## Hide in System Tray
 
-**2.** Go to the "General" tab.
+Inside the __General__ tab in the left column of the Settings Panel you can find the option to hide/unhide the iVP Hub in the System Tray by activating/deactivating the __Hide iVP Hub in tray__ option.
 
-![](../../../.gitbook/assets/iVP\_launcher\_settings\_general\_tab.jpg)
-
-**3.** Tick the "Hide hub in tray" option.
-
-![](../../../.gitbook/assets/iVP\_launcher\_settings\_general\_systray.jpg)
+![Hide in System Tray](../../../.gitbook/assets/hub_system_tray.png)
