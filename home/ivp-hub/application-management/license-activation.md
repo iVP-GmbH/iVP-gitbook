@@ -21,7 +21,7 @@ To activate your iVP application click the __Redeem license key__ button.
 
 A window titled __License key redemption__ will open where you can enter your license key. The structure of the key should look like __88FKH9-E01898-4FE396-47E441-570ACA-3FXB50__.
 
-![](../../../.gitbook/assets/iVP\_launcher\_license\_key\_redemption.jpg)
+![Enter your license key](../../../.gitbook/assets/hub_key_redemption.png)
 
 ## Activate your application
 
