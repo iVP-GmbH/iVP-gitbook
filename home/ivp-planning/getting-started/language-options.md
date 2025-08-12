@@ -1,5 +1,8 @@
-# Language Options
+---
+title: Language Setting
+description: How to set your preferred language.
+---
 
-The language of the user interface can be changed by clicking on **Settings -> Language** in the text menu of the top bar. Currently you can choose between German and English.
+![Language Setting](../../../.gitbook/assets/planning_settings_language.png)
 
-![](../../../.gitbook/assets/iVP_Planning_GettingStarted_LanguageOptions.png)
+The language of the user interface can be changed by clicking on __Settings__ in the text menu of the top bar, hovering above __Language__ to display the submenu and choosing your preferred language. Currently you can choose between German and English.
