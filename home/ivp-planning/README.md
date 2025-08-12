@@ -30,7 +30,7 @@ iVP Planning offers you the chance to collaborate with your team and clients, di
 __Multi 3D Library__   
 iVP Planning offers you the possibility of an unlimited library of 3D models to choose from. Alongside a synchronized asset library with 3D models specifically created by iVP for your business you can extend your asset database by importing your own models.
 
-### Our mission
+## Our mission
 
 iVP Planning is a virtual planning and collaborative software designed with the focus of creating an intuitive and easy to use tool to assist architects, project managers, planners, investors and clients to achieve the best possible outcome for their projects. It helps architectural stakeholders to collaborate and plan projects down to the finest detail, no matter their physical locations. Tackling large scale projects is challenging, especially when many stakeholders are involved. Communication is always a problem leading to increased downtime and the inability to achieve the best results.
 
