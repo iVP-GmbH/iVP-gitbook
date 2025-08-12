@@ -67,4 +67,6 @@ The iVP Helpdesk provides you with step-by-step guides, tips and information to 
 **Would you like to dive deeper into the features of iVP and make better use of it in your company?**  
 Do you prefer personalized support, individual tutorials, or workshops tailored to your needs?  
 Feel free to contact our [support team](mailto:support@i-vp.dev) at any time.
+
+You can also find and reach us at [LinkedIn](https://www.linkedin.com/company/ivp-intelligent-virtual-platform/), [Facebook](https://www.facebook.com/pg/intelligentVirtualPlatform/) or [Twitter](https://twitter.com/iVPsoftware).
 {% endhint %}

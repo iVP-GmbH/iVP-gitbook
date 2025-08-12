@@ -35,11 +35,3 @@ iVP Planning offers you the possibility of an unlimited library of 3D models to 
 iVP Planning is a virtual planning and collaborative software designed with the focus of creating an intuitive and easy to use tool to assist architects, project managers, planners, investors and clients to achieve the best possible outcome for their projects. It helps architectural stakeholders to collaborate and plan projects down to the finest detail, no matter their physical locations. Tackling large scale projects is challenging, especially when many stakeholders are involved. Communication is always a problem leading to increased downtime and the inability to achieve the best results.
 
 iVP Planning solves this problem by simplifying complex tasks and providing a platform where project stakeholders can collaborate in real-time with automated direct 2D/3D/VR/AR visualization. With iVP Planning architects, planners, clients, and investors can achieve faster planning, visualization, collaboration, and evaluation, which results in increased project efficiency and stakeholders' satisfaction.
-
-## Tutorial videos
-
-In addition to our Helpdesk we set up a YouTube Channel where we regularly publish tutorials, feature demonstrations and release information.
-
-{% embed url="https://www.youtube.com/embed/videoseries?list=PLlzoGkRUR67houzn5F5ejD3R-kQrDcps5" %}
-iVP Planning Tutorial Playlist
-{% endembed %}
