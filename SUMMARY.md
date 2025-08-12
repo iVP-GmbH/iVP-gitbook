@@ -26,7 +26,6 @@
     * [Support](home/ivp-hub/support.md)
     * [iVP News](home/ivp-hub/ivp-news.md)
   * [iVP Planning](home/ivp-planning/README.md)
-    * [General](home/ivp-planning/general.md)
     * [Getting Started](home/ivp-planning/getting-started/README.md)
       * [Login](home/ivp-planning/getting-started/login.md)
       * [Language Options](home/ivp-planning/getting-started/language-options.md)
