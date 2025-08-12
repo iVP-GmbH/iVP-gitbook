@@ -28,7 +28,7 @@
   * [iVP Planning](home/ivp-planning/README.md)
     * [Getting Started](home/ivp-planning/getting-started/README.md)
       * [Login](home/ivp-planning/getting-started/login.md)
-      * [Language Options](home/ivp-planning/getting-started/language-options.md)
+      * [Language Settings](home/ivp-planning/getting-started/language-options.md)
       * [Graphic Settings](home/ivp-planning/getting-started/graphic-settings.md)
       * [Saving Projects](home/ivp-planning/getting-started/saving-projects.md)
       * [Loading Projects](home/ivp-planning/getting-started/loading-projects.md)
