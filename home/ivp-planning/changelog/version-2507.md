@@ -67,3 +67,19 @@ __Please note:__ Currently available only for the 3D View (3D-Ansicht). The prev
 - Deprecated PDF-options are removed from the menu. Still they are backwards compatible and will show if you load an old file.
 - Path points do not reset anymore when their position is changed via the Properties Panel.
 - Some logics of the 2D View have been updated.
+
+
+## Version 2507.3
+
+### Added
+
+- Asset update: Load Carrier (universal) (New customizations: Seed & Length-Width-Ratio)
+
+### Changed
+
+- The calculation of distances between more than one Load Carrier (universal) now takes the sizes of the loaded goods into account, not only the sizees of the carriers.
+- Files containing previews versions of the Load Carrier (universal) will be automatically converted according to the logic above.
+
+### Fixed
+
+- Behaviour of overhead textures in the 2D View has been optimized - especially in combination with rotation and scale.
