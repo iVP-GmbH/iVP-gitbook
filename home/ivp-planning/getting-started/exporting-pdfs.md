@@ -1,26 +1,38 @@
-# Exporting PDFs
+---
+title: Export PDFs
+description: How to export your iVP Planning project to a PDF file.
+---
 
-in iVP it is possible to export the current project as a PDF that can be used for illustration or as a basis for further planning. If desired, the 2D-view of the room or fabric hall can furthermore be complemented by a auto-generated, complete list of all machines and objects.
+With iVP Planning it is possible to export the 2D View of your currently opened project to a PDF file that can be used for illustration or as a basis for further planning. To do so click on __File__ in the text menu of the top bar, hover over __Export__ and choose __PDF__ from the displayed list.
 
-![](../../../.gitbook/assets/Test2.jpg)
+![Export PDFs](../../../.gitbook/assets/planning_export.png)
 
-## Exporting PDFs step by step
+## Export PDF settings
 
-{% embed url="https://youtu.be/MuLt94b64O8?list=PLlzoGkRUR67houzn5F5ejD3R-kQrDcps5&t=203" %}
-How to import and export PDFs (german)
-{% endembed %}
+A new window will open to configure the PDF file and its export process.
 
-The export process can be started by clicking on **File -> PDF - > Export PDF**.
+![Export PDF settings](../../../.gitbook/assets/planning_export_pdf.png)
 
-![](../../../.gitbook/assets/iVP\_pdf\_export\_pfd\_menu\_entry.jpg)
+### PPI
 
-&#x20;A new window will open that makes it possible to specify how the PDF will be exported. The following adjustments are possible:
+This value defines the resolution of the exported PDF file.
 
-* **PPI:** this value defines the resolution of the exported PDF
-* **Scale:** this value defines the scale of the PDF to import, e.g. 1:100 or 1:50
-* **Font size:** if the "Append machine list" option is checked, this value will define the font size of the list entries
-* **Render ground plan:** if checked the PDF [floor plan](../user-interface/the-floor-plan.md) of the project will be rendered during the export and will therefore be visible in the exported PDF
-* **Append machine list:** if checked a list of all machines and objects in the project will be appended as separate pages to the PDF (this list will also include the specification of [custom machines](../machines/customizable-machines.md))
-* **Open when finished:** if checked the PDF will be opened in the default PDF viewer right after the export process finished
+### Scale
 
-![](../../../.gitbook/assets/iVP_Planning_GettingStarted_ExportPDFs.png)
+This value defines a scale being applied to the exported PDF file, e.g. 1:100 or 1:50.
+
+### Font size
+
+If the __Append machine list__ option is checked this value will define the font size of the list entries.
+
+### Render ground plan
+
+If this option is checked the PDF [floor plan](../user-interface/the-floor-plan.md) of the project will be rendered during the export process and will therefore be visible in the exported PDF file.
+
+### Append machine list
+
+If this option is checked a list of all machines and objects in the project will be part of the exported PDF file.
+
+### Open when finished
+
+If this option is checked the exported PDF file will be opened with your default PDF viewer right after the export process.
