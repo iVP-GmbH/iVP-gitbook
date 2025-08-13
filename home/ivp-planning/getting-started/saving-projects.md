@@ -7,9 +7,9 @@ With iVP Planning it is possible to save the current project including all the a
 
 ## Save your project
 
-A currently opened project can be saved by clicking on __File__ in the text menu of the top bar and choosing __Save__. If the project was never saved before a new window of your system's file browser will open to let you choose a location and a file name for saving your project.
+A currently opened project can be saved by clicking on __File__ in the text menu of the top bar and choosing __Save__. If the project has never been saved before a new window of your system's file browser will open to let you choose a location and a file name for saving your project.
 
-Saving a project that has been saved before always overwrites the old file. If you want to save a copy of the current project without loosing the previous versions use __Save As__.
+To save a project that has been saved before always overwrites the old file. If you want to save a copy of the current project without overwriting the already existing project file use the __Save As__ option.
 
 ![Save your project](../../../.gitbook/assets/planning_save.png)
 

@@ -3,13 +3,13 @@ title: Import PDF files
 description: How to import a PDF file to your iVP Planning project.
 ---
 
-To import a PDF click on __File__ in the text menu of the top bar and choose __Import__. A new window will open to specify the location and additional configurations for the PDF file you want to import.
+To import a PDF click on __File__ in the text menu of the top bar and choose __Import__. An imported PDF file will be treated as any other object of your project and sorted into the project's hierarchy - meaning it can be selected, manipulated and deleted from there.
 
 ![Import PDF files](../../../.gitbook/assets/planning_import.png)
 
 ## Configure the PDF import
 
-Before iVP Planning imports a PDF file you can configure how it will be processed and loaded into your project.
+A new window will open to specify the location and additional configurations for the PDF file you want to import.
 
 ![Configure the PDF import](../../../.gitbook/assets/planning_import_pdf.png)
 

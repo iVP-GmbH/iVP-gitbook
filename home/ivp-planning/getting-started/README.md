@@ -12,5 +12,5 @@ In addition to our Helpdesk we set up a [YouTube Channel](https://www.youtube.co
 For a quick introduction we can recommend to have a look at this iVP YouTube tutorial.
 
 {% embed url="https://youtu.be/MuLt94b64O8" %}
-How to save or load projects and import/export PDFs (german)
+How to save or load projects and import PDFs (german)
 {% endembed %}
