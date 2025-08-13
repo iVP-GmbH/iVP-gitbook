@@ -20,11 +20,3 @@ It is also possible to use a [shortcut](../settings/input-manager.md) to save th
 {% hint style="warning" %}
 If you want to share a saved file with colleagues or customers make sure they have the required access rights for the used machines. Machine and object models are __not included__ in the save files themselves!
 {% endhint %}
-
-<!--
-We can recommend to have a look at this iVP YouTube tutorial for a quick introduction.
-
-{% embed url="https://youtu.be/MuLt94b64O8" %}
-How to save or load Projects and import PDFs (german)
-{% endembed %}
--->
