@@ -1,5 +1,5 @@
 ---
-title: Saving Projects
+title: Save Projects
 description: How to save your projects with iVP Planning.
 ---
 

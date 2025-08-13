@@ -1,5 +1,5 @@
 ---
-title: Loading Projects
+title: Load Projects
 description: How to load a project saved with iVP Planning.
 ---
 

@@ -32,7 +32,7 @@
       * [Graphic Settings](home/ivp-planning/getting-started/graphic-settings.md)
       * [Save Projects](home/ivp-planning/getting-started/saving-projects.md)
       * [Load Projects](home/ivp-planning/getting-started/loading-projects.md)
-      * [Camera Movement](home/ivp-planning/getting-started/moving-the-camera.md)
+      * [Move the Camera](home/ivp-planning/getting-started/moving-the-camera.md)
       * [Import PDFs](home/ivp-planning/getting-started/importing-pdfs.md)
       * [Export PDFs](home/ivp-planning/getting-started/exporting-pdfs.md)
       * [Delete PDFs](home/ivp-planning/getting-started/delete-pdfs.md)
