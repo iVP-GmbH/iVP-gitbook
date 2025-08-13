@@ -1,21 +1,41 @@
-# Importing PDFs
+---
+title: Import PDF files
+description: How to import a PDF file to your iVP Planning project.
+---
 
-To import a PDF, click on **File -> Import**. A new window will open that allows you to navigate to the folder containing the PDF you want to import.
+To import a PDF click on __File__ in the text menu of the top bar and choose __Import__. A new window will open to specify the location and additional configurations for the PDF file you want to import.
 
-![](../../../.gitbook/assets/pdf_import_pdf_menu_entry.jpg)
+![Import PDF files](../../../.gitbook/assets/planning_import.png)
 
-Before iVP actually processes the PDF and imports it, you will be asked to set some parameters that specify how it will be loaded. The options are:
+## Configure the PDF import
 
-* **Page Size**: Changes the size of the imported PDF, you can either choose from a preset or manually customize the size of the file. Additionally, you can use the dimensions saved in the PDF.
+Before iVP Planning imports a PDF file you can configure how it will be processed and loaded into your project.
 
-* **Width Original File**: Displays the original width of the file, which can be adjusted if the file size isn't derived from it. Also changes the overall width and scale of the PDF when modified.
+![Configure the PDF import](../../../.gitbook/assets/planning_import_pdf.png)
 
-* **Scale**: Adjusts the size ratio of the imported file (e.g. 50:1), thereby proportionately altering its dimensions.
+### Page Size
 
-* **Resolution**: Adjusts the resolution of the imported file. Note that higher resolution makes sharper lines, but might impact performance.
+This option changes the size of the imported PDF file. You can either choose from a preset or provide a custom size for the file. You can also use the dimensions saved within the PDF file.
 
-* **Name**: Modifies the name of the imported object.
+### Width Original File
 
-* **Add to Library**: Saves the imported item to your [personal library](../user-interface/library-panel.md).
+This option displays the original width of the given PDF file in mm. It can be adjusted if the file size is not derived from the PDF file itself. In addition you can modify the overall width and scale of the PDF file to be imported.
 
-![](../../../.gitbook/assets/pdf_import_pdf_options.jpg)
+### Scale
+
+This option adjusts the size ratio of the imported PDF file (e.g. 50:1) so you can proportionately alter its dimensions.
+
+### Resolution
+This option adjusts the resolution of the imported PDF file.
+
+{% hint style="info" %}
+Note that a higher resolution creates sharper lines but might impact the performance in a negative way.
+{% endhint %}
+
+### Name
+
+With this option you can modify the name of the imported PDF file that will be used inside the [Hierarchy Panel](../user-interface/hierarchy-panel.md).
+
+### Add to Library
+
+If you check this option the imported PDF file will be saved to your [personal library](../user-interface/library-panel.md).
