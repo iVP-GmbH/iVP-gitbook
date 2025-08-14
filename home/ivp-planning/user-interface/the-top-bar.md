@@ -11,52 +11,26 @@ The top bar is located at the top of the screen and contains a text menu with su
 
 The text menu contains five submenus: __File__, __View__, __Settings__, __Windows__ and __Help__.
 
+
 ## File
 
 The __File__ menu offers you basic file manipulation like loading, saving, importing, exporting and quitting.
 
-### New
-Create a new project.
-
-### Open
-[Load](../getting-started/loading-projects.md) an existing project.
-
-### Open Recent
-Select a project you recently worked on from a list to load it.
-
-### Open autosave directory
-Open the autosave directory to go back to or recover a previous state of your project by loading on of the autosaved files.
-
-### Save
-[Save](../getting-started/saving-projects.md) the current project to a .plan file.
-
-### Save as
-[Save a copy](../getting-started/saving-projects.md) of the current project to a .plan file.
-
-### Import
-Import external data that is not part of your library yet.
-
-{% hint style="info" %}
+|     |     |
+| --- | --- |
+| __New__ | Create a new project. |
+| __Open__ | [Load](../getting-started/loading-projects.md) an existing project. |
+| __Open Recent__ | Select a project you recently worked on from a list to load it. |
+| __Open autosave directory__ | Open the autosave directory to go back to or recover a previous state of your project by loading on of the autosaved files.|
+| __Save__ | [Save](../getting-started/saving-projects.md) the current project to a .plan file. |
+| __Save as__ | [Save a copy](../getting-started/saving-projects.md) of the current project to a .plan file. |
+| __Import__ | Import external data that is not part of your library yet. {% hint style="info" %}
 Next to [importing PDF files](../getting-started/importing-pdfs.md) iVP Planning supports a lot of common 3D-/CAD-data formats to load external assets into your project.
-{% endhint %}
+{% endhint %} |
+| __Export__ | Export your project in several ways. __Video__ -> [Export a video](../advanced-tools/video-export-tool.md) of your project according to your own settings. __Selection as DXF__ -> [Export a DXF file](../advanced-tools/dxf-tool.md) of your current selection. |
+| __PDF__ | Interact with PDF files. __Export PDF__ [Export a PDF file](../getting-started/exporting-pdfs.md) of your project. |
+| __Quit__ | Close iVP Planning. |
 
-### Export
-Export your project in several ways.
-
-#### Video
-[Export a video](../advanced-tools/video-export-tool.md) of your project according to your own settings.
-
-#### Selection as DXF
-[Export a DXF file](../advanced-tools/dxf-tool.md) of your current selection.
-
-### PDF
-Interact with PDF files.
-
-#### Export PDF
-[Export a PDF file](../getting-started/exporting-pdfs.md) of your project.
-
-### Quit
-Close iVP Planning.
 
 ## View
 
@@ -84,6 +58,7 @@ Hide/Unhide the walls of the [floor plan](./the-floor-plan.md) in the 3D View.
 ### Ceiling
 Hide/Unhide the ceiling of the floor plan in the 3D View.
 
+
 ## Settings
 
 The __Settings__ menu gives you access to the language and other general settings of iVP Planning.
@@ -93,6 +68,7 @@ The __Settings__ menu gives you access to the language and other general setting
 
 ### Settings
 Open the [Settings Panel](./settings-panel.md).
+
 
 ## Window
 
@@ -125,6 +101,7 @@ Open the [Markups Panel](./markups-panel.md).
 ### Cloud
 Open the [Cloud Panel](./cloud-panel.md).
 
+
 ## Help
 
 The __Help__ menu gives you access to bug reporting, the documentation and the version informations of iVP Planning.
@@ -138,13 +115,15 @@ Open the [main page](/home/ivp-planning/README.md) of this documentation.
 ### About
 Open a window that gives you information of your currently used version of iVP Planning. You can also access the [changelog](../changelog/README.md) and information about licenses of 3rd party libraries and software used by iVP Planning.
 
-## Icons
+# User menu
+
+The user menu on the right side of the Top Bar gives you quick access to the [__layout presets__](./layouts.md), the project __layers__, __bug reporting__, the __documentation__, the __about__ dialog and your __user account__.
 
 |     |     |
 | --- | --- |
-| ![Layout Presets](../../../.gitbook/assets/planning_top_bar_layout_presets.png) | __Layout Presets__  Opens a small submenu that lets you choose a [window layout](./layouts.md). |
-| ![Layers](../../../.gitbook/assets/planning_top_bar_layers.png) | __Layers__  Opens a submenu where you can show or hide layers. |
-| ![Report an Error](../../../.gitbook/assets/planning_top_bar_report_an_error.png) | __Report an Error__  Opens the [bug report panel](../bug-reporting.md). |
-| ![Help, FAQ and Documentation](../../../.gitbook/assets/planning_top_bar_help_faq_documentation.png) | __Help, FAQ and Documentation__  Opens the [main page](/README.md) of this documentation. |
-| ![About iVP](../../../.gitbook/assets/planning_top_bar_about_ivp.png) | __About iVP__  Opens the about dialog, containing the [changelog](../changelog/) and the [3rd Party Licenses](../open-source-licensing.md). |
-| ![User Account](../../../.gitbook/assets/planning_top_bar_user_account.png) | __User Account__  Opens a small submenu where you can log out and see your user profile. |
+| ![Layout Presets](../../../.gitbook/assets/planning_top_bar_layout_presets.png) | __Layout Presets__  opens a small submenu that lets you choose a [window layout](./layouts.md). |
+| ![Layers](../../../.gitbook/assets/planning_top_bar_layers.png) | __Layers__  opens a submenu where you can activate/deactivate different layers of your project. |
+| ![Report an Error](../../../.gitbook/assets/planning_top_bar_report_an_error.png) | __Report an Error__  opens the [bug report panel](../bug-reporting.md). |
+| ![Help, FAQ and Documentation](../../../.gitbook/assets/planning_top_bar_help_faq_documentation.png) | __Help, FAQ and Documentation__  opens the [main page](/README.md) of this documentation. |
+| ![About iVP](../../../.gitbook/assets/planning_top_bar_about_ivp.png) | __About iVP__  opens the about dialog, containing the [changelog](../changelog/) and the [3rd Party Licenses](../open-source-licensing.md). |
+| ![User Account](../../../.gitbook/assets/planning_top_bar_user_account.png) | __User Account__  opens a small submenu where you can log out and see your user profile. |
