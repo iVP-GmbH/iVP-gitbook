@@ -75,7 +75,7 @@ __Please note:__ Currently available only for the 3D View (3D-Ansicht). The prev
 
 - Asset update: Load Carrier (universal) (New customizations: Seed & Length-Width-Ratio)
 - Asset update: Belt Conveyor (TFB 300) can now be mirrored
-- New Feature: Colorize added for 3D objects.
+- New Feature: Colorize feature added for 3D objects.
 
 ### Changed
 
