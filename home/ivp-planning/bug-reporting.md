@@ -1,6 +1,6 @@
 # Bug Reporting
 
-No software is perfect. However, we at iVP are doing our best to fix every bug or problem our users run into. For that reason, you can easily report bugs without leaving iVP Planner.
+No software is perfect. However, we at iVP are doing our best to fix every bug or problem our users run into. For that reason, you can easily report bugs without leaving iVP Planning.
 
 {% hint style="info" %}
 If the issue is severe (project crashes, freezes or similar) it could be that your local software installation is corrupted. To fix this problem or to verify that this is not the case, you can try to [repair your installation](../ivp-hub/application-management/repair-installations.md) via the [iVP Launcher](../ivp-hub/).
