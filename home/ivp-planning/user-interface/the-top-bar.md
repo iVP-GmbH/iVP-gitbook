@@ -29,91 +29,66 @@ The __File__ menu offers you basic file manipulation like loading, saving, impor
 | __PDF__ | Interact with PDF files. __Export PDF__ [Export a PDF file](../getting-started/exporting-pdfs.md) of your project. |
 | __Quit__ | Close iVP Planning. |
 
-{% hint style="info" %}Next to [importing PDF files](../getting-started/importing-pdfs.md) iVP Planning supports a lot of common 3D-/CAD-data formats to load external assets into your project.{% endhint %}
+{% hint style="info" %}
+Next to [importing PDF files](../getting-started/importing-pdfs.md) iVP Planning supports a lot of common 3D-/CAD-data formats to load external assets into your project.
+{% endhint %}
 
 
 ## View
 
 The __View__ menu lets you configure basic settings of your [2D View](./the-2d-view.md) and [3D-View](./the-3d-view.md).
 
-### Grid
-Toggle the [grid ](./the-grid.md) of the 2D View.
-
-### Coordinate System
-Toggle the [coordinate system](./coordinate-system.md) that acts as orientation in the 2D View.
-
-### Animations
-Toggle all animations globally without overwriting the animation settings for [customizable machines](../machines/customizable-machines.md).
-
-### Overhead View
-Toggle between a snapshot-like representation or the current live view of your project inside the 2D View.
+|     |     |
+| --- | --- |
+| __Grid__ | Toggle the [grid ](./the-grid.md) of the 2D View. |
+| __Coordinate System__ | Toggle the [coordinate system](./coordinate-system.md) that acts as orientation in the 2D View. |
+| __Animations__ | Toggle all animations globally without overwriting the animation settings for [customizable machines](../machines/customizable-machines.md). |
+| __Overhead View__ | Toggle between a snapshot-like representation or the current live view of your project inside the 2D View. |
+| __Walls__ | Hide/Unhide the walls of the [floor plan](./the-floor-plan.md) in the 3D View. |
+| __Ceiling__ | Hide/Unhide the ceiling of the floor plan in the 3D View. |
 
 {% hint style="info" %}
 You can deactivate the __Overhead View__ to increase the performance of iVP Planning.
 {% endhint %}
-
-### Walls
-Hide/Unhide the walls of the [floor plan](./the-floor-plan.md) in the 3D View.
-
-### Ceiling
-Hide/Unhide the ceiling of the floor plan in the 3D View.
 
 
 ## Settings
 
 The __Settings__ menu gives you access to the language and other general settings of iVP Planning.
 
-### Language
-[Set the language](../getting-started/language-options.md) of iVP Planning.
-
-### Settings
-Open the [Settings Panel](./settings-panel.md).
+|     |     |
+| --- | --- |
+| __Language__ | [Set the language](../getting-started/language-options.md) of iVP Planning. |
+| __Settings__ | Open the [Settings Panel](./settings-panel.md). |
 
 
 ## Window
 
 The __Window__ menu lets you set the basic layout of your user interface and hels you access the panels for the different features of iVP Planning.
 
-### Layout
-Open a submenu to choose between five preset [window layouts](./layouts.md): __Default__, __Presentation__, __Simple__, __3D__ or __2D__.
-
-### Hierarchy
-Open the [Hierarchy Panel](./hierarchy-panel.md) (open and docked by default).
-
-### Library
-Open the [Library Panel](./library-panel.md) (open and docked by default).
-
-### Properties
-Open the [Properties Panel](./the-properties-panel.md) (open and docked by default).
-
-### Camera List
-Open the [Camera List Panel](./camera-list-panel.md).
-
-### Video
-Open the [Video Panel](./virtual-camera-panel.md).
-
-### Settings
-Open the [Settings Panel](./settings-panel.md).
-
-### Markups
-Open the [Markups Panel](./markups-panel.md).
-
-### Cloud
-Open the [Cloud Panel](./cloud-panel.md).
+|     |     |
+| --- | --- |
+| __Layout__ | Open a submenu to choose between five preset [window layouts](./layouts.md): __Default__, __Presentation__, __Simple__, __3D__ or __2D__. |
+| __Hierarchy__ | Open the [Hierarchy Panel](./hierarchy-panel.md) (open and docked by default). |
+| __Library__ | Open the [Library Panel](./library-panel.md) (open and docked by default). |
+| __Properties__ | Open the [Properties Panel](./the-properties-panel.md) (open and docked by default).|
+| __Camera List__ | Open the [Camera List Panel](./camera-list-panel.md). |
+| __Video__ | Open the [Video Panel](./virtual-camera-panel.md). |
+| __Settings__ | Open the [Settings Panel](./settings-panel.md). |
+| __Markups__ | Open the [Markups Panel](./markups-panel.md). |
+| __Cloud__ | Open the [Cloud Panel](./cloud-panel.md). |
 
 
 ## Help
 
 The __Help__ menu gives you access to bug reporting, the documentation and the version informations of iVP Planning.
 
-### Report a bug
-Open the [bug report](../bug-reporting.md) dialog.
+|     |     |
+| --- | --- |
+| __Report a bug__ | Open the [bug report](../bug-reporting.md) dialog. |
+| __Documentation__ | Open the [main page](/home/ivp-planning/README.md) of this documentation. |
+| __About__ | Open a window that gives you information of your currently used version of iVP Planning. You can also access the [changelog](../changelog/README.md) and information about licenses of 3rd party libraries and software used by iVP Planning. |
 
-### Documentation
-Open the [main page](/home/ivp-planning/README.md) of this documentation.
-
-### About
-Open a window that gives you information of your currently used version of iVP Planning. You can also access the [changelog](../changelog/README.md) and information about licenses of 3rd party libraries and software used by iVP Planning.
 
 # User menu
 
