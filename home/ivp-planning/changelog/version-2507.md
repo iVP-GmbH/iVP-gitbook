@@ -74,6 +74,8 @@ __Please note:__ Currently available only for the 3D View (3D-Ansicht). The prev
 ### Added
 
 - Asset update: Load Carrier (universal) (New customizations: Seed & Length-Width-Ratio)
+- Asset update: Belt Conveyor (TFB 300) can now be mirrored
+- New Feature: Colorize added for 3D objects.
 
 ### Changed
 
@@ -82,4 +84,4 @@ __Please note:__ Currently available only for the 3D View (3D-Ansicht). The prev
 
 ### Fixed
 
-- Behaviour of overhead textures in the 2D View has been optimized - especially in combination with rotation and scale.
+- Behaviour of overhead textures in the 2D View has been optimized - especially in combination with rotation, scale and PDF files.
