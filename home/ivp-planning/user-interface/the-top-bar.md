@@ -24,9 +24,7 @@ The __File__ menu offers you basic file manipulation like loading, saving, impor
 | __Open autosave directory__ | Open the autosave directory to go back to or recover a previous state of your project by loading on of the autosaved files.|
 | __Save__ | [Save](../getting-started/saving-projects.md) the current project to a .plan file. |
 | __Save as__ | [Save a copy](../getting-started/saving-projects.md) of the current project to a .plan file. |
-| __Import__ | Import external data that is not part of your library yet. {% hint style="info" %}
-Next to [importing PDF files](../getting-started/importing-pdfs.md) iVP Planning supports a lot of common 3D-/CAD-data formats to load external assets into your project.
-{% endhint %} |
+| __Import__ | Import external data that is not part of your library yet. {% hint style="info" %}Next to [importing PDF files](../getting-started/importing-pdfs.md) iVP Planning supports a lot of common 3D-/CAD-data formats to load external assets into your project.{% endhint %} |
 | __Export__ | Export your project in several ways. __Video__ -> [Export a video](../advanced-tools/video-export-tool.md) of your project according to your own settings. __Selection as DXF__ -> [Export a DXF file](../advanced-tools/dxf-tool.md) of your current selection. |
 | __PDF__ | Interact with PDF files. __Export PDF__ [Export a PDF file](../getting-started/exporting-pdfs.md) of your project. |
 | __Quit__ | Close iVP Planning. |
