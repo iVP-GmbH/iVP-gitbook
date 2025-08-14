@@ -1,60 +1,142 @@
-# Top Bar
+---
+title: Top Bar
+description: Get to know the top bar, its menus and its features.
+---
 
-The top bar is located at the top of the screen and contains a text menu for various purposes as well as shortcuts in the form of different buttons. All elements are explained in detail below.
+The top bar is located at the top of the screen and contains a text menu with submenus for various purposes on the left side as well as a button menu with general features on the right side.
 
-![](../../../.gitbook/assets/X_iVP_Planning_TopBar.jpg)
+![Top Bar](../../../.gitbook/assets/planning_top_bar.png)
 
-## Text menu:
+# Text menu
 
-The text menu contains four submenus:
+The text menu contains five submenus: __File__, __View__, __Settings__, __Windows__ and __Help__.
 
-* File:
-  * _**New:**_ creates a new project
-  * _**Open:**_ [loads a project](../getting-started/loading-projects.md)
-  * _**Open Recent:**_ opens recent projects
-  * _**Open autosave directory:**_ opens the autosave directory  
-  * _**Save:**_ [saves the current project](../getting-started/saving-projects.md)
-  * _**Save as:**_ [saves a copy of the current project](../getting-started/saving-projects.md)
-  * _**Import:**_ [Imports data such as PDFs](../getting-started/importing-pdfs.md) that will be used as floor plan overlay
-  *   Export:
+## File
 
-      * _**Video:**_ [exports a Video](../getting-started/exporting-videos.md) according to your own settings
-      * _**Selection as DXF:**_ [exports in dxf format](../getting-started/exporting-dxf.md) for further processing in CAD or CNC systems.
-  *   PDF:
+The __File__ menu offers you basic file manipulation like loading, saving, importing, exporting and quitting.
 
-      * _**Export PDF:**_ [exports a PDF](../getting-started/exporting-pdfs.md) of the current project
-      * _**Delete PDF:**_ [deletes the PDF](../getting-started/delete-pdfs.md) that currently used as floor play overlay
-      
-  * _**Quit:**_ closes the program
+### New
+Create a new project.
 
-*   View:
+### Open
+[Load](../getting-started/loading-projects.md) an existing project.
 
-    * _**Grid:**_ toggles the [grid ](the-grid.md)that is visible as floor play overlay in the [2D View](the-2d-view.md)
-    * _**Coordinate System:**_ toggles the [coordinate system](the-grid.md) that acts as orientation in the [2D View](the-2d-view.md)
-    * _**Animations:**_ toggles all animations globally without overwriting the animation values set for [customizable machines](../machines/customizable-machines.md)
-    * _**PDF Floor Plan:**_ toggles the visibility of the [PDF](../getting-started/importing-pdfs.md) that acts as an overlay for the [floor plan](the-floor-plan.md)
-    * _**Overhead View:**_ toggles between a "snapshot" view and a live view in the [2D View](the-2d-view.md)
-    * _**Walls:**_ toggles the visibility of walls in the [3D-View](the-3d-view.md)
-    * _**Ceiling:**_ toggles the visibility of the ceiling in the [3D-View](the-3d-view.md)
+### Open Recent
+Select a project you recently worked on from a list to load it.
 
-* Settings:
-  * _**Language:**_ [sets the language](../getting-started/language-options.md) of the software
-  * _**Settings:**_ opens the [settings panel](settings-panel.md)
+### Open autosave directory
+Open the autosave directory to go back to or recover a previous state of your project by loading on of the autosaved files.
 
-* Windows:
-  * _**Layout:**_ Opens a small submenu that lets you choose a [window layout](layouts.md)
-  * _**Hierarchy:**_ opens the [hierarchy panel](the-machine-list.md), opened and docked by default
-  * _**Library:**_ opens the [library panel](library-panel.md), opened and docked by default
-  * _**Properties:**_ opens the [properties panel](the-info-panel.md), opened and docked by default
-  * _**Camera List:**_ opens the [camera list panel](camera-list-panel.md)
-  * _**Video:**_ opens the [video panel](virtual-camera-panel.md)
-  * _**Settings:**_ opens the [settings panel](settings-panel.md)
-  * _**Markups:**_ opens the [markups panel](markups-panel.md)
+### Save
+[Save](../getting-started/saving-projects.md) the current project to a .plan file.
 
-* Help:
-  * _**Report a bug:**_ opens the [bug report dialog](../bug-reporting.md)
-  * _**Documentation:**_ opens the [main page](../../) of this documentation
-  * _**About:**_ opens the about dialog
+### Save as
+[Save a copy](../getting-started/saving-projects.md) of the current project to a .plan file.
+
+### Import
+Import external data that is not part of your library yet.
+
+{% hint style="info" %}
+Next to [importing PDF files](../getting-started/importing-pdfs.md) iVP Planning supports a lot of common 3D-/CAD-data formats to load external assets into your project.
+{% endhint %}
+
+### Export
+Export your project in several ways.
+
+#### Video
+[Export a video](../advanced-tools/video-export-tool.md) of your project according to your own settings.
+
+#### Selection as DXF
+[Export a DXF file](../advanced-tools/dxf-tool.md) of your current selection.
+
+### PDF
+Interact with PDF files.
+
+#### Export PDF
+[Export a PDF file](../getting-started/exporting-pdfs.md) of your project.
+
+### Quit
+Close iVP Planning.
+
+## View
+
+The __View__ menu lets you configure basic settings of your [2D View](./the-2d-view.md) and [3D-View](./the-3d-view.md).
+
+### Grid
+Toggle the [grid ](./the-grid.md) of the 2D View.
+
+### Coordinate System
+Toggle the [coordinate system](./coordinate-system.md) that acts as orientation in the 2D View.
+
+### Animations
+Toggle all animations globally without overwriting the animation settings for [customizable machines](../machines/customizable-machines.md).
+
+### Overhead View
+Toggle between a snapshot-like representation or the current live view of your project inside the 2D View.
+
+{% hint style="info" %}
+You can deactivate the __Overhead View__ to increase the performance of iVP Planning.
+{% endhint %}
+
+### Walls
+Hide/Unhide the walls of the [floor plan](./the-floor-plan.md) in the 3D View.
+
+### Ceiling
+Hide/Unhide the ceiling of the floor plan in the 3D View.
+
+## Settings
+
+The __Settings__ menu gives you access to the language and other general settings of iVP Planning.
+
+### Language
+[Set the language](../getting-started/language-options.md) of iVP Planning.
+
+### Settings
+Open the [Settings Panel](./settings-panel.md).
+
+## Window
+
+The __Window__ menu lets you set the basic layout of your user interface and hels you access the panels for the different features of iVP Planning.
+
+### Layout
+Open a submenu to choose between five preset [window layouts](./layouts.md): __Default__, __Presentation__, __Simple__, __3D__ or __2D__.
+
+### Hierarchy
+Open the [Hierarchy Panel](./hierarchy-panel.md) (open and docked by default).
+
+### Library
+Open the [Library Panel](./library-panel.md) (open and docked by default).
+
+### Properties
+Open the [Properties Panel](./the-properties-panel.md) (open and docked by default).
+
+### Camera List
+Open the [Camera List Panel](./camera-list-panel.md).
+
+### Video
+Open the [Video Panel](./virtual-camera-panel.md).
+
+### Settings
+Open the [Settings Panel](./settings-panel.md).
+
+### Markups
+Open the [Markups Panel](./markups-panel.md).
+
+### Cloud
+Open the [Cloud Panel](./cloud-panel.md).
+
+## Help
+
+The __Help__ menu gives you access to bug reporting, the documentation and the version informations of iVP Planning.
+
+### Report a bug
+Open the [bug report](../bug-reporting.md) dialog.
+
+### Documentation
+Open the [main page](/home/ivp-planning/README.md) of this documentation.
+
+### About
+Open a window that gives you information of your currently used version of iVP Planning. You can also access the [changelog](../changelog/README.md) and information about licenses of 3rd party libraries and software used by iVP Planning.
 
 ## Icons
 

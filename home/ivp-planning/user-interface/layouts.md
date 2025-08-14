@@ -21,6 +21,10 @@ The text on the layout button will change depending on the currently active layo
 The default layout displays all the panels necessary for planning and quick [measurements](../advanced-tools/path-tool.md#measurements).
 {% endtab %}
 
+<!-- 
+A default or general purpose layout with the necessary panels to work effectively on your project in 2D and 3D.
+-->
+
 {% tab title="Presentation layout" %}
 ![](../../../.gitbook/assets/iVP_Planning_UserInterface_Layout_PresentationLayout.png)
 
