@@ -37,7 +37,7 @@ The toolbar is located at the top of the panel and contains several buttons that
 
 # Camera movement
 
-To move the camera __click and hold the middle mouse button__ while hovering over either the [2D View](../user-interface/the-2d-view.md) or the [3D View](../user-interface/the-3d-view.md) and __move the mouse__ to adjust the views on your project.
+To move the camera __click and hold the middle mouse button__ while hovering over the 2D View and __move the mouse__ to adjust the camera's position.
 
 To __zoom__ in or out use your __mousewheel__ while hovering over either the 2D View or the 3D View.
 
