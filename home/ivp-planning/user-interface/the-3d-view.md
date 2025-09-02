@@ -3,7 +3,7 @@ title: 3D View
 description: The 3D View gives you a three-dimensional representation of your concept. Analogue to the 2D View you can perform several transformations to edit the setup of your objects.
 ---
 
-![](../../../.gitbook/assets/iVP_Planning_UserInterface_3DPanel_3DPanel.png)
+![3D View](../../../.gitbook/assets/planning_3d_view.png)
 
 It is possible to [place](../machines/first-steps-with-3d-object.md), [move](../machines/move-objects.md), [rotate](../machines/rotate-objects.md) and [scale](../machines/scale-objects.md) machines and objects like in the 2D View. Furthermore the 3D View offers functions to take [screenshots](../advanced-tools/creating-screenshots.md) or to work with [virtual cameras](./virtual-camera-panel.md) for [recording videos](../advanced-tools/virtual-cameras.md).
 
