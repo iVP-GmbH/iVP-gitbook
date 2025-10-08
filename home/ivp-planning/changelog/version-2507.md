@@ -3,6 +3,10 @@ title: Version 2507
 description: Changelog of version 2507
 ---
 
+{% embed url="https://vimeo.com/1125436707" %}
+iVP Planning Feature Spotlight 2507
+{% endembed %}
+
 ## Version 2507.1
 _2025-07-29_
 
@@ -85,3 +89,40 @@ __Please note:__ Currently available only for the 3D View (3D-Ansicht). The prev
 ### Fixed
 
 - Behaviour of overhead textures in the 2D View has been optimized - especially in combination with rotation, scale and PDF files.
+
+
+## Version 2507.4
+
+### Added
+
+- New machine: STORETEQ H-100
+- New asset: Roller Conveyor (TFR 561)
+- New asset: Strap Conveyor (TFZ 531)
+- New asset: Angle Transfer (TFW 510)
+- New feature: Drag & Drop for cameras inside the camera list of the video tool is now possible.
+- Machine update: FRAMETEQ F-500 (Accessories/Additional modules).
+- Machine update: FRAMETEQ F-700 (Accessories/Additional modules).
+- Machine update: BEAMTEQ B-660.
+- Asset update: Line switch (TFZ 531) now behaves correctly when its values change.
+- Asset update: Line switch (TFZ 531) now behaves correctly when its values change.
+- Asset update: Cardboard Box (universal) (0410 and 0429 updated).
+- Asset update: Load Carrier (universal) (random values can be locked/unlocked)
+- Asset update: Nest (universal)
+- Asset update: Power Line Transport
+- Asset update: Workpiece (universal)
+- Asset update: Turning Belt (MTD 100)
+- Asset update: Carcase errector (MTA 200)
+- Feature update: 3D colorization has been improved.
+
+### Fixed
+
+- Machine names and model numbers will be mirrored and scaled correctly when using horizontal/vertical mirroring of objects.
+- Certain models were not clickable.
+
+
+## 2507.5
+
+### Fixed
+
+- 3D Colorization settings have been improved.
+- 2D View texture overlays have been improved.
