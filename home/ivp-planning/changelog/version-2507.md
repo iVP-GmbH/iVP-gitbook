@@ -74,6 +74,7 @@ __Please note:__ Currently available only for the 3D View (3D-Ansicht). The prev
 
 
 ## Version 2507.3
+_2025-08-14_
 
 ### Added
 
@@ -92,6 +93,7 @@ __Please note:__ Currently available only for the 3D View (3D-Ansicht). The prev
 
 
 ## Version 2507.4
+_2025-09-02_
 
 ### Added
 
@@ -120,7 +122,8 @@ __Please note:__ Currently available only for the 3D View (3D-Ansicht). The prev
 - Certain models were not clickable.
 
 
-## 2507.5
+## Version 2507.5
+_2025-10-08_
 
 ### Fixed
 
