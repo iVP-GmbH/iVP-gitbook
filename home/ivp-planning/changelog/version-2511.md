@@ -48,10 +48,3 @@ _2025-11-06_
 
 - Keytags / Alias 
 	- Added new standard option to use Keytags as Alias in search
-
-### Bugfixes
-
-- SORTEQ H-600 rack height
-- Cardboard (Universal) - Materialisation
-- Wrong rotation of rotated machines in the 2D-view
-- 3D Selection resets material changes of customizations
