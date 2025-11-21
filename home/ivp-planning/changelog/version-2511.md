@@ -48,3 +48,30 @@ _2025-11-06_
 
 - Keytags / Alias 
 	- Added new standard option to use Keytags as Alias in search
+
+
+## Version 2511.4
+_2025-11-24_
+
+### New Machines
+- Turner (TTL100)
+- Stack (Universal)
+- Control Terminal (Universal)
+
+### Machine & Asset Updates
+- DRILLTEQ H-610 (Logistics variants)
+- Chain lift magazine (TPK400)
+- Igelpuffer (TPI200) Fences
+- Control Terminal (Universal) (Type 4 added)
+
+### Features
+- Performance Update for dynamic models
+    - Roller Conveyor (TFR561)
+    - Strap Conveyor (TFZ531)
+    - Angle Transfer (TFW510)
+    - Belt Conveyor (TFB300)
+- Automatic color improvement during import of .glb files
+
+### Bugfixes
+- BUILDTEQ A-500 (scaling for 12000mm setting corrected)
+- Visualization of textures for 3D imports stabilized (.stl, .fbx)
