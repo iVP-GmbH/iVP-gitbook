@@ -55,14 +55,18 @@ _2025-11-24_
 
 ### New Machines
 - Turner (TTL100)
-- Stack (Universal)
 - Control Terminal (Universal)
+- Venjakob models
+    - 10-12 pieces for specific user groups
 
 ### Machine & Asset Updates
-- DRILLTEQ H-610 (Logistics variants)
+- DRILLTEQ H-610
+    - Logistics variants for specific user groups
 - Chain lift magazine (TPK400)
-- Igelpuffer (TPI200) Fences
-- Control Terminal (Universal) (Type 4 added)
+- Igelpuffer (TPI200)
+    - added fences
+- Control Terminal (Universal)
+    - added Type 4
 
 ### Features
 - Performance Update for dynamic models
@@ -73,5 +77,8 @@ _2025-11-24_
 - Automatic color improvement during import of .glb files
 
 ### Bugfixes
-- BUILDTEQ A-500 (scaling for 12000mm setting corrected)
+- BUILDTEQ A-500
+    - scaling for 12000mm setting corrected
 - Visualization of textures for 3D imports stabilized (.stl, .fbx)
+- Display correct model count inside the Library Panel
+- 2D overhead image does not disappear during copy of models
