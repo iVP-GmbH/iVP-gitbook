@@ -4,7 +4,7 @@ description: The changelogs for the releases of iVP Planning.
 ---
 
 {% content-ref url="version-2512.md" %}
-[Version 2512](./version-2512.md)
+[Version 2606](./version-2606.md)
 {% endcontent-ref %}
 
 {% content-ref url="version-2511.md" %}
