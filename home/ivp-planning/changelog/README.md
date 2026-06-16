@@ -3,6 +3,7 @@ title: Changelog
 description: The changelogs for the releases of iVP Planning.
 ---
 
+
 {% content-ref url="version-2606.md" %}
 [Version 2606](./version-2606.md)
 {% endcontent-ref %}
