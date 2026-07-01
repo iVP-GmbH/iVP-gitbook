@@ -116,7 +116,3 @@ _2026-07-01_
 ### New Machines
 - Signal Light
 - Central Signal Light System
-
-
-Thank you for planning with iVP.
-__Your iVP Team__
